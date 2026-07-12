@@ -1,1615 +1,1615 @@
-[Caspian Andrews] - 3175
-[Noah Hawkins] - 3176
-[Mitchell Jakavicius] - 3177
-[Thomas Giess] - 3178
-[Tarek Al Samaraie] - 3179
-[Lukas Magro] - 3180
-[Charlie Jones] - 3181
-[James Whitfield] - 3182
-[Micah Hamilton] - 3184
-[Isaiah Nalatu] - 3185
-[Harry Duffy] - 3186
-[William Howe] - 3187
-[Jesse Coates] - 3189
-[Finn O'Keefe] - 3190
-[Matthew Doyle] - 3192
-[Maximus Fox] - 3193
-[Aydan McGuire] - 3194
-[Hudson McKay] - 3196
-[Alexander McKenzie] - 3197
-[Tristan Dass] - 3198
-[Izak Devlin] - 3199
-[Jabez Yohannan] - 3203
-[Ronan McMahon] - 3208
-[Marc Millet] - 3214
-[Aiden Mason] - 3218
-[Zachary Wylie] - 3221
-[Evan Parker] - 3222
-[Rhys Plenderleith] - 3224
-[Dashiell Crutcher] - 3225
-[Cooper Aurisch] - 3226
-[Mitchell Nicholas] - 3228
-[Angus Stewart] - 3231
-[Tiakina Bateman] - 3232
-[Angus Ryan] - 3233
-[Isaac Madden] - 3238
-[Daniel Pryce-Davies] - 3239
-[Elijah Murdoch] - 3240
-[Tori Maccarone] - 3241
-[Eli Russell] - 3243
-[Henry Mattiske] - 3246
-[Jesse Burgess] - 3247
-[Jacob Brind] - 3248
-[Byron Emery] - 3249
-[Ethan Esaias] - 3250
-[William Mortimer] - 3254
-[Angus Turton] - 3255
-[Lincoln Gower] - 3259
-[Ryan Colsen] - 3260
-[Joel Tregenza] - 3261
-[Thomas Richardson] - 3262
-[Sam Innes] - 3263
-[Cooper Smith] - 3264
-[Levi Rynn] - 3265
-[Alexander Rynn] - 3266
-[Jack Davis] - 3267
-[Will O'Sullivan] - 3269
-[Harry Jones] - 3271
-[Zane Fletcher] - 3272
-[Harry Parchimowicz] - 3273
-[Charlie James] - 3274
-[Patrick Whitby] - 3275
-[Henry Kingston] - 3276
-[Adam Burgess] - 3277
-[Benjamin Rowley] - 3278
-[Maxx Warnecke] - 3279
-[George Croughton-Lloyd] - 3280
-[Adam Mitchell] - 3281
-[Liam Scully] - 3282
-[Joshua Sundhoo] - 3283
-[Aidan O'Regan] - 3284
-[Cael Armitage] - 3285
-[Joshua Manton] - 3286
-[Samuel Migus] - 3288
-[Harrison Hinwood] - 3289
-[Brock O'Sullivan] - 3291
-[Henry Moore] - 3292
-[Lewis Tatti] - 3293
-[Rowan Harris] - 3295
-[James Black] - 3296
-[William Miles] - 3298
-[Fletcher Sherlock] - 3299
-[Eddisen Vaughan] - 3300
-[Joel Peterson] - 3301
-[Oliver Ruggieri-Green] - 3302
-[Thomas Neville] - 3303
-[Flynn Kettle] - 3304
-[Lachlan MacPherson] - 3305
-[Thomas Cook] - 3306
-[Keegan Webb] - 3307
-[Alexander Blum] - 3308
-[Marley Pike] - 3311
-[Jake Hackett] - 3313
-[Kahu Evans] - 3315
-[Brodie Mulhearn] - 3316
-[Maxwell Gilbey] - 3317
-[Cameron Payne] - 3319
-[William Finch] - 3320
-[Bailey Macks] - 3321
-[Samuel Austin] - 3322
-[Aiden Pett] - 3323
-[Max McKay] - 3325
-[Harry Lusk] - 3326
-[Jack MacPherson] - 3329
-[Alex O'Malley] - 3330
-[Oliver Allen] - 3331
-[Benjamin Whiteside] - 3334
-[Benjamin Warburton] - 3336
-[George Gilleland] - 3337
-[Sebastian Traves] - 3338
-[Oliver Slater] - 3339
-[Luca McDonald] - 3340
-[Reilly Wade-Jayathungage] - 3341
-[Owen Colavito-Lynch] - 3342
-[Jamie Stringfellow] - 3343
-[Ayden Collins] - 3344
-[Riley Carsburg] - 3345
-[Dylan Maskell] - 3346
-[Mitchell McKay] - 3347
-[Max Terecans] - 3348
-[Marley Hanlon] - 3349
-[William Kinsella] - 3351
-[Samuel Noud] - 3352
-[Finn Mahon] - 3353
-[Patrick Clarke] - 3354
-[Logan Potter] - 3355
-[Callum Morrison] - 3356
-[Nicholas Bent] - 3357
-[Connor Flanagan] - 3358
-[Tristan Nicholls] - 3360
-[Alex Foltak] - 3361
-[Connor Inggs] - 3362
-[Hamish Page] - 3366
-[Seth Unigarro Canning] - 3367
-[Cooper Chan] - 3369
-[Jaxson Inch] - 3370
-[Drew Gardiner] - 3371
-[Charlie Burton] - 3372
-[Harper Cooper] - 3373
-[Thomas Hoarau] - 3374
-[Angus Gemmell] - 3375
-[Emanuel Dickison] - 3376
-[Max Kilroy] - 3377
-[Luke McDonald] - 3601
-[Adam Toohey] - 3604
-[Matthew Phillimore] - 3605
-[Patrick Weedon] - 3753
-[Samuel Sherlock] - 3754
-[Trent Kearney] - 3755
-[Matthew Barnett-Pickering] - 3756
-[Jude Hooper] - 3758
-[Sergio Ruggieri-Green] - 3759
-[Alexander Larman] - 3761
-[Zac Taylor] - 3762
-[Nate Taylor] - 3763
-[Isaac Van Stam] - 3764
-[Isaac Delporte] - 3765
-[Thomas Hewitt] - 3767
-[Aidan Downey] - 3768
-[Patrick Bothwell] - 3769
-[Isaac Cooper] - 3770
-[Liam Whitelaw] - 3771
-[Samuel Perez] - 3772
-[Edward Hennessy] - 3774
-[Luke Thirgood] - 3777
-[Lachlan Tuck] - 3780
-[Hayden Grainger] - 3781
-[Aidan Morgan] - 3782
-[Wil Stewart] - 3785
-[Thomas Sloan] - 3786
-[Blake Keogh] - 3787
-[William Heinemann] - 3788
-[Lachlan Laws] - 3789
-[Billy Martin] - 3791
-[Elijah Pastourel] - 3792
-[Jett Bassett] - 3793
-[Preston Jenkins] - 3794
-[Aidan McLaren] - 3795
-[Brady Polinski] - 3796
-[Noah Chilcott] - 3799
-[Jacob Barclay] - 3800
-[Lucas Wilson] - 3801
-[Ryan Hutchings] - 3802
-[Lucas Poole] - 3803
-[Thomas Dawson] - 3804
-[Hayden Craddock] - 3805
-[Campbell Staiger] - 3806
-[Adam Hogan] - 3807
-[Matthew Hahne] - 3808
-[Kahu Davis-Raeli] - 3809
-[Samuel Dufourq] - 3810
-[Aiden McNaught] - 3811
-[Darcy Harman] - 3812
-[Sebastian Pastoors] - 3813
-[Hamish Ferguson] - 3814
-[Felix Maddocks] - 3815
-[Filippo Ruggieri-Green] - 3816
-[Rhodes De Clercq] - 3817
-[Sol De Clercq] - 3818
-[Harry Hahn] - 3820
-[Liam Goves] - 3822
-[Peeter Sheppard] - 3823
-[Ethan Volker] - 3824
-[Ryan Purdy] - 3825
-[Jack Alcorn] - 3828
-[Oliver Bilek] - 3829
-[Daniel Mulugetta] - 3835
-[Brayden Simes] - 3836
-[James Dale] - 3837
-[Samuel Connell] - 3842
-[Connor Mitchell] - 3845
-[William Huxtable] - 3846
-[William Wood] - 3847
-[Lachlan Searle] - 3848
-[Lachlan Gresham] - 3849
-[Terry Holder] - 3850
-[Aidan Butler] - 3851
-[Lachlan Schultz] - 3854
-[Matthew Stafford] - 3857
-[Lachlan Warner] - 3858
-[Hayden George] - 3860
-[Luca Geerssen] - 3861
-[Jack Davie] - 3863
-[William Crago] - 3864
-[Frazer Scherf] - 3865
-[Oliver Black] - 3867
-[Will Quigley] - 3870
-[William Turner] - 3871
-[Max Speedy] - 3873
-[Isaac Dakin] - 3874
-[Eli Jubb] - 3875
-[Inglis Goff] - 3876
-[Addy Thurlow] - 3880
-[Harrison Blake] - 3885
-[Hudson Connelly] - 3892
-[Beau Edwards] - 3896
-[Jackson Smith] - 3897
-[Dylan Barton] - 3898
-[Finn Dutschke] - 3899
-[Ewan Waugh] - 3900
-[Jett Yee] - 3901
-[Rory Grant] - 3902
-[Mason Dew] - 3903
-[Angus Long] - 3904
-[Charlie Bott] - 3905
-[Benjamin Torrisi] - 3906
-[Riley Watt] - 3907
-[Hani Farah] - 3908
-[Tobias Lichtwark] - 3909
-[Kingston Rarere] - 3910
-[Cooper Sawina] - 3911
-[Lachlan Herweynen] - 3912
-[Japjot Singh] - 3913
-[Callum Grech] - 3914
-[Michael Clarke] - 3915
-[Harper Ayre] - 3916
-[Euan Reinhardt] - 3917
-[Samuel Anderson] - 3918
-[Jayden Briggs] - 3919
-[Kaizer Holt] - 3920
-[Bill Bukowski] - 3921
-[Luke Jones] - 3923
-[Dylan McMurray] - 3924
-[Charlie Russelhuber] - 3925
-[Joseph Hawke] - 3926
-[Joel Lywood] - 3927
-[Noah Smit] - 3928
-[Oscar Fennell] - 3929
-[Daniel Jelincic] - 3930
-[Alexander Addison] - 3932
-[Isaiah Gibbs] - 3934
-[Zak Krawczyk] - 3935
-[Lachlan Chamberlain] - 3936
-[Cooper Ramey] - 3937
-[Thomas Khan] - 3938
-[Hayden Breen] - 3939
-[Nate McGoldrick] - 3940
-[William Pritchard] - 3941
-[Oliver Fricotte] - 3942
-[Hunter Kandilierakis] - 3943
-[Archie Tebbutt] - 3944
-[Matthew Clark] - 3945
-[Clyff Watson] - 3946
-[Tobi Padgett] - 3947
-[Bryce Murray] - 3948
-[Clancy Royes] - 3949
-[Tui Nalatu] - 3951
-[Mitchell Wallis] - 3952
-[Manaia Tangitu] - 3953
-[William Church] - 3956
-[Kai Laine] - 3957
-[Harlem O'Keefe] - 3958
-[Luciano Diaz Abramovich] - 3959
-[Knox Enright] - 3960
-[Ayden Fontana] - 3961
-[Neil Gundecha] - 3963
-[Christian Seeto] - 3966
-[Hugh Sweetman] - 4195
-[Flynn Scully] - 4230
-[Cooper Williams] - 4231
-[Jackson Todoreskov] - 4232
-[Silas Kelly] - 4233
-[Benjamin Day] - 4234
-[Harrison Kedwell] - 4235
-[Lucas Batucan] - 4236
-[Harry Taylor-Bishop] - 4237
-[Christopher Mullins] - 4238
-[Sebastian Nicholls] - 4239
-[Reece Pollard] - 4240
-[Michael Magro] - 4241
-[Elijah Richards] - 4242
-[Beau Skowronek] - 4243
-[Leon Skowronek] - 4244
-[Oliver Hinwood] - 4245
-[Joseph Cook] - 4246
-[Samuel Crutcher] - 4247
-[Riley Walsh] - 4248
-[Samuel Green] - 4249
-[Harrison Burley] - 4250
-[Luke Kilroy] - 4251
-[Izaiah Brodie-Tomich] - 4252
-[Ethan Stevenson] - 4253
-[Ethan White] - 4254
-[Ryan Mahne] - 4255
-[Ryden Sutton] - 4256
-[Lachlan Priddin] - 4257
-[Tiago Gonzalez] - 4258
-[Joshua Gonzales] - 4259
-[Anthony Raven] - 4260
-[Max Webb] - 4261
-[Harvey Mortimer] - 4262
-[Lincoln Conlon] - 4263
-[Tanay Gulati] - 4264
-[Merrick Conlon] - 4265
-[Ryan Burgess] - 4266
-[James Batchelor] - 4267
-[Oliver Laws] - 4268
-[Andrew D'Souza] - 4269
-[Ryan West] - 4270
-[Tahj Hubbard] - 4271
-[Connor Hill] - 4272
-[Cooper Kurzke] - 4273
-[Carmelo Cartia] - 4274
-[Marius Graham] - 4275
-[Asher Lea] - 4276
-[Luca Murray] - 4277
-[Joseph Asnicar] - 4278
-[Kalev Hamilton] - 4279
-[Oliver Howe] - 4280
-[Robin Locke] - 4281
-[Solomon Fox] - 4282
-[Sam Asnicar] - 4283
-[Flynn Chard] - 4284
-[Declan McGuire] - 4285
-[Alexander Townsley] - 4286
-[Tarosh Sharma] - 4287
-[Hayden Tait] - 4288
-[Josh Taylor] - 4289
-[Chase Philpot] - 4290
-[Pranav Lal] - 4291
-[Nicholas Altmann] - 4292
-[Maximus Walsh] - 4293
-[Kaleb Arop] - 4294
-[Hayden Ney] - 4295
-[Oliver Potts] - 4296
-[Finn Maddock] - 4298
-[Corey Robinson] - 4299
-[Noah Cooper] - 4300
-[Archie Hall] - 4301
-[Jett Dean] - 4302
-[Benji Wilmshurst] - 4303
-[Ashmit Bankar] - 4304
-[Macarthur Petersen] - 4305
-[Taj Perrins] - 4306
-[Jack Avila] - 4307
-[Todd Lingard] - 4308
-[Jake Joby] - 4309
-[Riley Jolley] - 4310
-[Leyon Qass Dano] - 4311
-[Levi Muaiava] - 4312
-[Himal Shakya] - 4313
-[Finn Williams] - 4314
-[Caden Swannell] - 4315
-[William Conroy] - 4316
-[Christopher Martin] - 4317
-[Jett Walker] - 4318
-[James O'Donnell] - 4319
-[Afram Khudhur] - 4320
-[Aram Khudhur] - 4321
-[Hunter Fitz-Lauritsen] - 4322
-[Archie Taylour] - 4323
-[Luke Bishop] - 4324
-[Peter Taliana] - 4325
-[Xavier Stringfellow] - 4326
-[Harry Kane] - 4327
-[Riley Packer] - 4328
-[Jack Grant] - 4329
-[Lewis Khan] - 4330
-[Levi Guinnane] - 4331
-[Coby Holt] - 4332
-[Cody Asnicar] - 4333
-[Thomas Leftley] - 4334
-[Lachlan Harrison] - 4335
-[Michael Dwyer] - 4336
-[Harrison Lawther] - 4337
-[Reece Davis] - 4338
-[Noah Mahne] - 4339
-[Jake Parry] - 4340
-[Isaac Goodman] - 4341
-[Isaac Lahiff] - 4342
-[Sebastian Barber] - 4343
-[Nicholas Perry] - 4344
-[Lachlan Peterson] - 4345
-[Iszak Olasz-English] - 4346
-[Ronan Tully] - 4347
-[Whyatt Menyweather] - 4348
-[Finn Marlow] - 4349
-[Ethan Archard] - 4350
-[Matthew Underdown] - 4351
-[Jaxon Drury] - 4352
-[Spencer Fox] - 4353
-[Jack Munko] - 4354
-[Benjamin Munko] - 4355
-[Patrick Napper] - 4356
-[Bailey Drake] - 4357
-[Lucas Mattiske] - 4359
-[Lync Lauder] - 4360
-[Samuel Allison] - 4361
-[Alek Pavlyukovsky] - 4362
-[Hamish Innes] - 4363
-[William Graham] - 4364
-[Charlie Jones] - 4365
-[Kavi Bhagwan] - 4366
-[Charlie Gorton] - 4367
-[Owen Cruice] - 4368
-[Hue Tan] - 4369
-[Joseph Luxford] - 4370
-[Fraser MacBeth] - 4371
-[William Howard] - 4372
-[Kobi Newell] - 4373
-[Zac Bugler] - 4374
-[William David] - 4375
-[Billy Grose] - 4376
-[Connor West-Newman] - 4377
-[Finley Peppler] - 4378
-[Xavier Gibson] - 4379
-[Jack McDermott] - 4380
-[Liam Mudgway] - 4381
-[Sebastiaan Giezen] - 4382
-[Jack Passmore] - 4383
-[Darcy Walters] - 4384
-[Heath Baker] - 4385
-[Matthew Dowling] - 4386
-[Eli Bock] - 4387
-[Harry Connolly] - 4388
-[Albie Royes] - 4389
-[Aarnav Bankar] - 4390
-[Emilio Ceccato] - 4391
-[Orlando Ceccato] - 4392
-[Lachlan Richards] - 4393
-[Joshua Mukoma] - 4394
-[Jett Matthews] - 4395
-[Thomas Caldwell] - 4396
-[Luca Bicanic] - 4397
-[Lucas Mancini] - 4398
-[Joseph Pryce-Davies] - 4399
-[Oliver Hewitt] - 4400
-[Will Dickson] - 4401
-[Satyar Borzoo] - 4402
-[Charlton Toth] - 4403
-[Boston Lubke] - 4404
-[Aidan Megaw] - 4405
-[Lung Makuel] - 4406
-[Adam Singer] - 4407
-[Joshua Jones] - 4408
-[Eli Miles] - 4409
-[Eamon Manley] - 4410
-[Jackson Dickie] - 4411
-[Spencer Toth] - 4412
-[Jack McCorry] - 4413
-[Oliver Smith] - 4414
-[Braydan Thompson] - 4415
-[Oscar Kummer] - 4416
-[Flynn Larkins] - 4417
-[Khy Harrison] - 4418
-[Benjamin Davis] - 4419
-[Griffin McCormack] - 4420
-[Joshua Parkin] - 4421
-[Bailey Handcock] - 4422
-[Izaak Hughes-Musu] - 4423
-[Joshua Bradford] - 4425
-[Noah Avci] - 4426
-[Ben Chiu Chong] - 4427
-[Murray Woodbridge] - 4428
-[Samuel Sander] - 4429
-[William Jones] - 4430
-[Harrison Dwyer] - 4431
-[Mitchell Thompson] - 4432
-[Shaun Spathonis] - 4433
-[Corey Mapp] - 4434
-[Will Amos] - 4435
-[Stanley Hambling] - 4436
-[Connor Melit] - 4437
-[Liam Hall] - 4438
-[Hugo Bent] - 4439
-[James Perkins] - 4440
-[Lewis O'Malley] - 4946
-[Tristan Auelua] - 4958
-[Carter Parcell] - 4988
-[Jamie Lummis] - 5011
-[Patrick Dickinson] - 5012
-[Mathias Uitime] - 5016
-[Oscar Brown] - 5019
-[Percy Page] - 5025
-[Simon Priddey Delfino] - 5028
-[Noah Evans] - 5031
-[Liam Miller] - 5038
-[Lachy Theodossio] - 5041
-[Theo Tsingos] - 5067
-[Harry Hewitt] - 5068
-[Hugo Morgan] - 5069
-[Henry Burke] - 5070
-[Tristan Mullins] - 5071
-[Hayden Cooper] - 5072
-[Archie Fraser] - 5073
-[Ronan Jenkins] - 5074
-[Alex Cahill] - 5075
-[Jaxon Williams] - 5076
-[Parker James] - 5077
-[Archie Ceccato] - 5078
-[Samir Gurung] - 5079
-[Charlton Volter] - 5080
-[Joshua Dale] - 5081
-[Dominic Goreta] - 5082
-[Ethan Sainsbury] - 5083
-[Penn Wilson] - 5084
-[John Meredith] - 5085
-[Cash Calder] - 5086
-[Anderson Hennessy] - 5087
-[Alexander McLeod] - 5088
-[Edward Atkins] - 5089
-[Ciaran Nicholas] - 5090
-[Isaac Noone] - 5091
-[Kai Leggett] - 5092
-[Dane Audibert] - 5093
-[Flynn Esaias] - 5094
-[Jensen Mendoza] - 5095
-[Felix Ferguson] - 5096
-[Finn McMenz] - 5097
-[Camden Lawson] - 5098
-[Jacob Hadwick] - 5099
-[Hamish Adams] - 5100
-[Hayden Wecker] - 5101
-[Cory Catling] - 5102
-[Abiel Healy] - 5103
-[Dominic Downey] - 5105
-[Blake Martin] - 5106
-[Mitchell Southby] - 5107
-[Jayden Foy] - 5108
-[Carter Horn] - 5109
-[Jaden Armitage] - 5110
-[Zachary Macks] - 5111
-[Thomas Hanly] - 5112
-[Parker Stevens] - 5113
-[Emmet Burow] - 5114
-[Finn Walker] - 5115
-[Noah Warner] - 5116
-[Lachlan Maskell] - 5117
-[Levi MacDonald] - 5118
-[Jethro Cope] - 5119
-[Josh McDonald] - 5120
-[Campbell Turner] - 5121
-[Riley Brannelly] - 5122
-[Lachlan Page] - 5123
-[Thomas Burton] - 5124
-[William Hoarau] - 5125
-[Blake Morton] - 5126
-[Harry Whitfield] - 5127
-[Eamon Stanton] - 5128
-[Finn Yee] - 5129
-[Henry Long] - 5130
-[Oliver Lichtwark] - 5131
-[Alfie Clarke] - 5132
-[Joshua Morgan] - 5133
-[Isaac Morgan] - 5134
-[Cayden Read] - 5135
-[Archie Hawke] - 5136
-[Zack Martinez] - 5137
-[Ellis Breen] - 5138
-[Morgan Pritchard] - 5139
-[Thomas Culver] - 5140
-[Olli Padgett] - 5141
-[Finn Richards] - 5142
-[Ben Parry] - 5143
-[William Dickinson] - 5144
-[Seth Goodman] - 5145
-[Will Dallas] - 5146
-[Eli Dallas] - 5147
-[Mauro Diaz Abramovich] - 5148
-[Rylee Harrison] - 5149
-[Matthys Visser] - 5150
-[Cooper Ferguson] - 5151
-[Dominic Philpot] - 5152
-[Cristian Sala-Eden] - 5153
-[Harrington Petersen] - 5154
-[Jesse Fuary-James] - 5155
-[Isaac Geary] - 5156
-[Nicholas Liddell] - 5157
-[Nicolas Ollenburg] - 5158
-[Miguel Alladin] - 5159
-[Lachlan Button] - 5160
-[Munro Kelland] - 5161
-[Adam Maliakkal] - 5162
-[Finn Pickwell] - 5163
-[Samson Pouniu] - 5164
-[Arya Prabhuram] - 5165
-[Oliver Pyle] - 5166
-[Joshua D'Addona] - 5167
-[Elijah Doran] - 5168
-[Max Hannah] - 5169
-[Joshua Menzies] - 5170
-[Lucas O'Brien] - 5171
-[Tanaka Midzi] - 5172
-[Jacob Monk] - 5173
-[Damon Langan] - 5174
-[Chase Elliott] - 5175
-[Thane McArthur] - 5176
-[Lachlan Edmonds] - 5177
-[Thomas Wickett] - 5178
-[I Gede Donaldson] - 5179
-[Bailey Walter] - 5180
-[Callan Hutton] - 5181
-[Noah Uhr] - 5182
-[Tyler Haynes] - 5183
-[Harrison Hornby] - 5184
-[Harrison Lyons] - 5185
-[Eli Fenech] - 5186
-[Beau Williams] - 5187
-[Freddie Hampton] - 5188
-[Monty Hampton] - 5189
-[Heston Kumar] - 5190
-[Bailey Murrell] - 5191
-[Jash Hirani] - 5192
-[Sam Briggs] - 5193
-[Noah Lindner] - 5194
-[Nicholas Whiting] - 5195
-[Edward Bazeos] - 5196
-[Zeke Greenfield] - 5197
-[Fynn Schulte] - 5198
-[Finn Gilbert] - 5199
-[Zachary Keefe] - 5200
-[Cooper Pritchard] - 5201
-[Spencer Vowles] - 5202
-[Talan Neilsen] - 5203
-[Jack Hobbs] - 5204
-[Corbin Welsh] - 5205
-[Billy Brown] - 5206
-[James Wilson] - 5207
-[Jacob Ellis] - 5208
-[Akshat Niroop] - 5209
-[Flynn Sallmann] - 5210
-[Luca Good] - 5211
-[Owen McKinley] - 5212
-[Jude McClure] - 5213
-[Logan Jordan] - 5214
-[Bobby Potter] - 5215
-[Dylan Postlethwaite] - 5216
-[Blake Abbott] - 5217
-[Joseph Morris] - 5218
-[Spencer Tsingos] - 5219
-[Oliver Baldwin] - 5220
-[Clancy Scanlan] - 5221
-[Denim McCormack] - 5222
-[Harrison Hickey] - 5223
-[Jackson Leslie] - 5224
-[Elijah Pepperdene] - 5225
-[Sharanpreet Barring] - 5226
-[Samuel McColl] - 5227
-[Nathan Watson] - 5228
-[Seth Donnelly] - 5229
-[Benjiman French] - 5230
-[Spencer Dillewaard] - 5231
-[Mitchell Todd] - 5232
-[Harry Collins] - 5233
-[Cooper Mann] - 5234
-[Maneet Sarao] - 5235
-[Hugh Gow] - 5236
-[Mason Gow] - 5237
-[Dulisha Fernando] - 5238
-[Braxton O'Brien] - 5239
-[Benjamin Nicholson] - 5240
-[Nicholas Lawless] - 5241
-[Jacob Vernon] - 5242
-[Elliot Hitchcock] - 5243
-[Jack White] - 5244
-[Tyler White] - 5245
-[Jarlath Murphy] - 5246
-[Jack Kunst] - 5247
-[Jack McKeering] - 5248
-[Hunter Paulger] - 5249
-[Bentley Paulger] - 5250
-[Jack Stretton] - 5251
-[Jaireet Tej] - 5252
-[Alex McKinnon] - 5253
-[Phoenix Munday] - 5254
-[Noah Giess] - 5255
-[Eric Shrestha] - 5256
-[Nathaniel Wiles] - 5258
-[Angus Pitman] - 5259
-[Jack Taverner] - 5260
-[Charlie White] - 5261
-[Lachlan Sellars] - 5262
-[Angus Kruger] - 5263
-[Seturo Nanai] - 5264
-[Percy Baker] - 5265
-[Rydah Nixon] - 5266
-[Taj Rai] - 5267
-[Jaiden Buultjens] - 5268
-[Tyson Bailey] - 5269
-[Jaraiya Lewis] - 5270
-[Lucca Sanson] - 5271
-[Tom Hills] - 5272
-[Alex Collins] - 5275
-[Cuan van Bart] - 5277
-[Saxon Waters] - 5278
-[Max Hillard] - 5280
-[Jack Hillard] - 5281
-[Marlin Jones] - 5282
-[Ceasario Lopes] - 5284
-[Jacob Hose] - 5287
-[Eiden Sijokallungal] - 5291
-[Edwin Sijokallungal] - 5292
-[Harry O'Dwyer] - 5293
-[Kaleb Kelly] - 5431
-[Oliver Howell] - 5471
-[Lucas John] - 5472
-[Benjamin Lippert] - 5489
-[Marcus Cooper] - 5490
-[Benji Wright] - 5508
-[Matthew Marsberg] - 5511
-[Charlie McGill] - 5512
-[Jack Mathers] - 5513
-[Charlie Mathers] - 5514
-[Ryan Megaw] - 6567
-[Jack Mosely] - 6568
-[Nate McCullough] - 6569
-[Reuben Dufourq] - 6570
-[Lewis Copping] - 6571
-[Liam McKeering] - 6572
-[Daniel Simpson] - 6573
-[Ben Craker] - 6574
-[Severin De Clercq] - 6575
-[Cooper Dionysius] - 6576
-[Louie Taylor-Bishop] - 6577
-[Raf Gonzalez] - 6578
-[Luas Morgan] - 6579
-[Angus Laws] - 6580
-[Noah Pastourel] - 6581
-[Fin McGlone] - 6582
-[Lochlan McGlone] - 6583
-[Lachlan McLaren] - 6584
-[Angus Leftley] - 6585
-[Jordan Packer] - 6586
-[Finlay Cass-Daly] - 6587
-[Emmett Cass-Daly] - 6588
-[Rhys Gribben] - 6589
-[Oliver Harkin] - 6590
-[Archie Andrews] - 6591
-[Lincoln Williams] - 6592
-[Freddie Franklin] - 6593
-[Oisin Lacey] - 6594
-[Jaedon Albayalde] - 6595
-[Eli Whiteside] - 6596
-[Ethan Collins] - 6597
-[Harrison Riedel] - 6598
-[Monty Sweetman] - 6599
-[Benjamin Bell] - 6600
-[Liam Buckley] - 6601
-[William Mackinnon] - 6602
-[Darcy Caddy] - 6603
-[Lucas Kinsella] - 6604
-[Tyler Komarzynski] - 6605
-[Campbell Smith] - 6606
-[Boston Speedy] - 6607
-[Krystian Foltak] - 6608
-[Malachi Hamilton] - 6609
-[Asher Hamilton] - 6610
-[Cooper Blake] - 6611
-[James McLeavy] - 6612
-[Aaron Nmanii] - 6613
-[Malakai Rarere] - 6614
-[Levi McGoldrick] - 6615
-[James Passmore] - 6616
-[Jack Dallas] - 6617
-[Otis Laine] - 6619
-[Ari Williams] - 6620
-[Charlie Allison] - 6621
-[Nikolai Pavlyukovsky] - 6622
-[Duncan Caldwell] - 6623
-[Nathan Clarke] - 6624
-[Nicolai Fitz-Lauritsen] - 6625
-[Leon David] - 6626
-[Xavier Marlow] - 6627
-[Maxwell Dowling] - 6628
-[Ben Underdown] - 6629
-[Daniel Taylor] - 6630
-[Finn Harper] - 6631
-[Vince Tan] - 6632
-[Joshua Ollenburg] - 6633
-[Liam Ollenburg] - 6634
-[Harrison Little] - 6635
-[Max Potts] - 6636
-[Luke Greenfield] - 6637
-[Fletcher Good] - 6638
-[Aden McClure] - 6639
-[Billy McArdle] - 6640
-[Blake McArdle] - 6641
-[Jake Clur] - 6642
-[Xavier Ballinger] - 6643
-[Aidan Buchanan] - 6644
-[Oliver Buchanan] - 6645
-[Hayden Punter] - 6646
-[Nathanael Passagne] - 6647
-[Teddy Wright] - 6648
-[Xavier Skiba] - 6649
-[Lucas Anthony] - 6650
-[Noah Anthony] - 6651
-[Jacob Blyth] - 6652
-[Kobi Blyth] - 6653
-[Nathaniel Chaffey] - 6654
-[Phoenix Duggan-Saseve] - 6655
-[Ben Clynes] - 6656
-[Cooper Black] - 6657
-[Billy O'Sullivan] - 6658
-[Lincoln Mason] - 6659
-[Edrik Potocki] - 6660
-[Griff Jones] - 6661
-[Harry Williams] - 6662
-[Codyn Stuy] - 6663
-[Sammy Kainth] - 6664
-[Riley Slingsby] - 6665
-[Ryder Dowling] - 6666
-[Flynn Niu] - 6667
-[George Kruger] - 6668
-[Jaxon McKean] - 6669
-[Kc Nixon] - 6670
-[Tanah Kowaltzke] - 6671
-[Jonah Valcovich] - 6672
-[Alex Rosuck] - 6673
-[Eli Reid] - 6674
-[Leo Griffiths] - 6675
-[Hayden Cleaver] - 6676
-[Max Wheeler] - 6677
-[Alexander Dashwood] - 6678
-[Noah Harridge] - 6679
-[Levi Johanson] - 6680
-[Jack McCubbin] - 6681
-[Archie Falkus] - 6682
-[Dylan Harvey] - 6683
-[Hamish Searle] - 6684
-[Reuben Ryan] - 6685
-[Flynn Harding] - 6686
-[Alfie Triggs] - 6687
-[Theo Gillott] - 6688
-[Thomas Vaughan] - 6689
-[Jack Compton] - 6690
-[Jim Westell] - 6691
-[Noah Shilvock] - 6692
-[Elliott Gallagher] - 6693
-[Josh Straton] - 6694
-[Noah Landsberg] - 6695
-[Scott Inglis] - 6696
-[Oska Littlewood] - 6697
-[Archer Ryall] - 6698
-[Fynn Stewart] - 6699
-[Nicholas Robb] - 6700
-[Luca Meehan] - 6701
-[Mason Reed] - 6702
-[Jonty Coetzee] - 6703
-[Lincoln Clark] - 6704
-[Samuel Cavanagh] - 6705
-[James Cavanagh] - 6706
-[Noah Le Marsney] - 6707
-[Rex Smith] - 6708
-[Mossi Smith] - 6709
-[Ben Philp] - 6710
-[Riley Alexander] - 6711
-[Harry Mayoh] - 6712
-[Mason Duncan] - 6713
-[Benji Scott] - 6714
-[Joshua Macann] - 6715
-[Patrick O'Dea] - 6716
-[Jack McGuinness] - 6717
-[Sebastian Robertson] - 6718
-[Owen Atkinson] - 6719
-[Aarav Chawla] - 6720
-[Luca Bizjak] - 6721
-[Lincoln Chan] - 6722
-[Angus Murray] - 6723
-[Hayden Oxley] - 6724
-[Jude Ainsworth] - 6725
-[Thomas Dearling] - 6726
-[Oliver Black] - 6727
-[Archer Harris] - 6728
-[Cooper Cox] - 6729
-[Liam Mancini] - 6730
-[Henry Fastlabend] - 6731
-[Logan Jurkiewicz] - 6732
-[Ben Ingram] - 6733
-[Hudson Ramsay] - 6734
-[Kali Harris] - 6735
-[Harrison Hendle] - 6736
-[Lochlan Blake] - 6737
-[Adam Romkes] - 6738
-[Harrison Cornish] - 6739
-[Cohen Andersen] - 6740
-[Harvey Saunders] - 6741
-[Chayse Thomas] - 6742
-[Declan Stafford] - 6743
-[Axel Allen-Baker] - 6744
-[Hudson Jack] - 6745
-[Sebastian Bally] - 6746
-[Xavier Olsen] - 6747
-[Tanvir Kalia] - 6748
-[Liam van Bart] - 6749
-[Mika Cvetko-Lueger] - 6750
-[Aaron Walsh] - 6751
-[Aston Young] - 6752
-[Christian O'Dempsey] - 6753
-[Tau Tamaariki] - 6754
-[Ekampreet Dhaliwal] - 6755
-[Finbar Newton] - 6756
-[Dylan Miller] - 6757
-[Jordan Welling] - 6758
-[Gurtaj Sandhu] - 6759
-[Junsei Martin] - 6760
-[James Masson] - 6761
-[Nicholas Di Tullio] - 6762
-[Jake Reid] - 6763
-[Zaki Maddock] - 6764
-[Darcy Coleman] - 6766
-[Xavier Loli] - 6767
-[Max Kilkelly] - 6768
-[Alex Petrellis] - 6769
-[Josh Petrellis] - 6770
-[Jack Woolf] - 6771
-[Cooper Coca] - 7058
-[Flynn Light] - 7062
-[Oliver Gribble] - 7064
-[Matthew Campbell] - 7081
-[Maddox Brown] - 7095
-[Maror Muorter] - 7119
-[Ashley Valenton] - 7133
-[Max McCarthy] - 7135
-[Alexander Churchill] - 7148
-[Harrison Murphy] - 7149
-[Callum Mitchell] - 7153
-[Austin Bird] - 7164
-[Andy Rio] - 7167
-[Student SPC] - 7174
-[Patrick Taylor] - 7201
-[Oscar Powell] - 7209
-[Gautam Bhalla] - 7212
-[Goldit Mabor] - 7213
-[Dani Akkad] - 7215
-[Samuel Poole] - 7218
-[Jacob Makuel] - 7497
-[Levi Singer] - 7498
-[Oliver Henry] - 7499
-[Brock Catling] - 7500
-[William Hewitt] - 7501
-[Majith Shan] - 7502
-[Levi Cooper] - 7503
-[Hayden Cook] - 7504
-[Emmett Volter] - 7505
-[Liam Tiru] - 7506
-[Sidney Huxtable] - 7507
-[James Searle] - 7508
-[Harvey Bell] - 7509
-[George Thomas] - 7510
-[Liam Hodkinson] - 7511
-[Archie Faulkner] - 7512
-[Cameron Price] - 7513
-[Jye Evans] - 7514
-[Lachlan Riedel] - 7515
-[Sonny Duff] - 7516
-[Finley Smith] - 7517
-[Cooper Lenz] - 7518
-[Alexander Coutts] - 7519
-[Jack Millar] - 7520
-[Kristian Inch] - 7521
-[Samuel Kilroy] - 7522
-[Lucas Clarke] - 7523
-[Bisajpreet Singh] - 7524
-[Fraser Stanley] - 7525
-[Jaxson White] - 7526
-[Ned Connolly] - 7527
-[Oscar Giezen] - 7528
-[Julian Cruice] - 7529
-[Tareq Walker] - 7530
-[Cory Bugler] - 7531
-[Cohen Menyweather] - 7532
-[Flinders Petersen] - 7533
-[Xavier Geary] - 7534
-[Cameron Menzies] - 7535
-[Oliver Wickett] - 7536
-[Oliver Lindner] - 7537
-[Oliver Bazeos] - 7538
-[Callum Chapman] - 7539
-[Adam Frojda] - 7540
-[Levi McKinley] - 7541
-[Fraser Tsingos] - 7542
-[Gus Donnelly] - 7543
-[George Mann] - 7544
-[Jivraj Sandhu] - 7545
-[Oliver Lawson] - 7546
-[Mason McKinnon] - 7547
-[Benjamin Punter] - 7548
-[Ashton Cooper] - 7549
-[Mohit Sheenmar] - 7550
-[Glenn Hanson] - 7551
-[Jai Hanson] - 7552
-[Gaivy Klair] - 7553
-[Jayden Wong] - 7554
-[Corbin McKean] - 7555
-[Jackson Kemp] - 7556
-[Knox Harridge] - 7557
-[Flynn Drake] - 7558
-[Martin Priddey Delfino] - 7559
-[Eli Clancy] - 7560
-[Elgin Sijokallungal] - 7561
-[Mason Crawford] - 7562
-[Rowan Thapa] - 7563
-[Nathan Mangilit] - 7564
-[Preet Sidhu] - 7565
-[Zach Balnaves] - 7566
-[Lachie Norton] - 7567
-[Harry McGregor] - 7568
-[Tomas Cortes Duran] - 7569
-[Matthew Pershouse] - 7570
-[Abhijot Kingra] - 7571
-[James Spriggens] - 7572
-[Samyam Karki] - 7573
-[Tom Lawler] - 7574
-[Frankie Worland] - 7575
-[Archie Denning] - 7576
-[Byron Heberley] - 7577
-[Dempsey Anstiss] - 7578
-[Samuel O'Dempsey] - 7579
-[Noah Temple] - 7580
-[Riley Ditchburn] - 7581
-[Harry Zerafa] - 7582
-[Liam Clues] - 7583
-[Jack Buckland] - 7584
-[Zaid Riley] - 7585
-[Koby Strydom] - 7586
-[Angus Harris] - 7587
-[Ashwyn Gamage] - 7588
-[Harrison Smallbon] - 7589
-[Jack Love] - 7590
-[Jude Cosgrove] - 7591
-[Walter Hillier] - 7592
-[Archie Jones] - 7593
-[Lewis Herrod] - 7594
-[Hunter Gray] - 7595
-[LeBron Foondun] - 7596
-[Thomas Graham] - 7597
-[Benjamin Freestone] - 7598
-[Ryker Green] - 7599
-[Harrison Lowther] - 7600
-[Oliver Hamilton] - 7601
-[Thorin Muldal] - 7602
-[Theo Machado-Smith] - 7603
-[Noah Coutinho] - 7604
-[Xavier Whittam] - 7605
-[Lachlan Dancer] - 7606
-[Bailey Brandon] - 7607
-[Oakley Gordon-Smith] - 7608
-[Cooper Williams] - 7609
-[Ethan Nicholls] - 7610
-[Lachlan Bartlett] - 7611
-[Thomas Smith] - 7612
-[Charles Hedges] - 7613
-[Carter Masson] - 7614
-[Lucas Barnard] - 7615
-[Baines McCallum] - 7616
-[James Batty] - 7617
-[Henry Pollock] - 7618
-[Liam Treacy] - 7619
-[Nathan Foat] - 7620
-[Lincoln Seitz] - 7621
-[Theodore Nugent] - 7622
-[Benjamin Clark] - 7623
-[Bayley Anderson] - 7624
-[Charlie Andrews] - 7625
-[Jet Harradine] - 7626
-[Eli Harradine] - 7627
-[Brennan Campbell] - 7628
-[Jack Stowe] - 7629
-[Finlay O'Connor] - 7630
-[Archer Hall] - 7631
-[Oliver Cargill] - 7632
-[Harrison Munce] - 7633
-[Ashton Farley] - 7634
-[Harrison Dellit] - 7635
-[Brandon Ryan] - 7636
-[Jayden Devine] - 7637
-[Joseph Gavel] - 7638
-[Louis Tucker] - 7639
-[Max Jarrott] - 7640
-[Jai Fisher] - 7641
-[Sebastian Ebner] - 7642
-[Louie Rowe] - 7643
-[Owen Russo] - 7644
-[Charlie Wilkins] - 7645
-[Andrew Durston] - 7646
-[Liam Waddell] - 7647
-[Joshua Loveday-Lowe] - 7648
-[Cody Kelly Grice] - 7649
-[Kieran Latham] - 7650
-[Max Copeman] - 7651
-[Dexter Gray] - 7652
-[Oscar Francis] - 7653
-[Boston Silver] - 7654
-[Hugh Townsend] - 7655
-[Charlie Dwyer] - 7656
-[Brody Coleman] - 7657
-[Nico Berman] - 7658
-[Aarush Paudel] - 7659
-[Max Millar] - 7660
-[Charlie Norris] - 7661
-[Jack Stokes] - 7662
-[Will Davidson] - 7663
-[Tobias Overell] - 7664
-[Conor Finnerty] - 7665
-[Harrison Walls] - 7666
-[Oscar Johnson] - 7667
-[Oliver Johnson] - 7668
-[Jim Mitchell] - 7669
-[Finley Kuys] - 7670
-[James Wilson] - 7671
-[Kye Bowmaker] - 7672
-[James Morris] - 7673
-[Adam Edwards] - 7674
-[Thomas Tauzowski] - 7675
-[Jagger Evans] - 7676
-[Ashton Young] - 7677
-[Patrick Young] - 7678
-[Ethan Baird] - 7679
-[Kristian Amato] - 7680
-[Jack Amato] - 7681
-[Flynn Chandler] - 7682
-[Harry Chandler] - 7683
-[Brady Williams] - 7684
-[Spencer Sandys] - 7685
-[Dustin Henderson] - 7686
-[Ari Henderson] - 7687
-[Riley McShane] - 7688
-[Benjamin Ball] - 7689
-[Bailey Graham] - 7690
-[Elijah Lucas] - 7691
-[Harvey Lucas] - 7699
-[Travis O'Connor] - 7737
-[Lachlan O'Grady] - 7738
-[Gantin Taulani] - 7741
-[Petar Ratkovic] - 7767
-[Shida Fadeyibi] - 7781
-[Jaxton Warren] - 7789
-[Sam Longmire] - 7794
-[Harry Stilianos] - 7807
-[Jesse Harbourne] - 7808
-[Ellis Lawson] - 7809
-[Jordan Vujevich] - 7816
-[Melarn Vujevich-Rapie] - 7817
-[Bentley Green] - 7834
-[Isaac McLoughlin] - 7835
-[Ryley Leather] - 7859
-[Tommy McMahon] - 7860
-[Tyson Estella] - 7861
-[Benjamin Krushka] - 8159
-[Isaac Hazelman] - 8160
-[Matthew Silver-Thomas] - 8161
-[Billy Tot] - 8162
-[Flint Grainger] - 8163
-[Samson Prlja] - 8164
-[Marcus Webb] - 8165
-[George Mamin] - 8166
-[Riley Gribben] - 8167
-[Andrew Henderson-Scott] - 8168
-[Dylan Lacey] - 8169
-[Alexander Walker] - 8170
-[Benjamin Davie] - 8171
-[Ethan Meunier] - 8172
-[Patrick Smith] - 8173
-[Owen Vanderkley] - 8174
-[Jake Duffy] - 8175
-[Frederick Long] - 8176
-[Theodore Martinez] - 8177
-[Jacob Bow] - 8178
-[Nicholas Martin] - 8179
-[Harry Cooper] - 8180
-[Jaxon Handcock] - 8181
-[Tawona Midzi] - 8182
-[Matthew Whiting] - 8183
-[Ben Chapman] - 8184
-[Jesse Sallmann] - 8185
-[Harrison Leslie] - 8186
-[Julian Anthony] - 8187
-[Carter Chaffey] - 8188
-[Luka Baker] - 8189
-[Aaron Watkins] - 8190
-[Arnold Wheeler] - 8191
-[Silas Jose] - 8192
-[Ash Brooks] - 8193
-[Hudson Gallagher] - 8194
-[Oliver Wolff] - 8195
-[Matthew Drew] - 8196
-[Liam Lipman] - 8197
-[Ethan Lipman] - 8198
-[Jasson Brooks] - 8199
-[Dean Brooks] - 8200
-[Luke McGuinness] - 8201
-[Jack Whitbourne] - 8202
-[William Oxley] - 8203
-[Tom Craig] - 8204
-[Elliott Fastlabend] - 8205
-[Eddie Meredith] - 8206
-[George Meredith] - 8207
-[Harry Ingram] - 8208
-[Lennox Andersen] - 8209
-[Austin Allen-Baker] - 8210
-[William Cannan] - 8211
-[Mason Heberley] - 8212
-[Thomas Lee] - 8213
-[Jaygo Hall] - 8214
-[Malakai Tamaariki] - 8215
-[Cormac Newton] - 8216
-[Dallas Strydom] - 8217
-[Joel Coutinho] - 8218
-[Alex Ross] - 8219
-[Callen Tynan] - 8220
-[Connor Treacy] - 8221
-[Kousei Martin] - 8222
-[Henry Carter] - 8223
-[Jacob Barber] - 8224
-[Joseph Borger] - 8225
-[Archer Light] - 8226
-[Jenson Hunter] - 8227
-[Abram Kikhwa] - 8228
-[Kennedy Mateariki] - 8229
-[Sam Nagy] - 8230
-[Angus Ong] - 8231
-[Flynn Rowlands] - 8232
-[Finlay Wong] - 8233
-[Archie Wong] - 8234
-[Olle Adriansson] - 8235
-[Hunter Overell] - 8236
-[Flynn Charlton] - 8237
-[Thomas Lowe] - 8238
-[Noah Guymer] - 8239
-[Miller Crawford-Smith] - 8240
-[Carter Edward] - 8241
-[Hunter Turnbull] - 8242
-[Sebastian Green] - 8243
-[Harnoorvir Singh] - 8244
-[Abhijot Sharma] - 8245
-[James McAlister] - 8246
-[Patrick Wilson] - 8247
-[Jaydon Hides] - 8248
-[James McIntyre] - 8249
-[Oliver Ayres] - 8250
-[Archie Beutel] - 8251
-[William Baker] - 8252
-[Samuel Birchall] - 8253
-[Jasper Brown] - 8254
-[Oliver Butterley] - 8255
-[Benji Campbell] - 8256
-[Michael Connell] - 8257
-[Karstan Davis] - 8258
-[Harrison Caughey] - 8259
-[Harrison Garland] - 8260
-[James Ebert] - 8261
-[Harry Caughey] - 8262
-[Kylaan D'Souza] - 8263
-[Lincoln Ellison] - 8264
-[Mason Fowlie] - 8265
-[Oscar Hunt] - 8266
-[Caden Gardner] - 8267
-[Enrique Cifuentes] - 8268
-[Teddy Clark] - 8269
-[Parker Cleave] - 8270
-[Tate Young] - 8271
-[Henry Hart] - 8272
-[Aston Guest] - 8273
-[Lennox Wilson] - 8274
-[Harrison O'Brien] - 8275
-[Jack van der Pluijm] - 8276
-[Rhys Miller] - 8277
-[Joshua Titman] - 8278
-[Dominic Villanueva] - 8279
-[William Persijn] - 8280
-[Flynn Wetherell] - 8281
-[Sam Roberts] - 8282
-[Henry Lawrence] - 8283
-[Liam McNiven] - 8284
-[George Thomas] - 8285
-[River Weight] - 8286
-[Elliot Piatti] - 8287
-[Clay Roberts] - 8288
-[Finn Simmons] - 8289
-[Alfred Kelly] - 8290
-[Arlo Harvey] - 8291
-[Nate Inglis] - 8292
-[Bodhi Hearnden] - 8293
-[Edward O'Rourke] - 8294
-[Callum Panayotakis] - 8295
-[Jaxson Saunders] - 8296
-[Gray Collins] - 8297
-[Daniel Kelly] - 8298
-[Oscar Spence] - 8299
-[Xavier Holmes] - 8300
-[Isaac Cronin] - 8301
-[Marcel Rao] - 8302
-[Jack Morgan] - 8303
-[Liam Morgan] - 8304
-[Edison Rose] - 8305
-[Ned Steel] - 8306
-[Heath Pountney] - 8307
-[Chase Weller] - 8308
-[Sebastian Silman] - 8309
-[Oliver Stewart] - 8310
-[Taika Takiari] - 8311
-[Noah Adamson] - 8312
-[Jayden Baird] - 8313
-[Henry Batch] - 8314
-[JaCobi Brooks] - 8315
-[Zane Anabtawi] - 8316
-[Finnlay Moore] - 8317
-[Enrico La Spina] - 8318
-[Sahibjot Malhi] - 8319
-[Parker Manning] - 8320
-[Thomas Bronish] - 8321
-[Sameer Puwar] - 8322
-[Aryan Puwar] - 8323
-[Taj Hanna] - 8324
-[Samuel Hooper] - 8325
-[Abhinav Timsina] - 8326
-[Connor Payne] - 8327
-[Parker Cabrera] - 8328
-[Josaphat Conquest] - 8329
-[Hadley Riach] - 8330
-[Lachlan Weston] - 8331
-[Joshua Callaghan] - 8332
-[Jarvis Cook] - 8333
-[Andrew Aluvula] - 8334
-[Gurmanpreet Bhullar] - 8335
-[Carter Cusack] - 8336
-[Jacob Adzraku] - 8337
-[Benjamin Westcott] - 8338
-[Elias Gillott] - 8339
-[Sebastian Leeds] - 8340
-[Oliver Belgrove] - 8341
-[Tyrese Healey] - 8342
-[Advit Gogia] - 8343
-[Foxx Delbridge] - 8344
-[Kai Dawes] - 8345
-[Alexander Houghton] - 8346
-[Jamis Rounds] - 8347
-[Harrison Cattell] - 8348
-[Saxon Scholes] - 8349
-[Oliver McDowell] - 8350
-[Charlie Bale] - 8351
-[Paula Mohenoa] - 8352
-[Harrison Ripp] - 8353
-[George Wilson] - 8354
-[Zachary Hose] - 8355
-[Thomas Gregg] - 8356
-[Bailey Lokeni] - 8357
-[Hugh Winter] - 8358
-[Rafael Azzarello] - 8359
-[Alfred Strachan] - 8360
-[Lewis Pascoe] - 8361
-[Rhys Liquorish] - 8382
-[Hunter Liquorish] - 8383
-[Quinn Callaghan] - 8418
-[Yousif Al-Hayali] - 8425
-[Lachlan McGavin] - 8449
-[Frankie Harvey] - 8468
-[William James] - 8469
-[Joshua Barsby] - 8470
-[Samuel Tredrea] - 8471
-[Jaden Fourie] - 8472
-[Kauala Vakauku] - 8490
-[Xavier Goodwin] - 8511
-[Magnus De Clercq] - 8843
-[Zac Stewart] - 8844
-[Quinn Gribben] - 8845
-[Jeremy Anderson] - 8846
-[Patrick Hanly] - 8847
-[Lachlan Chapman] - 8848
-[Hayden Chapman] - 8849
-[Nicholas Riedel] - 8850
-[Hugo Caddy] - 8851
-[Sebastian Ellis] - 8852
-[Leo McMahon] - 8853
-[Louie Seery] - 8854
-[Bennett Kedwell] - 8855
-[Adam Russelhuber] - 8856
-[Parker Perrins] - 8857
-[Sebastian Pickwell] - 8858
-[Ripley Morris] - 8859
-[Charlie Lawson] - 8860
-[Joseph Williams] - 8861
-[Sebastian Valcovich] - 8862
-[Francis Ryan] - 8863
-[Blake Landsberg] - 8864
-[Zachary Robertson] - 8865
-[Dominic Robertson] - 8866
-[Hayden Stafford] - 8867
-[Elliott Jack] - 8868
-[Hugo Denning] - 8869
-[Harvey Clues] - 8870
-[Parker Harris] - 8871
-[Kaylan Gamage] - 8872
-[Lachlan Smallbon] - 8873
-[Fraser Herrod] - 8874
-[Parker Brandon] - 8875
-[Adam Nicholls] - 8876
-[Kaito Bartlett] - 8877
-[Kayden Crawford] - 8878
-[Clancy Andrews] - 8879
-[James Peterson] - 8880
-[Noah Glover] - 8881
-[Arlo Hurrell] - 8882
-[Walter Pentis] - 8883
-[Jenson Russo] - 8884
-[Noah Hovenden MacPherson] - 8885
-[Mitchell Reid] - 8886
-[Oliver Reid] - 8887
-[Jackson Gardner] - 8888
-[William Woolf] - 8889
-[Frey Adriansson] - 8890
-[Jett Adriansson] - 8891
-[Quinn Kuys] - 8892
-[Avijot Singh] - 8893
-[Jacob Curtain] - 8894
-[Nuku Baines Framhein] - 8895
-[Charles Tauzowski] - 8896
-[Sylas Evans] - 8897
-[Brandon Nilsson] - 8898
-[Patrick Amato] - 8899
-[Thomas Hooper] - 8900
-[Jeevan Alappatt] - 8901
-[Theodore Barsby] - 8902
-[Brayden Cleary] - 8903
-[Ryan Donnelly] - 8904
-[Patrick Edwards] - 8905
-[Cooper Garven] - 8906
-[Sebastian Gunn] - 8907
-[Oscar Gurung] - 8908
-[Levi Hodgkinson] - 8909
-[Javier Inchong] - 8910
-[Matthew Joseph] - 8911
-[Lennox Laritz] - 8912
-[Christopher Keller] - 8913
-[James Meyer] - 8914
-[Joshua Meyer] - 8915
-[Jack Morgan] - 8916
-[Oliver Prout] - 8917
-[Lachlan Pike] - 8918
-[Robert Simpson] - 8919
-[Thomas Tetlow] - 8920
-[Jimmy Whatley Treyvaud] - 8921
-[Samuel Vincent] - 8922
-[Henry Shaw] - 8923
-[Henry Birchall] - 8924
-[Samuel Unwin] - 8925
-[Levi Turnbull] - 8926
-[Carter Dean] - 8927
-[Jack Dean] - 8928
-[Mason Norman] - 8929
-[Grayson Green] - 8930
-[Tong Ngor] - 8931
-[Hayden Marsh] - 8932
-[James Bowman] - 8933
-[Charlie Cervera] - 8934
-[Lachlan Attard] - 8935
-[William Gordon] - 8936
-[Joonatan Saar] - 8937
-[Finn Hayward] - 8938
-[Zachary Davis] - 8939
-[Sebastian Lamont] - 8940
-[Ethan Ademokun] - 8941
-[Oliver Jacobsen] - 8942
-[Nathaniel Morley] - 8943
-[Hunter Hubbard] - 8944
-[Jude Taylor] - 8945
-[Fletcher Kimpton] - 8946
-[Cooper Heagney] - 8947
-[Lucas Stevenson] - 8948
-[Luke Schuler] - 8949
-[Elliot Sullivan] - 8950
-[Grayson Griffin] - 8951
-[Hamish McPhee] - 8952
-[Braxton Utiera] - 8953
-[Matteo Utiera] - 8954
-[John Southby] - 8955
-[Cooper Clark] - 8956
-[Darcy Sanders] - 8957
-[Samuel Peter] - 8958
-[Jett Driutti] - 8959
-[Leonardo Otte Miller] - 8960
-[Jack Gilpin] - 8961
-[Brodie Kelly] - 8962
-[Giovanni Loschiavo] - 8963
-[Van Nilsson] - 8964
-[Ethan Burch] - 8965
-[Samuel Nielsen] - 8966
-[Hugo Cole] - 8967
-[Ayaan Mishra] - 8968
-[Mason Coope] - 8969
-[Archie McIver] - 8970
-[Riley Corney] - 8971
-[Bobby Wolfe] - 8972
-[Thomas Dunning] - 8973
-[Harvey Matthews] - 8974
-[Max Manz] - 8975
-[Thomas Logan] - 8976
-[Liam Bosnjak] - 8977
-[James Gafney] - 8978
-[August Gehrmann] - 8979
-[Kian Jyani] - 8980
-[Liam Halkyard] - 8981
-[William Jacks] - 8982
-[William Jackson] - 8983
-[Taj Nugent] - 8984
-[Harry Hayman] - 8985
-[Hanish Cherlapally] - 8986
-[Oliver Coughlan] - 8987
-[Riley Whiteoak] - 8988
-[Oliver Shepherd] - 8989
-[Fletcher McKenzie] - 8990
-[Benson Nancarrow] - 8991
-[Charlie Jenkins] - 8992
-[Jake Nesbitt] - 8993
-[Patrick Kearney] - 8994
-[Thomas Cohn] - 8995
-[Simon Grisales Ocampo] - 8996
-[Patrick Carey] - 8997
-[Finn Robinson-Henke] - 8998
-[James Ryan] - 8999
-[Harper Lokeni] - 9000
-[Thomas Kearney] - 9001
-[Ezekiel Fare] - 9002
-[Oliver Cleary] - 9003
-[Ethan Hammond] - 9004
-[Eamonn Perry] - 9005
-[Cooper Herlihy] - 9006
-[Thomas Neil] - 9007
-[Eddy Rogers] - 9008
-[Henry Jaenke] - 9009
-[Ted Beattie] - 9010
-[Lachlan Boyd] - 9011
-[Omar Gazawi] - 9012
-[Theo Fenwick] - 9013
-[Beeson Aryal] - 9014
-[Mataeo Te Muunu] - 9015
-[Will Kinghorn] - 9016
-[Oliver Bagdonas] - 9017
-[Cohen Vanderkly] - 9018
-[Dominic Delfos] - 9019
-[Chase Milkovic] - 9020
-[Gurshan Gill] - 9021
-[Aviraj Singh Goraya] - 9022
-[Gursamar Dhanda] - 9023
-[Ridley Hepburn] - 9024
-[Noah Watson] - 9025
-[Oliver Dowsett] - 9026
-[Alfie Dowsett] - 9027
-[Leon Jeong] - 9028
-[Lachlan Teed] - 9029
-[Jaxon Land] - 9030
-[Alexander Perro] - 9031
-[Leo Turner] - 9032
-[Nicholas Marin] - 9033
-[Xavier Limbach] - 9034
-[Karanprit Dhindsa] - 9035
-[Henry Bray] - 9036
-[Mateo Carson] - 9037
-[Gurfateh Singh] - 9038
-[Alexander Yap] - 9039
-[Noah Goldspink] - 9040
-[Max Weder] - 9041
-[Isaiah Denny] - 9042
-[Ryan Sigdel] - 9043
-[Jonathon Mee] - 9044
-[Aaron Vizer] - 9045
-[Koby Brackstone] - 9046
-[Grayson Colegate] - 9047
-[Mikeal Muir] - 9048
-[Cooper Lawson] - 9049
-[Quinn Ogilvie] - 9050
-[Sam Fox] - 9051
-[Dwyer Fox] - 9052
-[Carter Beck] - 9053
-[Flynn Chiapello] - 9054
-[Maxwell Smith] - 9055
-[Clancy Bishop] - 9056
-[Matthew Fleming] - 9101
-[Patrick Lawler] - 9128
-[Anshel Arun] - 9129
-[Kaiden Burton-Demmers] - 9149
-[Korey McGreevy] - 9162
-[Ethan Martin] - 9172
-[Joshua Cook] - 9173
-[Alfred McGowan] - 9174
+[Caspian Andrews] - 3175 - 26
+[Noah Hawkins] - 3176 - 26
+[Mitchell Jakavicius] - 3177 - 26
+[Thomas Giess] - 3178 - 26
+[Tarek Al Samaraie] - 3179 - 26
+[Lukas Magro] - 3180 - 26
+[Charlie Jones] - 3181 - 26
+[James Whitfield] - 3182 - 26
+[Micah Hamilton] - 3184 - 26
+[Isaiah Nalatu] - 3185 - 26
+[Harry Duffy] - 3186 - 26
+[William Howe] - 3187 - 26
+[Jesse Coates] - 3189 - 26
+[Finn O'Keefe] - 3190 - 26
+[Matthew Doyle] - 3192 - 26
+[Maximus Fox] - 3193 - 26
+[Aydan McGuire] - 3194 - 26
+[Hudson McKay] - 3196 - 26
+[Alexander McKenzie] - 3197 - 26
+[Tristan Dass] - 3198 - 26
+[Izak Devlin] - 3199 - 26
+[Jabez Yohannan] - 3203 - 26
+[Ronan McMahon] - 3208 - 26
+[Marc Millet] - 3214 - 26
+[Aiden Mason] - 3218 - 26
+[Zachary Wylie] - 3221 - 26
+[Evan Parker] - 3222 - 26
+[Rhys Plenderleith] - 3224 - 26
+[Dashiell Crutcher] - 3225 - 26
+[Cooper Aurisch] - 3226 - 26
+[Mitchell Nicholas] - 3228 - 26
+[Angus Stewart] - 3231 - 26
+[Tiakina Bateman] - 3232 - 26
+[Angus Ryan] - 3233 - 26
+[Isaac Madden] - 3238 - 26
+[Daniel Pryce-Davies] - 3239 - 26
+[Elijah Murdoch] - 3240 - 26
+[Tori Maccarone] - 3241 - 26
+[Eli Russell] - 3243 - 26
+[Henry Mattiske] - 3246 - 26
+[Jesse Burgess] - 3247 - 26
+[Jacob Brind] - 3248 - 26
+[Byron Emery] - 3249 - 26
+[Ethan Esaias] - 3250 - 26
+[William Mortimer] - 3254 - 26
+[Angus Turton] - 3255 - 26
+[Lincoln Gower] - 3259 - 26
+[Ryan Colsen] - 3260 - 26
+[Joel Tregenza] - 3261 - 26
+[Thomas Richardson] - 3262 - 26
+[Sam Innes] - 3263 - 26
+[Cooper Smith] - 3264 - 26
+[Levi Rynn] - 3265 - 26
+[Alexander Rynn] - 3266 - 26
+[Jack Davis] - 3267 - 26
+[Will O'Sullivan] - 3269 - 26
+[Harry Jones] - 3271 - 26
+[Zane Fletcher] - 3272 - 26
+[Harry Parchimowicz] - 3273 - 26
+[Charlie James] - 3274 - 26
+[Patrick Whitby] - 3275 - 26
+[Henry Kingston] - 3276 - 26
+[Adam Burgess] - 3277 - 26
+[Benjamin Rowley] - 3278 - 26
+[Maxx Warnecke] - 3279 - 26
+[George Croughton-Lloyd] - 3280 - 26
+[Adam Mitchell] - 3281 - 26
+[Liam Scully] - 3282 - 26
+[Joshua Sundhoo] - 3283 - 26
+[Aidan O'Regan] - 3284 - 26
+[Cael Armitage] - 3285 - 26
+[Joshua Manton] - 3286 - 26
+[Samuel Migus] - 3288 - 26
+[Harrison Hinwood] - 3289 - 26
+[Brock O'Sullivan] - 3291 - 26
+[Henry Moore] - 3292 - 26
+[Lewis Tatti] - 3293 - 26
+[Rowan Harris] - 3295 - 26
+[James Black] - 3296 - 26
+[William Miles] - 3298 - 26
+[Fletcher Sherlock] - 3299 - 26
+[Eddisen Vaughan] - 3300 - 26
+[Joel Peterson] - 3301 - 26
+[Oliver Ruggieri-Green] - 3302 - 26
+[Thomas Neville] - 3303 - 26
+[Flynn Kettle] - 3304 - 26
+[Lachlan MacPherson] - 3305 - 26
+[Thomas Cook] - 3306 - 26
+[Keegan Webb] - 3307 - 26
+[Alexander Blum] - 3308 - 26
+[Marley Pike] - 3311 - 26
+[Jake Hackett] - 3313 - 26
+[Kahu Evans] - 3315 - 26
+[Brodie Mulhearn] - 3316 - 26
+[Maxwell Gilbey] - 3317 - 26
+[Cameron Payne] - 3319 - 26
+[William Finch] - 3320 - 26
+[Bailey Macks] - 3321 - 26
+[Samuel Austin] - 3322 - 26
+[Aiden Pett] - 3323 - 26
+[Max McKay] - 3325 - 26
+[Harry Lusk] - 3326 - 26
+[Jack MacPherson] - 3329 - 26
+[Alex O'Malley] - 3330 - 26
+[Oliver Allen] - 3331 - 26
+[Benjamin Whiteside] - 3334 - 26
+[Benjamin Warburton] - 3336 - 26
+[George Gilleland] - 3337 - 26
+[Sebastian Traves] - 3338 - 26
+[Oliver Slater] - 3339 - 26
+[Luca McDonald] - 3340 - 26
+[Reilly Wade-Jayathungage] - 3341 - 26
+[Owen Colavito-Lynch] - 3342 - 26
+[Jamie Stringfellow] - 3343 - 26
+[Ayden Collins] - 3344 - 26
+[Riley Carsburg] - 3345 - 26
+[Dylan Maskell] - 3346 - 26
+[Mitchell McKay] - 3347 - 26
+[Max Terecans] - 3348 - 26
+[Marley Hanlon] - 3349 - 26
+[William Kinsella] - 3351 - 26
+[Samuel Noud] - 3352 - 26
+[Finn Mahon] - 3353 - 26
+[Patrick Clarke] - 3354 - 26
+[Logan Potter] - 3355 - 26
+[Callum Morrison] - 3356 - 26
+[Nicholas Bent] - 3357 - 26
+[Connor Flanagan] - 3358 - 26
+[Tristan Nicholls] - 3360 - 26
+[Alex Foltak] - 3361 - 26
+[Connor Inggs] - 3362 - 26
+[Hamish Page] - 3366 - 26
+[Seth Unigarro Canning] - 3367 - 26
+[Cooper Chan] - 3369 - 26
+[Jaxson Inch] - 3370 - 26
+[Drew Gardiner] - 3371 - 26
+[Charlie Burton] - 3372 - 26
+[Harper Cooper] - 3373 - 26
+[Thomas Hoarau] - 3374 - 26
+[Angus Gemmell] - 3375 - 26
+[Emanuel Dickison] - 3376 - 26
+[Max Kilroy] - 3377 - 26
+[Luke McDonald] - 3601 - 26
+[Adam Toohey] - 3604 - 26
+[Matthew Phillimore] - 3605 - 26
+[Patrick Weedon] - 3753 - 27
+[Samuel Sherlock] - 3754 - 27
+[Trent Kearney] - 3755 - 27
+[Matthew Barnett-Pickering] - 3756 - 27
+[Jude Hooper] - 3758 - 27
+[Sergio Ruggieri-Green] - 3759 - 27
+[Alexander Larman] - 3761 - 27
+[Zac Taylor] - 3762 - 27
+[Nate Taylor] - 3763 - 27
+[Isaac Van Stam] - 3764 - 27
+[Isaac Delporte] - 3765 - 27
+[Thomas Hewitt] - 3767 - 27
+[Aidan Downey] - 3768 - 27
+[Patrick Bothwell] - 3769 - 27
+[Isaac Cooper] - 3770 - 27
+[Liam Whitelaw] - 3771 - 27
+[Samuel Perez] - 3772 - 27
+[Edward Hennessy] - 3774 - 27
+[Luke Thirgood] - 3777 - 27
+[Lachlan Tuck] - 3780 - 27
+[Hayden Grainger] - 3781 - 27
+[Aidan Morgan] - 3782 - 27
+[Wil Stewart] - 3785 - 27
+[Thomas Sloan] - 3786 - 27
+[Blake Keogh] - 3787 - 27
+[William Heinemann] - 3788 - 27
+[Lachlan Laws] - 3789 - 27
+[Billy Martin] - 3791 - 27
+[Elijah Pastourel] - 3792 - 27
+[Jett Bassett] - 3793 - 27
+[Preston Jenkins] - 3794 - 27
+[Aidan McLaren] - 3795 - 27
+[Brady Polinski] - 3796 - 27
+[Noah Chilcott] - 3799 - 27
+[Jacob Barclay] - 3800 - 27
+[Lucas Wilson] - 3801 - 27
+[Ryan Hutchings] - 3802 - 27
+[Lucas Poole] - 3803 - 27
+[Thomas Dawson] - 3804 - 27
+[Hayden Craddock] - 3805 - 27
+[Campbell Staiger] - 3806 - 27
+[Adam Hogan] - 3807 - 27
+[Matthew Hahne] - 3808 - 27
+[Kahu Davis-Raeli] - 3809 - 27
+[Samuel Dufourq] - 3810 - 27
+[Aiden McNaught] - 3811 - 27
+[Darcy Harman] - 3812 - 27
+[Sebastian Pastoors] - 3813 - 27
+[Hamish Ferguson] - 3814 - 27
+[Felix Maddocks] - 3815 - 27
+[Filippo Ruggieri-Green] - 3816 - 27
+[Rhodes De Clercq] - 3817 - 27
+[Sol De Clercq] - 3818 - 27
+[Harry Hahn] - 3820 - 27
+[Liam Goves] - 3822 - 27
+[Peeter Sheppard] - 3823 - 27
+[Ethan Volker] - 3824 - 27
+[Ryan Purdy] - 3825 - 27
+[Jack Alcorn] - 3828 - 27
+[Oliver Bilek] - 3829 - 27
+[Daniel Mulugetta] - 3835 - 27
+[Brayden Simes] - 3836 - 27
+[James Dale] - 3837 - 27
+[Samuel Connell] - 3842 - 26
+[Connor Mitchell] - 3845 - 27
+[William Huxtable] - 3846 - 27
+[William Wood] - 3847 - 27
+[Lachlan Searle] - 3848 - 27
+[Lachlan Gresham] - 3849 - 27
+[Terry Holder] - 3850 - 27
+[Aidan Butler] - 3851 - 27
+[Lachlan Schultz] - 3854 - 27
+[Matthew Stafford] - 3857 - 27
+[Lachlan Warner] - 3858 - 27
+[Hayden George] - 3860 - 27
+[Luca Geerssen] - 3861 - 27
+[Jack Davie] - 3863 - 27
+[William Crago] - 3864 - 27
+[Frazer Scherf] - 3865 - 27
+[Oliver Black] - 3867 - 27
+[Will Quigley] - 3870 - 27
+[William Turner] - 3871 - 27
+[Max Speedy] - 3873 - 27
+[Isaac Dakin] - 3874 - 27
+[Eli Jubb] - 3875 - 27
+[Inglis Goff] - 3876 - 27
+[Addy Thurlow] - 3880 - 27
+[Harrison Blake] - 3885 - 26
+[Hudson Connelly] - 3892 - 27
+[Beau Edwards] - 3896 - 27
+[Jackson Smith] - 3897 - 27
+[Dylan Barton] - 3898 - 27
+[Finn Dutschke] - 3899 - 27
+[Ewan Waugh] - 3900 - 27
+[Jett Yee] - 3901 - 27
+[Rory Grant] - 3902 - 27
+[Mason Dew] - 3903 - 27
+[Angus Long] - 3904 - 27
+[Charlie Bott] - 3905 - 27
+[Benjamin Torrisi] - 3906 - 27
+[Riley Watt] - 3907 - 27
+[Hani Farah] - 3908 - 27
+[Tobias Lichtwark] - 3909 - 27
+[Kingston Rarere] - 3910 - 27
+[Cooper Sawina] - 3911 - 27
+[Lachlan Herweynen] - 3912 - 27
+[Japjot Singh] - 3913 - 27
+[Callum Grech] - 3914 - 27
+[Michael Clarke] - 3915 - 27
+[Harper Ayre] - 3916 - 27
+[Euan Reinhardt] - 3917 - 27
+[Samuel Anderson] - 3918 - 27
+[Jayden Briggs] - 3919 - 27
+[Kaizer Holt] - 3920 - 27
+[Bill Bukowski] - 3921 - 27
+[Luke Jones] - 3923 - 27
+[Dylan McMurray] - 3924 - 27
+[Charlie Russelhuber] - 3925 - 27
+[Joseph Hawke] - 3926 - 27
+[Joel Lywood] - 3927 - 27
+[Noah Smit] - 3928 - 27
+[Oscar Fennell] - 3929 - 27
+[Daniel Jelincic] - 3930 - 27
+[Alexander Addison] - 3932 - 27
+[Isaiah Gibbs] - 3934 - 27
+[Zak Krawczyk] - 3935 - 27
+[Lachlan Chamberlain] - 3936 - 27
+[Cooper Ramey] - 3937 - 27
+[Thomas Khan] - 3938 - 27
+[Hayden Breen] - 3939 - 27
+[Nate McGoldrick] - 3940 - 27
+[William Pritchard] - 3941 - 27
+[Oliver Fricotte] - 3942 - 27
+[Hunter Kandilierakis] - 3943 - 27
+[Archie Tebbutt] - 3944 - 27
+[Matthew Clark] - 3945 - 27
+[Clyff Watson] - 3946 - 27
+[Tobi Padgett] - 3947 - 27
+[Bryce Murray] - 3948 - 27
+[Clancy Royes] - 3949 - 27
+[Tui Nalatu] - 3951 - 27
+[Mitchell Wallis] - 3952 - 27
+[Manaia Tangitu] - 3953 - 27
+[William Church] - 3956 - 26
+[Kai Laine] - 3957 - 27
+[Harlem O'Keefe] - 3958 - 27
+[Luciano Diaz Abramovich] - 3959 - 27
+[Knox Enright] - 3960 - 27
+[Ayden Fontana] - 3961 - 26
+[Neil Gundecha] - 3963 - 26
+[Christian Seeto] - 3966 - 26
+[Hugh Sweetman] - 4195 - 27
+[Flynn Scully] - 4230 - 28
+[Cooper Williams] - 4231 - 28
+[Jackson Todoreskov] - 4232 - 28
+[Silas Kelly] - 4233 - 26
+[Benjamin Day] - 4234 - 28
+[Harrison Kedwell] - 4235 - 28
+[Lucas Batucan] - 4236 - 28
+[Harry Taylor-Bishop] - 4237 - 28
+[Christopher Mullins] - 4238 - 26
+[Sebastian Nicholls] - 4239 - 28
+[Reece Pollard] - 4240 - 26
+[Michael Magro] - 4241 - 28
+[Elijah Richards] - 4242 - 28
+[Beau Skowronek] - 4243 - 26
+[Leon Skowronek] - 4244 - 28
+[Oliver Hinwood] - 4245 - 28
+[Joseph Cook] - 4246 - 28
+[Samuel Crutcher] - 4247 - 28
+[Riley Walsh] - 4248 - 28
+[Samuel Green] - 4249 - 28
+[Harrison Burley] - 4250 - 28
+[Luke Kilroy] - 4251 - 28
+[Izaiah Brodie-Tomich] - 4252 - 28
+[Ethan Stevenson] - 4253 - 26
+[Ethan White] - 4254 - 26
+[Ryan Mahne] - 4255 - 26
+[Ryden Sutton] - 4256 - 28
+[Lachlan Priddin] - 4257 - 26
+[Tiago Gonzalez] - 4258 - 28
+[Joshua Gonzales] - 4259 - 28
+[Anthony Raven] - 4260 - 28
+[Max Webb] - 4261 - 26
+[Harvey Mortimer] - 4262 - 28
+[Lincoln Conlon] - 4263 - 26
+[Tanay Gulati] - 4264 - 26
+[Merrick Conlon] - 4265 - 26
+[Ryan Burgess] - 4266 - 28
+[James Batchelor] - 4267 - 28
+[Oliver Laws] - 4268 - 28
+[Andrew D'Souza] - 4269 - 26
+[Ryan West] - 4270 - 28
+[Tahj Hubbard] - 4271 - 26
+[Connor Hill] - 4272 - 28
+[Cooper Kurzke] - 4273 - 28
+[Carmelo Cartia] - 4274 - 28
+[Marius Graham] - 4275 - 28
+[Asher Lea] - 4276 - 26
+[Luca Murray] - 4277 - 28
+[Joseph Asnicar] - 4278 - 28
+[Kalev Hamilton] - 4279 - 28
+[Oliver Howe] - 4280 - 28
+[Robin Locke] - 4281 - 28
+[Solomon Fox] - 4282 - 28
+[Sam Asnicar] - 4283 - 28
+[Flynn Chard] - 4284 - 28
+[Declan McGuire] - 4285 - 28
+[Alexander Townsley] - 4286 - 26
+[Tarosh Sharma] - 4287 - 28
+[Hayden Tait] - 4288 - 28
+[Josh Taylor] - 4289 - 28
+[Chase Philpot] - 4290 - 26
+[Pranav Lal] - 4291 - 26
+[Nicholas Altmann] - 4292 - 26
+[Maximus Walsh] - 4293 - 28
+[Kaleb Arop] - 4294 - 26
+[Hayden Ney] - 4295 - 28
+[Oliver Potts] - 4296 - 28
+[Finn Maddock] - 4298 - 28
+[Corey Robinson] - 4299 - 28
+[Noah Cooper] - 4300 - 28
+[Archie Hall] - 4301 - 26
+[Jett Dean] - 4302 - 26
+[Benji Wilmshurst] - 4303 - 28
+[Ashmit Bankar] - 4304 - 28
+[Macarthur Petersen] - 4305 - 28
+[Taj Perrins] - 4306 - 26
+[Jack Avila] - 4307 - 26
+[Todd Lingard] - 4308 - 26
+[Jake Joby] - 4309 - 26
+[Riley Jolley] - 4310 - 28
+[Leyon Qass Dano] - 4311 - 26
+[Levi Muaiava] - 4312 - 26
+[Himal Shakya] - 4313 - 26
+[Finn Williams] - 4314 - 28
+[Caden Swannell] - 4315 - 28
+[William Conroy] - 4316 - 28
+[Christopher Martin] - 4317 - 28
+[Jett Walker] - 4318 - 28
+[James O'Donnell] - 4319 - 28
+[Afram Khudhur] - 4320 - 26
+[Aram Khudhur] - 4321 - 26
+[Hunter Fitz-Lauritsen] - 4322 - 28
+[Archie Taylour] - 4323 - 26
+[Luke Bishop] - 4324 - 28
+[Peter Taliana] - 4325 - 26
+[Xavier Stringfellow] - 4326 - 28
+[Harry Kane] - 4327 - 26
+[Riley Packer] - 4328 - 28
+[Jack Grant] - 4329 - 28
+[Lewis Khan] - 4330 - 28
+[Levi Guinnane] - 4331 - 28
+[Coby Holt] - 4332 - 28
+[Cody Asnicar] - 4333 - 28
+[Thomas Leftley] - 4334 - 28
+[Lachlan Harrison] - 4335 - 28
+[Michael Dwyer] - 4336 - 28
+[Harrison Lawther] - 4337 - 28
+[Reece Davis] - 4338 - 26
+[Noah Mahne] - 4339 - 26
+[Jake Parry] - 4340 - 26
+[Isaac Goodman] - 4341 - 26
+[Isaac Lahiff] - 4342 - 26
+[Sebastian Barber] - 4343 - 28
+[Nicholas Perry] - 4344 - 28
+[Lachlan Peterson] - 4345 - 28
+[Iszak Olasz-English] - 4346 - 28
+[Ronan Tully] - 4347 - 28
+[Whyatt Menyweather] - 4348 - 28
+[Finn Marlow] - 4349 - 28
+[Ethan Archard] - 4350 - 28
+[Matthew Underdown] - 4351 - 28
+[Jaxon Drury] - 4352 - 28
+[Spencer Fox] - 4353 - 28
+[Jack Munko] - 4354 - 28
+[Benjamin Munko] - 4355 - 28
+[Patrick Napper] - 4356 - 28
+[Bailey Drake] - 4357 - 28
+[Lucas Mattiske] - 4359 - 28
+[Lync Lauder] - 4360 - 28
+[Samuel Allison] - 4361 - 28
+[Alek Pavlyukovsky] - 4362 - 28
+[Hamish Innes] - 4363 - 28
+[William Graham] - 4364 - 28
+[Charlie Jones] - 4365 - 28
+[Kavi Bhagwan] - 4366 - 28
+[Charlie Gorton] - 4367 - 28
+[Owen Cruice] - 4368 - 28
+[Hue Tan] - 4369 - 26
+[Joseph Luxford] - 4370 - 28
+[Fraser MacBeth] - 4371 - 28
+[William Howard] - 4372 - 28
+[Kobi Newell] - 4373 - 28
+[Zac Bugler] - 4374 - 28
+[William David] - 4375 - 28
+[Billy Grose] - 4376 - 28
+[Connor West-Newman] - 4377 - 28
+[Finley Peppler] - 4378 - 28
+[Xavier Gibson] - 4379 - 28
+[Jack McDermott] - 4380 - 28
+[Liam Mudgway] - 4381 - 28
+[Sebastiaan Giezen] - 4382 - 28
+[Jack Passmore] - 4383 - 26
+[Darcy Walters] - 4384 - 28
+[Heath Baker] - 4385 - 28
+[Matthew Dowling] - 4386 - 28
+[Eli Bock] - 4387 - 28
+[Harry Connolly] - 4388 - 28
+[Albie Royes] - 4389 - 28
+[Aarnav Bankar] - 4390 - 27
+[Emilio Ceccato] - 4391 - 26
+[Orlando Ceccato] - 4392 - 28
+[Lachlan Richards] - 4393 - 26
+[Joshua Mukoma] - 4394 - 26
+[Jett Matthews] - 4395 - 26
+[Thomas Caldwell] - 4396 - 28
+[Luca Bicanic] - 4397 - 28
+[Lucas Mancini] - 4398 - 26
+[Joseph Pryce-Davies] - 4399 - 28
+[Oliver Hewitt] - 4400 - 28
+[Will Dickson] - 4401 - 28
+[Satyar Borzoo] - 4402 - 28
+[Charlton Toth] - 4403 - 28
+[Boston Lubke] - 4404 - 28
+[Aidan Megaw] - 4405 - 28
+[Lung Makuel] - 4406 - 26
+[Adam Singer] - 4407 - 28
+[Joshua Jones] - 4408 - 28
+[Eli Miles] - 4409 - 28
+[Eamon Manley] - 4410 - 28
+[Jackson Dickie] - 4411 - 26
+[Spencer Toth] - 4412 - 28
+[Jack McCorry] - 4413 - 28
+[Oliver Smith] - 4414 - 26
+[Braydan Thompson] - 4415 - 26
+[Oscar Kummer] - 4416 - 26
+[Flynn Larkins] - 4417 - 28
+[Khy Harrison] - 4418 - 28
+[Benjamin Davis] - 4419 - 28
+[Griffin McCormack] - 4420 - 28
+[Joshua Parkin] - 4421 - 28
+[Bailey Handcock] - 4422 - 28
+[Izaak Hughes-Musu] - 4423 - 26
+[Joshua Bradford] - 4425 - 28
+[Noah Avci] - 4426 - 26
+[Ben Chiu Chong] - 4427 - 28
+[Murray Woodbridge] - 4428 - 28
+[Samuel Sander] - 4429 - 26
+[William Jones] - 4430 - 26
+[Harrison Dwyer] - 4431 - 28
+[Mitchell Thompson] - 4432 - 26
+[Shaun Spathonis] - 4433 - 26
+[Corey Mapp] - 4434 - 26
+[Will Amos] - 4435 - 26
+[Stanley Hambling] - 4436 - 26
+[Connor Melit] - 4437 - 28
+[Liam Hall] - 4438 - 26
+[Hugo Bent] - 4439 - 28
+[James Perkins] - 4440 - 28
+[Lewis O'Malley] - 4946 - 28
+[Tristan Auelua] - 4958 - 26
+[Carter Parcell] - 4988 - 26
+[Jamie Lummis] - 5011 - 26
+[Patrick Dickinson] - 5012 - 26
+[Mathias Uitime] - 5016 - 26
+[Oscar Brown] - 5019 - 26
+[Percy Page] - 5025 - 27
+[Simon Priddey Delfino] - 5028 - 26
+[Noah Evans] - 5031 - 26
+[Liam Miller] - 5038 - 28
+[Lachy Theodossio] - 5041 - 27
+[Theo Tsingos] - 5067 - 27
+[Harry Hewitt] - 5068 - 29
+[Hugo Morgan] - 5069 - 27
+[Henry Burke] - 5070 - 29
+[Tristan Mullins] - 5071 - 29
+[Hayden Cooper] - 5072 - 29
+[Archie Fraser] - 5073 - 29
+[Ronan Jenkins] - 5074 - 29
+[Alex Cahill] - 5075 - 27
+[Jaxon Williams] - 5076 - 29
+[Parker James] - 5077 - 29
+[Archie Ceccato] - 5078 - 27
+[Samir Gurung] - 5079 - 27
+[Charlton Volter] - 5080 - 29
+[Joshua Dale] - 5081 - 29
+[Dominic Goreta] - 5082 - 29
+[Ethan Sainsbury] - 5083 - 29
+[Penn Wilson] - 5084 - 29
+[John Meredith] - 5085 - 27
+[Cash Calder] - 5086 - 27
+[Anderson Hennessy] - 5087 - 29
+[Alexander McLeod] - 5088 - 27
+[Edward Atkins] - 5089 - 29
+[Ciaran Nicholas] - 5090 - 29
+[Isaac Noone] - 5091 - 27
+[Kai Leggett] - 5092 - 29
+[Dane Audibert] - 5093 - 29
+[Flynn Esaias] - 5094 - 29
+[Jensen Mendoza] - 5095 - 27
+[Felix Ferguson] - 5096 - 29
+[Finn McMenz] - 5097 - 29
+[Camden Lawson] - 5098 - 27
+[Jacob Hadwick] - 5099 - 29
+[Hamish Adams] - 5100 - 27
+[Hayden Wecker] - 5101 - 29
+[Cory Catling] - 5102 - 29
+[Abiel Healy] - 5103 - 27
+[Dominic Downey] - 5105 - 29
+[Blake Martin] - 5106 - 27
+[Mitchell Southby] - 5107 - 29
+[Jayden Foy] - 5108 - 29
+[Carter Horn] - 5109 - 29
+[Jaden Armitage] - 5110 - 29
+[Zachary Macks] - 5111 - 29
+[Thomas Hanly] - 5112 - 29
+[Parker Stevens] - 5113 - 29
+[Emmet Burow] - 5114 - 29
+[Finn Walker] - 5115 - 29
+[Noah Warner] - 5116 - 29
+[Lachlan Maskell] - 5117 - 29
+[Levi MacDonald] - 5118 - 27
+[Jethro Cope] - 5119 - 29
+[Josh McDonald] - 5120 - 29
+[Campbell Turner] - 5121 - 29
+[Riley Brannelly] - 5122 - 29
+[Lachlan Page] - 5123 - 29
+[Thomas Burton] - 5124 - 29
+[William Hoarau] - 5125 - 29
+[Blake Morton] - 5126 - 29
+[Harry Whitfield] - 5127 - 29
+[Eamon Stanton] - 5128 - 27
+[Finn Yee] - 5129 - 29
+[Henry Long] - 5130 - 29
+[Oliver Lichtwark] - 5131 - 29
+[Alfie Clarke] - 5132 - 29
+[Joshua Morgan] - 5133 - 27
+[Isaac Morgan] - 5134 - 29
+[Cayden Read] - 5135 - 27
+[Archie Hawke] - 5136 - 29
+[Zack Martinez] - 5137 - 27
+[Ellis Breen] - 5138 - 29
+[Morgan Pritchard] - 5139 - 29
+[Thomas Culver] - 5140 - 27
+[Olli Padgett] - 5141 - 29
+[Finn Richards] - 5142 - 29
+[Ben Parry] - 5143 - 29
+[William Dickinson] - 5144 - 27
+[Seth Goodman] - 5145 - 27
+[Will Dallas] - 5146 - 27
+[Eli Dallas] - 5147 - 29
+[Mauro Diaz Abramovich] - 5148 - 29
+[Rylee Harrison] - 5149 - 29
+[Matthys Visser] - 5150 - 27
+[Cooper Ferguson] - 5151 - 29
+[Dominic Philpot] - 5152 - 29
+[Cristian Sala-Eden] - 5153 - 27
+[Harrington Petersen] - 5154 - 29
+[Jesse Fuary-James] - 5155 - 27
+[Isaac Geary] - 5156 - 27
+[Nicholas Liddell] - 5157 - 27
+[Nicolas Ollenburg] - 5158 - 27
+[Miguel Alladin] - 5159 - 27
+[Lachlan Button] - 5160 - 27
+[Munro Kelland] - 5161 - 27
+[Adam Maliakkal] - 5162 - 27
+[Finn Pickwell] - 5163 - 27
+[Samson Pouniu] - 5164 - 27
+[Arya Prabhuram] - 5165 - 27
+[Oliver Pyle] - 5166 - 27
+[Joshua D'Addona] - 5167 - 27
+[Elijah Doran] - 5168 - 27
+[Max Hannah] - 5169 - 27
+[Joshua Menzies] - 5170 - 27
+[Lucas O'Brien] - 5171 - 27
+[Tanaka Midzi] - 5172 - 27
+[Jacob Monk] - 5173 - 29
+[Damon Langan] - 5174 - 29
+[Chase Elliott] - 5175 - 29
+[Thane McArthur] - 5176 - 29
+[Lachlan Edmonds] - 5177 - 29
+[Thomas Wickett] - 5178 - 29
+[I Gede Donaldson] - 5179 - 29
+[Bailey Walter] - 5180 - 29
+[Callan Hutton] - 5181 - 29
+[Noah Uhr] - 5182 - 29
+[Tyler Haynes] - 5183 - 29
+[Harrison Hornby] - 5184 - 29
+[Harrison Lyons] - 5185 - 29
+[Eli Fenech] - 5186 - 29
+[Beau Williams] - 5187 - 29
+[Freddie Hampton] - 5188 - 27
+[Monty Hampton] - 5189 - 27
+[Heston Kumar] - 5190 - 29
+[Bailey Murrell] - 5191 - 29
+[Jash Hirani] - 5192 - 29
+[Sam Briggs] - 5193 - 29
+[Noah Lindner] - 5194 - 29
+[Nicholas Whiting] - 5195 - 29
+[Edward Bazeos] - 5196 - 29
+[Zeke Greenfield] - 5197 - 29
+[Fynn Schulte] - 5198 - 29
+[Finn Gilbert] - 5199 - 29
+[Zachary Keefe] - 5200 - 29
+[Cooper Pritchard] - 5201 - 29
+[Spencer Vowles] - 5202 - 29
+[Talan Neilsen] - 5203 - 29
+[Jack Hobbs] - 5204 - 29
+[Corbin Welsh] - 5205 - 29
+[Billy Brown] - 5206 - 29
+[James Wilson] - 5207 - 29
+[Jacob Ellis] - 5208 - 29
+[Akshat Niroop] - 5209 - 29
+[Flynn Sallmann] - 5210 - 29
+[Luca Good] - 5211 - 29
+[Owen McKinley] - 5212 - 29
+[Jude McClure] - 5213 - 29
+[Logan Jordan] - 5214 - 29
+[Bobby Potter] - 5215 - 29
+[Dylan Postlethwaite] - 5216 - 29
+[Blake Abbott] - 5217 - 29
+[Joseph Morris] - 5218 - 29
+[Spencer Tsingos] - 5219 - 29
+[Oliver Baldwin] - 5220 - 29
+[Clancy Scanlan] - 5221 - 29
+[Denim McCormack] - 5222 - 29
+[Harrison Hickey] - 5223 - 29
+[Jackson Leslie] - 5224 - 29
+[Elijah Pepperdene] - 5225 - 29
+[Sharanpreet Barring] - 5226 - 29
+[Samuel McColl] - 5227 - 29
+[Nathan Watson] - 5228 - 29
+[Seth Donnelly] - 5229 - 29
+[Benjiman French] - 5230 - 29
+[Spencer Dillewaard] - 5231 - 29
+[Mitchell Todd] - 5232 - 29
+[Harry Collins] - 5233 - 29
+[Cooper Mann] - 5234 - 29
+[Maneet Sarao] - 5235 - 29
+[Hugh Gow] - 5236 - 29
+[Mason Gow] - 5237 - 27
+[Dulisha Fernando] - 5238 - 29
+[Braxton O'Brien] - 5239 - 29
+[Benjamin Nicholson] - 5240 - 29
+[Nicholas Lawless] - 5241 - 29
+[Jacob Vernon] - 5242 - 29
+[Elliot Hitchcock] - 5243 - 29
+[Jack White] - 5244 - 29
+[Tyler White] - 5245 - 29
+[Jarlath Murphy] - 5246 - 29
+[Jack Kunst] - 5247 - 29
+[Jack McKeering] - 5248 - 29
+[Hunter Paulger] - 5249 - 27
+[Bentley Paulger] - 5250 - 29
+[Jack Stretton] - 5251 - 27
+[Jaireet Tej] - 5252 - 29
+[Alex McKinnon] - 5253 - 27
+[Phoenix Munday] - 5254 - 29
+[Noah Giess] - 5255 - 29
+[Eric Shrestha] - 5256 - 27
+[Nathaniel Wiles] - 5258 - 27
+[Angus Pitman] - 5259 - 27
+[Jack Taverner] - 5260 - 27
+[Charlie White] - 5261 - 29
+[Lachlan Sellars] - 5262 - 29
+[Angus Kruger] - 5263 - 27
+[Seturo Nanai] - 5264 - 27
+[Percy Baker] - 5265 - 29
+[Rydah Nixon] - 5266 - 27
+[Taj Rai] - 5267 - 29
+[Jaiden Buultjens] - 5268 - 29
+[Tyson Bailey] - 5269 - 29
+[Jaraiya Lewis] - 5270 - 27
+[Lucca Sanson] - 5271 - 27
+[Tom Hills] - 5272 - 29
+[Alex Collins] - 5275 - 26
+[Cuan van Bart] - 5277 - 27
+[Saxon Waters] - 5278 - 26
+[Max Hillard] - 5280 - 26
+[Jack Hillard] - 5281 - 27
+[Marlin Jones] - 5282 - 26
+[Ceasario Lopes] - 5284 - 26
+[Jacob Hose] - 5287 - 27
+[Eiden Sijokallungal] - 5291 - 26
+[Edwin Sijokallungal] - 5292 - 27
+[Harry O'Dwyer] - 5293 - 26
+[Kaleb Kelly] - 5431 - 28
+[Oliver Howell] - 5471 - 28
+[Lucas John] - 5472 - 27
+[Benjamin Lippert] - 5489 - 28
+[Marcus Cooper] - 5490 - 28
+[Benji Wright] - 5508 - 29
+[Matthew Marsberg] - 5511 - 26
+[Charlie McGill] - 5512 - 27
+[Jack Mathers] - 5513 - 27
+[Charlie Mathers] - 5514 - 29
+[Ryan Megaw] - 6567 - 30
+[Jack Mosely] - 6568 - 30
+[Nate McCullough] - 6569 - 30
+[Reuben Dufourq] - 6570 - 30
+[Lewis Copping] - 6571 - 28
+[Liam McKeering] - 6572 - 30
+[Daniel Simpson] - 6573 - 30
+[Ben Craker] - 6574 - 30
+[Severin De Clercq] - 6575 - 30
+[Cooper Dionysius] - 6576 - 30
+[Louie Taylor-Bishop] - 6577 - 30
+[Raf Gonzalez] - 6578 - 30
+[Luas Morgan] - 6579 - 30
+[Angus Laws] - 6580 - 30
+[Noah Pastourel] - 6581 - 30
+[Fin McGlone] - 6582 - 28
+[Lochlan McGlone] - 6583 - 28
+[Lachlan McLaren] - 6584 - 30
+[Angus Leftley] - 6585 - 30
+[Jordan Packer] - 6586 - 30
+[Finlay Cass-Daly] - 6587 - 30
+[Emmett Cass-Daly] - 6588 - 30
+[Rhys Gribben] - 6589 - 28
+[Oliver Harkin] - 6590 - 30
+[Archie Andrews] - 6591 - 30
+[Lincoln Williams] - 6592 - 30
+[Freddie Franklin] - 6593 - 30
+[Oisin Lacey] - 6594 - 30
+[Jaedon Albayalde] - 6595 - 28
+[Eli Whiteside] - 6596 - 30
+[Ethan Collins] - 6597 - 28
+[Harrison Riedel] - 6598 - 30
+[Monty Sweetman] - 6599 - 30
+[Benjamin Bell] - 6600 - 30
+[Liam Buckley] - 6601 - 28
+[William Mackinnon] - 6602 - 30
+[Darcy Caddy] - 6603 - 30
+[Lucas Kinsella] - 6604 - 30
+[Tyler Komarzynski] - 6605 - 28
+[Campbell Smith] - 6606 - 28
+[Boston Speedy] - 6607 - 30
+[Krystian Foltak] - 6608 - 30
+[Malachi Hamilton] - 6609 - 30
+[Asher Hamilton] - 6610 - 30
+[Cooper Blake] - 6611 - 30
+[James McLeavy] - 6612 - 30
+[Aaron Nmanii] - 6613 - 28
+[Malakai Rarere] - 6614 - 30
+[Levi McGoldrick] - 6615 - 30
+[James Passmore] - 6616 - 28
+[Jack Dallas] - 6617 - 30
+[Otis Laine] - 6619 - 30
+[Ari Williams] - 6620 - 30
+[Charlie Allison] - 6621 - 30
+[Nikolai Pavlyukovsky] - 6622 - 30
+[Duncan Caldwell] - 6623 - 30
+[Nathan Clarke] - 6624 - 28
+[Nicolai Fitz-Lauritsen] - 6625 - 30
+[Leon David] - 6626 - 30
+[Xavier Marlow] - 6627 - 30
+[Maxwell Dowling] - 6628 - 28
+[Ben Underdown] - 6629 - 30
+[Daniel Taylor] - 6630 - 30
+[Finn Harper] - 6631 - 28
+[Vince Tan] - 6632 - 30
+[Joshua Ollenburg] - 6633 - 28
+[Liam Ollenburg] - 6634 - 30
+[Harrison Little] - 6635 - 28
+[Max Potts] - 6636 - 30
+[Luke Greenfield] - 6637 - 30
+[Fletcher Good] - 6638 - 30
+[Aden McClure] - 6639 - 30
+[Billy McArdle] - 6640 - 28
+[Blake McArdle] - 6641 - 30
+[Jake Clur] - 6642 - 28
+[Xavier Ballinger] - 6643 - 28
+[Aidan Buchanan] - 6644 - 28
+[Oliver Buchanan] - 6645 - 30
+[Hayden Punter] - 6646 - 28
+[Nathanael Passagne] - 6647 - 28
+[Teddy Wright] - 6648 - 28
+[Xavier Skiba] - 6649 - 28
+[Lucas Anthony] - 6650 - 28
+[Noah Anthony] - 6651 - 30
+[Jacob Blyth] - 6652 - 28
+[Kobi Blyth] - 6653 - 30
+[Nathaniel Chaffey] - 6654 - 28
+[Phoenix Duggan-Saseve] - 6655 - 28
+[Ben Clynes] - 6656 - 28
+[Cooper Black] - 6657 - 28
+[Billy O'Sullivan] - 6658 - 28
+[Lincoln Mason] - 6659 - 28
+[Edrik Potocki] - 6660 - 30
+[Griff Jones] - 6661 - 28
+[Harry Williams] - 6662 - 28
+[Codyn Stuy] - 6663 - 28
+[Sammy Kainth] - 6664 - 28
+[Riley Slingsby] - 6665 - 28
+[Ryder Dowling] - 6666 - 28
+[Flynn Niu] - 6667 - 28
+[George Kruger] - 6668 - 30
+[Jaxon McKean] - 6669 - 28
+[Kc Nixon] - 6670 - 30
+[Tanah Kowaltzke] - 6671 - 30
+[Jonah Valcovich] - 6672 - 30
+[Alex Rosuck] - 6673 - 30
+[Eli Reid] - 6674 - 30
+[Leo Griffiths] - 6675 - 30
+[Hayden Cleaver] - 6676 - 30
+[Max Wheeler] - 6677 - 30
+[Alexander Dashwood] - 6678 - 30
+[Noah Harridge] - 6679 - 30
+[Levi Johanson] - 6680 - 30
+[Jack McCubbin] - 6681 - 30
+[Archie Falkus] - 6682 - 30
+[Dylan Harvey] - 6683 - 30
+[Hamish Searle] - 6684 - 30
+[Reuben Ryan] - 6685 - 30
+[Flynn Harding] - 6686 - 30
+[Alfie Triggs] - 6687 - 30
+[Theo Gillott] - 6688 - 30
+[Thomas Vaughan] - 6689 - 30
+[Jack Compton] - 6690 - 30
+[Jim Westell] - 6691 - 30
+[Noah Shilvock] - 6692 - 30
+[Elliott Gallagher] - 6693 - 30
+[Josh Straton] - 6694 - 30
+[Noah Landsberg] - 6695 - 30
+[Scott Inglis] - 6696 - 30
+[Oska Littlewood] - 6697 - 30
+[Archer Ryall] - 6698 - 30
+[Fynn Stewart] - 6699 - 30
+[Nicholas Robb] - 6700 - 30
+[Luca Meehan] - 6701 - 30
+[Mason Reed] - 6702 - 30
+[Jonty Coetzee] - 6703 - 30
+[Lincoln Clark] - 6704 - 30
+[Samuel Cavanagh] - 6705 - 30
+[James Cavanagh] - 6706 - 30
+[Noah Le Marsney] - 6707 - 30
+[Rex Smith] - 6708 - 30
+[Mossi Smith] - 6709 - 29
+[Ben Philp] - 6710 - 30
+[Riley Alexander] - 6711 - 30
+[Harry Mayoh] - 6712 - 30
+[Mason Duncan] - 6713 - 30
+[Benji Scott] - 6714 - 30
+[Joshua Macann] - 6715 - 30
+[Patrick O'Dea] - 6716 - 30
+[Jack McGuinness] - 6717 - 30
+[Sebastian Robertson] - 6718 - 30
+[Owen Atkinson] - 6719 - 30
+[Aarav Chawla] - 6720 - 30
+[Luca Bizjak] - 6721 - 30
+[Lincoln Chan] - 6722 - 30
+[Angus Murray] - 6723 - 30
+[Hayden Oxley] - 6724 - 30
+[Jude Ainsworth] - 6725 - 30
+[Thomas Dearling] - 6726 - 30
+[Oliver Black] - 6727 - 30
+[Archer Harris] - 6728 - 30
+[Cooper Cox] - 6729 - 30
+[Liam Mancini] - 6730 - 30
+[Henry Fastlabend] - 6731 - 30
+[Logan Jurkiewicz] - 6732 - 30
+[Ben Ingram] - 6733 - 30
+[Hudson Ramsay] - 6734 - 30
+[Kali Harris] - 6735 - 30
+[Harrison Hendle] - 6736 - 30
+[Lochlan Blake] - 6737 - 30
+[Adam Romkes] - 6738 - 30
+[Harrison Cornish] - 6739 - 30
+[Cohen Andersen] - 6740 - 30
+[Harvey Saunders] - 6741 - 30
+[Chayse Thomas] - 6742 - 30
+[Declan Stafford] - 6743 - 30
+[Axel Allen-Baker] - 6744 - 30
+[Hudson Jack] - 6745 - 30
+[Sebastian Bally] - 6746 - 30
+[Xavier Olsen] - 6747 - 29
+[Tanvir Kalia] - 6748 - 30
+[Liam van Bart] - 6749 - 30
+[Mika Cvetko-Lueger] - 6750 - 28
+[Aaron Walsh] - 6751 - 30
+[Aston Young] - 6752 - 30
+[Christian O'Dempsey] - 6753 - 28
+[Tau Tamaariki] - 6754 - 28
+[Ekampreet Dhaliwal] - 6755 - 28
+[Finbar Newton] - 6756 - 30
+[Dylan Miller] - 6757 - 29
+[Jordan Welling] - 6758 - 28
+[Gurtaj Sandhu] - 6759 - 28
+[Junsei Martin] - 6760 - 30
+[James Masson] - 6761 - 27
+[Nicholas Di Tullio] - 6762 - 30
+[Jake Reid] - 6763 - 28
+[Zaki Maddock] - 6764 - 28
+[Darcy Coleman] - 6766 - 28
+[Xavier Loli] - 6767 - 27
+[Max Kilkelly] - 6768 - 28
+[Alex Petrellis] - 6769 - 26
+[Josh Petrellis] - 6770 - 27
+[Jack Woolf] - 6771 - 26
+[Cooper Coca] - 7058 - 27
+[Flynn Light] - 7062 - 27
+[Oliver Gribble] - 7064 - 29
+[Matthew Campbell] - 7081 - 26
+[Maddox Brown] - 7095 - 30
+[Maror Muorter] - 7119 - 26
+[Ashley Valenton] - 7133 - 26
+[Max McCarthy] - 7135 - 27
+[Alexander Churchill] - 7148 - 30
+[Harrison Murphy] - 7149 - 27
+[Callum Mitchell] - 7153 - 28
+[Austin Bird] - 7164 - 28
+[Andy Rio] - 7167 - 28
+[Student SPC] - 7174 - 28
+[Patrick Taylor] - 7201 - 30
+[Oscar Powell] - 7209 - 30
+[Gautam Bhalla] - 7212 - 29
+[Goldit Mabor] - 7213 - 28
+[Dani Akkad] - 7215 - 27
+[Samuel Poole] - 7218 - 27
+[Jacob Makuel] - 7497 - 29
+[Levi Singer] - 7498 - 31
+[Oliver Henry] - 7499 - 31
+[Brock Catling] - 7500 - 31
+[William Hewitt] - 7501 - 31
+[Majith Shan] - 7502 - 29
+[Levi Cooper] - 7503 - 31
+[Hayden Cook] - 7504 - 31
+[Emmett Volter] - 7505 - 31
+[Liam Tiru] - 7506 - 31
+[Sidney Huxtable] - 7507 - 31
+[James Searle] - 7508 - 31
+[Harvey Bell] - 7509 - 31
+[George Thomas] - 7510 - 29
+[Liam Hodkinson] - 7511 - 29
+[Archie Faulkner] - 7512 - 31
+[Cameron Price] - 7513 - 29
+[Jye Evans] - 7514 - 29
+[Lachlan Riedel] - 7515 - 31
+[Sonny Duff] - 7516 - 31
+[Finley Smith] - 7517 - 29
+[Cooper Lenz] - 7518 - 29
+[Alexander Coutts] - 7519 - 31
+[Jack Millar] - 7520 - 31
+[Kristian Inch] - 7521 - 31
+[Samuel Kilroy] - 7522 - 31
+[Lucas Clarke] - 7523 - 31
+[Bisajpreet Singh] - 7524 - 31
+[Fraser Stanley] - 7525 - 29
+[Jaxson White] - 7526 - 29
+[Ned Connolly] - 7527 - 31
+[Oscar Giezen] - 7528 - 31
+[Julian Cruice] - 7529 - 31
+[Tareq Walker] - 7530 - 31
+[Cory Bugler] - 7531 - 31
+[Cohen Menyweather] - 7532 - 31
+[Flinders Petersen] - 7533 - 31
+[Xavier Geary] - 7534 - 29
+[Cameron Menzies] - 7535 - 29
+[Oliver Wickett] - 7536 - 31
+[Oliver Lindner] - 7537 - 31
+[Oliver Bazeos] - 7538 - 31
+[Callum Chapman] - 7539 - 29
+[Adam Frojda] - 7540 - 29
+[Levi McKinley] - 7541 - 31
+[Fraser Tsingos] - 7542 - 31
+[Gus Donnelly] - 7543 - 31
+[George Mann] - 7544 - 31
+[Jivraj Sandhu] - 7545 - 29
+[Oliver Lawson] - 7546 - 29
+[Mason McKinnon] - 7547 - 31
+[Benjamin Punter] - 7548 - 31
+[Ashton Cooper] - 7549 - 31
+[Mohit Sheenmar] - 7550 - 28
+[Glenn Hanson] - 7551 - 29
+[Jai Hanson] - 7552 - 29
+[Gaivy Klair] - 7553 - 29
+[Jayden Wong] - 7554 - 31
+[Corbin McKean] - 7555 - 31
+[Jackson Kemp] - 7556 - 29
+[Knox Harridge] - 7557 - 31
+[Flynn Drake] - 7558 - 29
+[Martin Priddey Delfino] - 7559 - 31
+[Eli Clancy] - 7560 - 29
+[Elgin Sijokallungal] - 7561 - 31
+[Mason Crawford] - 7562 - 29
+[Rowan Thapa] - 7563 - 29
+[Nathan Mangilit] - 7564 - 29
+[Preet Sidhu] - 7565 - 29
+[Zach Balnaves] - 7566 - 29
+[Lachie Norton] - 7567 - 29
+[Harry McGregor] - 7568 - 29
+[Tomas Cortes Duran] - 7569 - 29
+[Matthew Pershouse] - 7570 - 29
+[Abhijot Kingra] - 7571 - 29
+[James Spriggens] - 7572 - 29
+[Samyam Karki] - 7573 - 29
+[Tom Lawler] - 7574 - 29
+[Frankie Worland] - 7575 - 29
+[Archie Denning] - 7576 - 29
+[Byron Heberley] - 7577 - 29
+[Dempsey Anstiss] - 7578 - 29
+[Samuel O'Dempsey] - 7579 - 29
+[Noah Temple] - 7580 - 29
+[Riley Ditchburn] - 7581 - 31
+[Harry Zerafa] - 7582 - 31
+[Liam Clues] - 7583 - 31
+[Jack Buckland] - 7584 - 31
+[Zaid Riley] - 7585 - 31
+[Koby Strydom] - 7586 - 31
+[Angus Harris] - 7587 - 29
+[Ashwyn Gamage] - 7588 - 29
+[Harrison Smallbon] - 7589 - 31
+[Jack Love] - 7590 - 31
+[Jude Cosgrove] - 7591 - 31
+[Walter Hillier] - 7592 - 31
+[Archie Jones] - 7593 - 31
+[Lewis Herrod] - 7594 - 31
+[Hunter Gray] - 7595 - 31
+[LeBron Foondun] - 7596 - 31
+[Thomas Graham] - 7597 - 31
+[Benjamin Freestone] - 7598 - 31
+[Ryker Green] - 7599 - 31
+[Harrison Lowther] - 7600 - 31
+[Oliver Hamilton] - 7601 - 31
+[Thorin Muldal] - 7602 - 31
+[Theo Machado-Smith] - 7603 - 31
+[Noah Coutinho] - 7604 - 31
+[Xavier Whittam] - 7605 - 31
+[Lachlan Dancer] - 7606 - 31
+[Bailey Brandon] - 7607 - 31
+[Oakley Gordon-Smith] - 7608 - 31
+[Cooper Williams] - 7609 - 31
+[Ethan Nicholls] - 7610 - 31
+[Lachlan Bartlett] - 7611 - 31
+[Thomas Smith] - 7612 - 31
+[Charles Hedges] - 7613 - 31
+[Carter Masson] - 7614 - 31
+[Lucas Barnard] - 7615 - 31
+[Baines McCallum] - 7616 - 31
+[James Batty] - 7617 - 31
+[Henry Pollock] - 7618 - 31
+[Liam Treacy] - 7619 - 31
+[Nathan Foat] - 7620 - 31
+[Lincoln Seitz] - 7621 - 31
+[Theodore Nugent] - 7622 - 31
+[Benjamin Clark] - 7623 - 31
+[Bayley Anderson] - 7624 - 31
+[Charlie Andrews] - 7625 - 31
+[Jet Harradine] - 7626 - 31
+[Eli Harradine] - 7627 - 31
+[Brennan Campbell] - 7628 - 31
+[Jack Stowe] - 7629 - 31
+[Finlay O'Connor] - 7630 - 31
+[Archer Hall] - 7631 - 31
+[Oliver Cargill] - 7632 - 31
+[Harrison Munce] - 7633 - 31
+[Ashton Farley] - 7634 - 31
+[Harrison Dellit] - 7635 - 31
+[Brandon Ryan] - 7636 - 31
+[Jayden Devine] - 7637 - 31
+[Joseph Gavel] - 7638 - 31
+[Louis Tucker] - 7639 - 31
+[Max Jarrott] - 7640 - 31
+[Jai Fisher] - 7641 - 31
+[Sebastian Ebner] - 7642 - 31
+[Louie Rowe] - 7643 - 31
+[Owen Russo] - 7644 - 31
+[Charlie Wilkins] - 7645 - 31
+[Andrew Durston] - 7646 - 31
+[Liam Waddell] - 7647 - 31
+[Joshua Loveday-Lowe] - 7648 - 31
+[Cody Kelly Grice] - 7649 - 31
+[Kieran Latham] - 7650 - 31
+[Max Copeman] - 7651 - 31
+[Dexter Gray] - 7652 - 31
+[Oscar Francis] - 7653 - 31
+[Boston Silver] - 7654 - 31
+[Hugh Townsend] - 7655 - 31
+[Charlie Dwyer] - 7656 - 29
+[Brody Coleman] - 7657 - 31
+[Nico Berman] - 7658 - 29
+[Aarush Paudel] - 7659 - 31
+[Max Millar] - 7660 - 31
+[Charlie Norris] - 7661 - 31
+[Jack Stokes] - 7662 - 31
+[Will Davidson] - 7663 - 30
+[Tobias Overell] - 7664 - 29
+[Conor Finnerty] - 7665 - 31
+[Harrison Walls] - 7666 - 31
+[Oscar Johnson] - 7667 - 31
+[Oliver Johnson] - 7668 - 31
+[Jim Mitchell] - 7669 - 30
+[Finley Kuys] - 7670 - 31
+[James Wilson] - 7671 - 29
+[Kye Bowmaker] - 7672 - 27
+[James Morris] - 7673 - 30
+[Adam Edwards] - 7674 - 30
+[Thomas Tauzowski] - 7675 - 31
+[Jagger Evans] - 7676 - 31
+[Ashton Young] - 7677 - 29
+[Patrick Young] - 7678 - 31
+[Ethan Baird] - 7679 - 29
+[Kristian Amato] - 7680 - 29
+[Jack Amato] - 7681 - 31
+[Flynn Chandler] - 7682 - 29
+[Harry Chandler] - 7683 - 28
+[Brady Williams] - 7684 - 29
+[Spencer Sandys] - 7685 - 27
+[Dustin Henderson] - 7686 - 29
+[Ari Henderson] - 7687 - 30
+[Riley McShane] - 7688 - 31
+[Benjamin Ball] - 7689 - 28
+[Bailey Graham] - 7690 - 29
+[Elijah Lucas] - 7691 - 31
+[Harvey Lucas] - 7699 - 30
+[Travis O'Connor] - 7737 - 29
+[Lachlan O'Grady] - 7738 - 29
+[Gantin Taulani] - 7741 - 29
+[Petar Ratkovic] - 7767 - 28
+[Shida Fadeyibi] - 7781 - 26
+[Jaxton Warren] - 7789 - 30
+[Sam Longmire] - 7794 - 30
+[Harry Stilianos] - 7807 - 28
+[Jesse Harbourne] - 7808 - 27
+[Ellis Lawson] - 7809 - 26
+[Jordan Vujevich] - 7816 - 27
+[Melarn Vujevich-Rapie] - 7817 - 31
+[Bentley Green] - 7834 - 28
+[Isaac McLoughlin] - 7835 - 30
+[Ryley Leather] - 7859 - 30
+[Tommy McMahon] - 7860 - 30
+[Tyson Estella] - 7861 - 30
+[Benjamin Krushka] - 8159 - 32
+[Isaac Hazelman] - 8160 - 30
+[Matthew Silver-Thomas] - 8161 - 32
+[Billy Tot] - 8162 - 30
+[Flint Grainger] - 8163 - 32
+[Samson Prlja] - 8164 - 32
+[Marcus Webb] - 8165 - 30
+[George Mamin] - 8166 - 32
+[Riley Gribben] - 8167 - 30
+[Andrew Henderson-Scott] - 8168 - 30
+[Dylan Lacey] - 8169 - 32
+[Alexander Walker] - 8170 - 32
+[Benjamin Davie] - 8171 - 32
+[Ethan Meunier] - 8172 - 32
+[Patrick Smith] - 8173 - 32
+[Owen Vanderkley] - 8174 - 30
+[Jake Duffy] - 8175 - 32
+[Frederick Long] - 8176 - 32
+[Theodore Martinez] - 8177 - 32
+[Jacob Bow] - 8178 - 32
+[Nicholas Martin] - 8179 - 32
+[Harry Cooper] - 8180 - 32
+[Jaxon Handcock] - 8181 - 32
+[Tawona Midzi] - 8182 - 30
+[Matthew Whiting] - 8183 - 32
+[Ben Chapman] - 8184 - 32
+[Jesse Sallmann] - 8185 - 32
+[Harrison Leslie] - 8186 - 32
+[Julian Anthony] - 8187 - 32
+[Carter Chaffey] - 8188 - 32
+[Luka Baker] - 8189 - 32
+[Aaron Watkins] - 8190 - 29
+[Arnold Wheeler] - 8191 - 32
+[Silas Jose] - 8192 - 30
+[Ash Brooks] - 8193 - 28
+[Hudson Gallagher] - 8194 - 32
+[Oliver Wolff] - 8195 - 30
+[Matthew Drew] - 8196 - 30
+[Liam Lipman] - 8197 - 30
+[Ethan Lipman] - 8198 - 32
+[Jasson Brooks] - 8199 - 30
+[Dean Brooks] - 8200 - 32
+[Luke McGuinness] - 8201 - 32
+[Jack Whitbourne] - 8202 - 30
+[William Oxley] - 8203 - 32
+[Tom Craig] - 8204 - 30
+[Elliott Fastlabend] - 8205 - 32
+[Eddie Meredith] - 8206 - 30
+[George Meredith] - 8207 - 32
+[Harry Ingram] - 8208 - 32
+[Lennox Andersen] - 8209 - 32
+[Austin Allen-Baker] - 8210 - 32
+[William Cannan] - 8211 - 30
+[Mason Heberley] - 8212 - 32
+[Thomas Lee] - 8213 - 29
+[Jaygo Hall] - 8214 - 30
+[Malakai Tamaariki] - 8215 - 30
+[Cormac Newton] - 8216 - 32
+[Dallas Strydom] - 8217 - 32
+[Joel Coutinho] - 8218 - 32
+[Alex Ross] - 8219 - 31
+[Callen Tynan] - 8220 - 30
+[Connor Treacy] - 8221 - 32
+[Kousei Martin] - 8222 - 32
+[Henry Carter] - 8223 - 30
+[Jacob Barber] - 8224 - 30
+[Joseph Borger] - 8225 - 30
+[Archer Light] - 8226 - 30
+[Jenson Hunter] - 8227 - 30
+[Abram Kikhwa] - 8228 - 30
+[Kennedy Mateariki] - 8229 - 30
+[Sam Nagy] - 8230 - 30
+[Angus Ong] - 8231 - 30
+[Flynn Rowlands] - 8232 - 30
+[Finlay Wong] - 8233 - 30
+[Archie Wong] - 8234 - 32
+[Olle Adriansson] - 8235 - 30
+[Hunter Overell] - 8236 - 32
+[Flynn Charlton] - 8237 - 30
+[Thomas Lowe] - 8238 - 30
+[Noah Guymer] - 8239 - 30
+[Miller Crawford-Smith] - 8240 - 30
+[Carter Edward] - 8241 - 30
+[Hunter Turnbull] - 8242 - 30
+[Sebastian Green] - 8243 - 30
+[Harnoorvir Singh] - 8244 - 30
+[Abhijot Sharma] - 8245 - 30
+[James McAlister] - 8246 - 30
+[Patrick Wilson] - 8247 - 30
+[Jaydon Hides] - 8248 - 32
+[James McIntyre] - 8249 - 30
+[Oliver Ayres] - 8250 - 32
+[Archie Beutel] - 8251 - 32
+[William Baker] - 8252 - 32
+[Samuel Birchall] - 8253 - 32
+[Jasper Brown] - 8254 - 32
+[Oliver Butterley] - 8255 - 32
+[Benji Campbell] - 8256 - 32
+[Michael Connell] - 8257 - 32
+[Karstan Davis] - 8258 - 32
+[Harrison Caughey] - 8259 - 32
+[Harrison Garland] - 8260 - 32
+[James Ebert] - 8261 - 32
+[Harry Caughey] - 8262 - 32
+[Kylaan D'Souza] - 8263 - 32
+[Lincoln Ellison] - 8264 - 32
+[Mason Fowlie] - 8265 - 32
+[Oscar Hunt] - 8266 - 32
+[Caden Gardner] - 8267 - 32
+[Enrique Cifuentes] - 8268 - 32
+[Teddy Clark] - 8269 - 32
+[Parker Cleave] - 8270 - 32
+[Tate Young] - 8271 - 32
+[Henry Hart] - 8272 - 32
+[Aston Guest] - 8273 - 32
+[Lennox Wilson] - 8274 - 32
+[Harrison O'Brien] - 8275 - 32
+[Jack van der Pluijm] - 8276 - 32
+[Rhys Miller] - 8277 - 32
+[Joshua Titman] - 8278 - 32
+[Dominic Villanueva] - 8279 - 32
+[William Persijn] - 8280 - 32
+[Flynn Wetherell] - 8281 - 32
+[Sam Roberts] - 8282 - 32
+[Henry Lawrence] - 8283 - 32
+[Liam McNiven] - 8284 - 32
+[George Thomas] - 8285 - 32
+[River Weight] - 8286 - 32
+[Elliot Piatti] - 8287 - 32
+[Clay Roberts] - 8288 - 32
+[Finn Simmons] - 8289 - 32
+[Alfred Kelly] - 8290 - 32
+[Arlo Harvey] - 8291 - 32
+[Nate Inglis] - 8292 - 32
+[Bodhi Hearnden] - 8293 - 32
+[Edward O'Rourke] - 8294 - 32
+[Callum Panayotakis] - 8295 - 32
+[Jaxson Saunders] - 8296 - 32
+[Gray Collins] - 8297 - 32
+[Daniel Kelly] - 8298 - 32
+[Oscar Spence] - 8299 - 32
+[Xavier Holmes] - 8300 - 32
+[Isaac Cronin] - 8301 - 32
+[Marcel Rao] - 8302 - 32
+[Jack Morgan] - 8303 - 32
+[Liam Morgan] - 8304 - 32
+[Edison Rose] - 8305 - 32
+[Ned Steel] - 8306 - 32
+[Heath Pountney] - 8307 - 32
+[Chase Weller] - 8308 - 32
+[Sebastian Silman] - 8309 - 32
+[Oliver Stewart] - 8310 - 32
+[Taika Takiari] - 8311 - 32
+[Noah Adamson] - 8312 - 32
+[Jayden Baird] - 8313 - 30
+[Henry Batch] - 8314 - 32
+[JaCobi Brooks] - 8315 - 32
+[Zane Anabtawi] - 8316 - 32
+[Finnlay Moore] - 8317 - 32
+[Enrico La Spina] - 8318 - 30
+[Sahibjot Malhi] - 8319 - 32
+[Parker Manning] - 8320 - 32
+[Thomas Bronish] - 8321 - 32
+[Sameer Puwar] - 8322 - 32
+[Aryan Puwar] - 8323 - 30
+[Taj Hanna] - 8324 - 32
+[Samuel Hooper] - 8325 - 32
+[Abhinav Timsina] - 8326 - 30
+[Connor Payne] - 8327 - 30
+[Parker Cabrera] - 8328 - 32
+[Josaphat Conquest] - 8329 - 30
+[Hadley Riach] - 8330 - 32
+[Lachlan Weston] - 8331 - 32
+[Joshua Callaghan] - 8332 - 32
+[Jarvis Cook] - 8333 - 30
+[Andrew Aluvula] - 8334 - 30
+[Gurmanpreet Bhullar] - 8335 - 27
+[Carter Cusack] - 8336 - 30
+[Jacob Adzraku] - 8337 - 30
+[Benjamin Westcott] - 8338 - 32
+[Elias Gillott] - 8339 - 30
+[Sebastian Leeds] - 8340 - 30
+[Oliver Belgrove] - 8341 - 32
+[Tyrese Healey] - 8342 - 30
+[Advit Gogia] - 8343 - 32
+[Foxx Delbridge] - 8344 - 32
+[Kai Dawes] - 8345 - 32
+[Alexander Houghton] - 8346 - 32
+[Jamis Rounds] - 8347 - 30
+[Harrison Cattell] - 8348 - 32
+[Saxon Scholes] - 8349 - 32
+[Oliver McDowell] - 8350 - 32
+[Charlie Bale] - 8351 - 32
+[Paula Mohenoa] - 8352 - 31
+[Harrison Ripp] - 8353 - 29
+[George Wilson] - 8354 - 29
+[Zachary Hose] - 8355 - 28
+[Thomas Gregg] - 8356 - 31
+[Bailey Lokeni] - 8357 - 30
+[Hugh Winter] - 8358 - 31
+[Rafael Azzarello] - 8359 - 29
+[Alfred Strachan] - 8360 - 29
+[Lewis Pascoe] - 8361 - 29
+[Rhys Liquorish] - 8382 - 30
+[Hunter Liquorish] - 8383 - 32
+[Quinn Callaghan] - 8418 - 30
+[Yousif Al-Hayali] - 8425 - 27
+[Lachlan McGavin] - 8449 - 29
+[Frankie Harvey] - 8468 - 28
+[William James] - 8469 - 32
+[Joshua Barsby] - 8470 - 30
+[Samuel Tredrea] - 8471 - 27
+[Jaden Fourie] - 8472 - 29
+[Kauala Vakauku] - 8490 - 28
+[Xavier Goodwin] - 8511 - 28
+[Magnus De Clercq] - 8843 - 33
+[Zac Stewart] - 8844 - 33
+[Quinn Gribben] - 8845 - 31
+[Jeremy Anderson] - 8846 - 31
+[Patrick Hanly] - 8847 - 33
+[Lachlan Chapman] - 8848 - 31
+[Hayden Chapman] - 8849 - 33
+[Nicholas Riedel] - 8850 - 33
+[Hugo Caddy] - 8851 - 33
+[Sebastian Ellis] - 8852 - 33
+[Leo McMahon] - 8853 - 33
+[Louie Seery] - 8854 - 33
+[Bennett Kedwell] - 8855 - 33
+[Adam Russelhuber] - 8856 - 33
+[Parker Perrins] - 8857 - 33
+[Sebastian Pickwell] - 8858 - 31
+[Ripley Morris] - 8859 - 33
+[Charlie Lawson] - 8860 - 31
+[Joseph Williams] - 8861 - 31
+[Sebastian Valcovich] - 8862 - 33
+[Francis Ryan] - 8863 - 33
+[Blake Landsberg] - 8864 - 33
+[Zachary Robertson] - 8865 - 33
+[Dominic Robertson] - 8866 - 33
+[Hayden Stafford] - 8867 - 33
+[Elliott Jack] - 8868 - 33
+[Hugo Denning] - 8869 - 31
+[Harvey Clues] - 8870 - 33
+[Parker Harris] - 8871 - 31
+[Kaylan Gamage] - 8872 - 31
+[Lachlan Smallbon] - 8873 - 33
+[Fraser Herrod] - 8874 - 33
+[Parker Brandon] - 8875 - 33
+[Adam Nicholls] - 8876 - 33
+[Kaito Bartlett] - 8877 - 33
+[Kayden Crawford] - 8878 - 31
+[Clancy Andrews] - 8879 - 33
+[James Peterson] - 8880 - 31
+[Noah Glover] - 8881 - 31
+[Arlo Hurrell] - 8882 - 31
+[Walter Pentis] - 8883 - 31
+[Jenson Russo] - 8884 - 33
+[Noah Hovenden MacPherson] - 8885 - 31
+[Mitchell Reid] - 8886 - 31
+[Oliver Reid] - 8887 - 33
+[Jackson Gardner] - 8888 - 31
+[William Woolf] - 8889 - 33
+[Frey Adriansson] - 8890 - 33
+[Jett Adriansson] - 8891 - 33
+[Quinn Kuys] - 8892 - 33
+[Avijot Singh] - 8893 - 31
+[Jacob Curtain] - 8894 - 31
+[Nuku Baines Framhein] - 8895 - 31
+[Charles Tauzowski] - 8896 - 33
+[Sylas Evans] - 8897 - 33
+[Brandon Nilsson] - 8898 - 31
+[Patrick Amato] - 8899 - 33
+[Thomas Hooper] - 8900 - 33
+[Jeevan Alappatt] - 8901 - 31
+[Theodore Barsby] - 8902 - 31
+[Brayden Cleary] - 8903 - 31
+[Ryan Donnelly] - 8904 - 31
+[Patrick Edwards] - 8905 - 31
+[Cooper Garven] - 8906 - 31
+[Sebastian Gunn] - 8907 - 31
+[Oscar Gurung] - 8908 - 31
+[Levi Hodgkinson] - 8909 - 31
+[Javier Inchong] - 8910 - 31
+[Matthew Joseph] - 8911 - 31
+[Lennox Laritz] - 8912 - 31
+[Christopher Keller] - 8913 - 31
+[James Meyer] - 8914 - 31
+[Joshua Meyer] - 8915 - 33
+[Jack Morgan] - 8916 - 31
+[Oliver Prout] - 8917 - 31
+[Lachlan Pike] - 8918 - 31
+[Robert Simpson] - 8919 - 31
+[Thomas Tetlow] - 8920 - 31
+[Jimmy Whatley Treyvaud] - 8921 - 31
+[Samuel Vincent] - 8922 - 31
+[Henry Shaw] - 8923 - 31
+[Henry Birchall] - 8924 - 31
+[Samuel Unwin] - 8925 - 31
+[Levi Turnbull] - 8926 - 31
+[Carter Dean] - 8927 - 31
+[Jack Dean] - 8928 - 33
+[Mason Norman] - 8929 - 33
+[Grayson Green] - 8930 - 31
+[Tong Ngor] - 8931 - 31
+[Hayden Marsh] - 8932 - 31
+[James Bowman] - 8933 - 33
+[Charlie Cervera] - 8934 - 33
+[Lachlan Attard] - 8935 - 33
+[William Gordon] - 8936 - 33
+[Joonatan Saar] - 8937 - 33
+[Finn Hayward] - 8938 - 33
+[Zachary Davis] - 8939 - 33
+[Sebastian Lamont] - 8940 - 33
+[Ethan Ademokun] - 8941 - 33
+[Oliver Jacobsen] - 8942 - 33
+[Nathaniel Morley] - 8943 - 33
+[Hunter Hubbard] - 8944 - 33
+[Jude Taylor] - 8945 - 33
+[Fletcher Kimpton] - 8946 - 33
+[Cooper Heagney] - 8947 - 33
+[Lucas Stevenson] - 8948 - 33
+[Luke Schuler] - 8949 - 33
+[Elliot Sullivan] - 8950 - 33
+[Grayson Griffin] - 8951 - 33
+[Hamish McPhee] - 8952 - 33
+[Braxton Utiera] - 8953 - 33
+[Matteo Utiera] - 8954 - 33
+[John Southby] - 8955 - 33
+[Cooper Clark] - 8956 - 33
+[Darcy Sanders] - 8957 - 33
+[Samuel Peter] - 8958 - 33
+[Jett Driutti] - 8959 - 33
+[Leonardo Otte Miller] - 8960 - 33
+[Jack Gilpin] - 8961 - 33
+[Brodie Kelly] - 8962 - 33
+[Giovanni Loschiavo] - 8963 - 33
+[Van Nilsson] - 8964 - 33
+[Ethan Burch] - 8965 - 33
+[Samuel Nielsen] - 8966 - 33
+[Hugo Cole] - 8967 - 33
+[Ayaan Mishra] - 8968 - 33
+[Mason Coope] - 8969 - 33
+[Archie McIver] - 8970 - 33
+[Riley Corney] - 8971 - 33
+[Bobby Wolfe] - 8972 - 33
+[Thomas Dunning] - 8973 - 33
+[Harvey Matthews] - 8974 - 33
+[Max Manz] - 8975 - 33
+[Thomas Logan] - 8976 - 33
+[Liam Bosnjak] - 8977 - 33
+[James Gafney] - 8978 - 33
+[August Gehrmann] - 8979 - 33
+[Kian Jyani] - 8980 - 33
+[Liam Halkyard] - 8981 - 33
+[William Jacks] - 8982 - 33
+[William Jackson] - 8983 - 33
+[Taj Nugent] - 8984 - 33
+[Harry Hayman] - 8985 - 33
+[Hanish Cherlapally] - 8986 - 33
+[Oliver Coughlan] - 8987 - 33
+[Riley Whiteoak] - 8988 - 33
+[Oliver Shepherd] - 8989 - 33
+[Fletcher McKenzie] - 8990 - 33
+[Benson Nancarrow] - 8991 - 33
+[Charlie Jenkins] - 8992 - 33
+[Jake Nesbitt] - 8993 - 33
+[Patrick Kearney] - 8994 - 33
+[Thomas Cohn] - 8995 - 33
+[Simon Grisales Ocampo] - 8996 - 33
+[Patrick Carey] - 8997 - 33
+[Finn Robinson-Henke] - 8998 - 33
+[James Ryan] - 8999 - 33
+[Harper Lokeni] - 9000 - 31
+[Thomas Kearney] - 9001 - 33
+[Ezekiel Fare] - 9002 - 31
+[Oliver Cleary] - 9003 - 31
+[Ethan Hammond] - 9004 - 31
+[Eamonn Perry] - 9005 - 33
+[Cooper Herlihy] - 9006 - 33
+[Thomas Neil] - 9007 - 33
+[Eddy Rogers] - 9008 - 33
+[Henry Jaenke] - 9009 - 31
+[Ted Beattie] - 9010 - 31
+[Lachlan Boyd] - 9011 - 31
+[Omar Gazawi] - 9012 - 31
+[Theo Fenwick] - 9013 - 31
+[Beeson Aryal] - 9014 - 31
+[Mataeo Te Muunu] - 9015 - 31
+[Will Kinghorn] - 9016 - 31
+[Oliver Bagdonas] - 9017 - 33
+[Cohen Vanderkly] - 9018 - 32
+[Dominic Delfos] - 9019 - 33
+[Chase Milkovic] - 9020 - 32
+[Gurshan Gill] - 9021 - 31
+[Aviraj Singh Goraya] - 9022 - 31
+[Gursamar Dhanda] - 9023 - 31
+[Ridley Hepburn] - 9024 - 33
+[Noah Watson] - 9025 - 31
+[Oliver Dowsett] - 9026 - 31
+[Alfie Dowsett] - 9027 - 32
+[Leon Jeong] - 9028 - 33
+[Lachlan Teed] - 9029 - 33
+[Jaxon Land] - 9030 - 31
+[Alexander Perro] - 9031 - 31
+[Leo Turner] - 9032 - 33
+[Nicholas Marin] - 9033 - 33
+[Xavier Limbach] - 9034 - 33
+[Karanprit Dhindsa] - 9035 - 29
+[Henry Bray] - 9036 - 33
+[Mateo Carson] - 9037 - 31
+[Gurfateh Singh] - 9038 - 31
+[Alexander Yap] - 9039 - 31
+[Noah Goldspink] - 9040 - 33
+[Max Weder] - 9041 - 31
+[Isaiah Denny] - 9042 - 31
+[Ryan Sigdel] - 9043 - 29
+[Jonathon Mee] - 9044 - 30
+[Aaron Vizer] - 9045 - 33
+[Koby Brackstone] - 9046 - 31
+[Grayson Colegate] - 9047 - 33
+[Mikeal Muir] - 9048 - 33
+[Cooper Lawson] - 9049 - 30
+[Quinn Ogilvie] - 9050 - 30
+[Sam Fox] - 9051 - 27
+[Dwyer Fox] - 9052 - 32
+[Carter Beck] - 9053 - 29
+[Flynn Chiapello] - 9054 - 28
+[Maxwell Smith] - 9055 - 27
+[Clancy Bishop] - 9056 - 33
+[Matthew Fleming] - 9101 - 30
+[Patrick Lawler] - 9128 - 32
+[Anshel Arun] - 9129 - 27
+[Kaiden Burton-Demmers] - 9149 - 27
+[Korey McGreevy] - 9162 - 28
+[Ethan Martin] - 9172 - 29
+[Joshua Cook] - 9173 - 29
+[Alfred McGowan] - 9174 - 32
