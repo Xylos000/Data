@@ -1,1615 +1,1615 @@
-[Caspian Andrews] - 3175 - 26
-[Noah Hawkins] - 3176 - 26
-[Mitchell Jakavicius] - 3177 - 26
-[Thomas Giess] - 3178 - 26
-[Tarek Al Samaraie] - 3179 - 26
-[Lukas Magro] - 3180 - 26
-[Charlie Jones] - 3181 - 26
-[James Whitfield] - 3182 - 26
-[Micah Hamilton] - 3184 - 26
-[Isaiah Nalatu] - 3185 - 26
-[Harry Duffy] - 3186 - 26
-[William Howe] - 3187 - 26
-[Jesse Coates] - 3189 - 26
-[Finn O'Keefe] - 3190 - 26
-[Matthew Doyle] - 3192 - 26
-[Maximus Fox] - 3193 - 26
-[Aydan McGuire] - 3194 - 26
-[Hudson McKay] - 3196 - 26
-[Alexander McKenzie] - 3197 - 26
-[Tristan Dass] - 3198 - 26
-[Izak Devlin] - 3199 - 26
-[Jabez Yohannan] - 3203 - 26
-[Ronan McMahon] - 3208 - 26
-[Marc Millet] - 3214 - 26
-[Aiden Mason] - 3218 - 26
-[Zachary Wylie] - 3221 - 26
-[Evan Parker] - 3222 - 26
-[Rhys Plenderleith] - 3224 - 26
-[Dashiell Crutcher] - 3225 - 26
-[Cooper Aurisch] - 3226 - 26
-[Mitchell Nicholas] - 3228 - 26
-[Angus Stewart] - 3231 - 26
-[Tiakina Bateman] - 3232 - 26
-[Angus Ryan] - 3233 - 26
-[Isaac Madden] - 3238 - 26
-[Daniel Pryce-Davies] - 3239 - 26
-[Elijah Murdoch] - 3240 - 26
-[Tori Maccarone] - 3241 - 26
-[Eli Russell] - 3243 - 26
-[Henry Mattiske] - 3246 - 26
-[Jesse Burgess] - 3247 - 26
-[Jacob Brind] - 3248 - 26
-[Byron Emery] - 3249 - 26
-[Ethan Esaias] - 3250 - 26
-[William Mortimer] - 3254 - 26
-[Angus Turton] - 3255 - 26
-[Lincoln Gower] - 3259 - 26
-[Ryan Colsen] - 3260 - 26
-[Joel Tregenza] - 3261 - 26
-[Thomas Richardson] - 3262 - 26
-[Sam Innes] - 3263 - 26
-[Cooper Smith] - 3264 - 26
-[Levi Rynn] - 3265 - 26
-[Alexander Rynn] - 3266 - 26
-[Jack Davis] - 3267 - 26
-[Will O'Sullivan] - 3269 - 26
-[Harry Jones] - 3271 - 26
-[Zane Fletcher] - 3272 - 26
-[Harry Parchimowicz] - 3273 - 26
-[Charlie James] - 3274 - 26
-[Patrick Whitby] - 3275 - 26
-[Henry Kingston] - 3276 - 26
-[Adam Burgess] - 3277 - 26
-[Benjamin Rowley] - 3278 - 26
-[Maxx Warnecke] - 3279 - 26
-[George Croughton-Lloyd] - 3280 - 26
-[Adam Mitchell] - 3281 - 26
-[Liam Scully] - 3282 - 26
-[Joshua Sundhoo] - 3283 - 26
-[Aidan O'Regan] - 3284 - 26
-[Cael Armitage] - 3285 - 26
-[Joshua Manton] - 3286 - 26
-[Samuel Migus] - 3288 - 26
-[Harrison Hinwood] - 3289 - 26
-[Brock O'Sullivan] - 3291 - 26
-[Henry Moore] - 3292 - 26
-[Lewis Tatti] - 3293 - 26
-[Rowan Harris] - 3295 - 26
-[James Black] - 3296 - 26
-[William Miles] - 3298 - 26
-[Fletcher Sherlock] - 3299 - 26
-[Eddisen Vaughan] - 3300 - 26
-[Joel Peterson] - 3301 - 26
-[Oliver Ruggieri-Green] - 3302 - 26
-[Thomas Neville] - 3303 - 26
-[Flynn Kettle] - 3304 - 26
-[Lachlan MacPherson] - 3305 - 26
-[Thomas Cook] - 3306 - 26
-[Keegan Webb] - 3307 - 26
-[Alexander Blum] - 3308 - 26
-[Marley Pike] - 3311 - 26
-[Jake Hackett] - 3313 - 26
-[Kahu Evans] - 3315 - 26
-[Brodie Mulhearn] - 3316 - 26
-[Maxwell Gilbey] - 3317 - 26
-[Cameron Payne] - 3319 - 26
-[William Finch] - 3320 - 26
-[Bailey Macks] - 3321 - 26
-[Samuel Austin] - 3322 - 26
-[Aiden Pett] - 3323 - 26
-[Max McKay] - 3325 - 26
-[Harry Lusk] - 3326 - 26
-[Jack MacPherson] - 3329 - 26
-[Alex O'Malley] - 3330 - 26
-[Oliver Allen] - 3331 - 26
-[Benjamin Whiteside] - 3334 - 26
-[Benjamin Warburton] - 3336 - 26
-[George Gilleland] - 3337 - 26
-[Sebastian Traves] - 3338 - 26
-[Oliver Slater] - 3339 - 26
-[Luca McDonald] - 3340 - 26
-[Reilly Wade-Jayathungage] - 3341 - 26
-[Owen Colavito-Lynch] - 3342 - 26
-[Jamie Stringfellow] - 3343 - 26
-[Ayden Collins] - 3344 - 26
-[Riley Carsburg] - 3345 - 26
-[Dylan Maskell] - 3346 - 26
-[Mitchell McKay] - 3347 - 26
-[Max Terecans] - 3348 - 26
-[Marley Hanlon] - 3349 - 26
-[William Kinsella] - 3351 - 26
-[Samuel Noud] - 3352 - 26
-[Finn Mahon] - 3353 - 26
-[Patrick Clarke] - 3354 - 26
-[Logan Potter] - 3355 - 26
-[Callum Morrison] - 3356 - 26
-[Nicholas Bent] - 3357 - 26
-[Connor Flanagan] - 3358 - 26
-[Tristan Nicholls] - 3360 - 26
-[Alex Foltak] - 3361 - 26
-[Connor Inggs] - 3362 - 26
-[Hamish Page] - 3366 - 26
-[Seth Unigarro Canning] - 3367 - 26
-[Cooper Chan] - 3369 - 26
-[Jaxson Inch] - 3370 - 26
-[Drew Gardiner] - 3371 - 26
-[Charlie Burton] - 3372 - 26
-[Harper Cooper] - 3373 - 26
-[Thomas Hoarau] - 3374 - 26
-[Angus Gemmell] - 3375 - 26
-[Emanuel Dickison] - 3376 - 26
-[Max Kilroy] - 3377 - 26
-[Luke McDonald] - 3601 - 26
-[Adam Toohey] - 3604 - 26
-[Matthew Phillimore] - 3605 - 26
-[Patrick Weedon] - 3753 - 27
-[Samuel Sherlock] - 3754 - 27
-[Trent Kearney] - 3755 - 27
-[Matthew Barnett-Pickering] - 3756 - 27
-[Jude Hooper] - 3758 - 27
-[Sergio Ruggieri-Green] - 3759 - 27
-[Alexander Larman] - 3761 - 27
-[Zac Taylor] - 3762 - 27
-[Nate Taylor] - 3763 - 27
-[Isaac Van Stam] - 3764 - 27
-[Isaac Delporte] - 3765 - 27
-[Thomas Hewitt] - 3767 - 27
-[Aidan Downey] - 3768 - 27
-[Patrick Bothwell] - 3769 - 27
-[Isaac Cooper] - 3770 - 27
-[Liam Whitelaw] - 3771 - 27
-[Samuel Perez] - 3772 - 27
-[Edward Hennessy] - 3774 - 27
-[Luke Thirgood] - 3777 - 27
-[Lachlan Tuck] - 3780 - 27
-[Hayden Grainger] - 3781 - 27
-[Aidan Morgan] - 3782 - 27
-[Wil Stewart] - 3785 - 27
-[Thomas Sloan] - 3786 - 27
-[Blake Keogh] - 3787 - 27
-[William Heinemann] - 3788 - 27
-[Lachlan Laws] - 3789 - 27
-[Billy Martin] - 3791 - 27
-[Elijah Pastourel] - 3792 - 27
-[Jett Bassett] - 3793 - 27
-[Preston Jenkins] - 3794 - 27
-[Aidan McLaren] - 3795 - 27
-[Brady Polinski] - 3796 - 27
-[Noah Chilcott] - 3799 - 27
-[Jacob Barclay] - 3800 - 27
-[Lucas Wilson] - 3801 - 27
-[Ryan Hutchings] - 3802 - 27
-[Lucas Poole] - 3803 - 27
-[Thomas Dawson] - 3804 - 27
-[Hayden Craddock] - 3805 - 27
-[Campbell Staiger] - 3806 - 27
-[Adam Hogan] - 3807 - 27
-[Matthew Hahne] - 3808 - 27
-[Kahu Davis-Raeli] - 3809 - 27
-[Samuel Dufourq] - 3810 - 27
-[Aiden McNaught] - 3811 - 27
-[Darcy Harman] - 3812 - 27
-[Sebastian Pastoors] - 3813 - 27
-[Hamish Ferguson] - 3814 - 27
-[Felix Maddocks] - 3815 - 27
-[Filippo Ruggieri-Green] - 3816 - 27
-[Rhodes De Clercq] - 3817 - 27
-[Sol De Clercq] - 3818 - 27
-[Harry Hahn] - 3820 - 27
-[Liam Goves] - 3822 - 27
-[Peeter Sheppard] - 3823 - 27
-[Ethan Volker] - 3824 - 27
-[Ryan Purdy] - 3825 - 27
-[Jack Alcorn] - 3828 - 27
-[Oliver Bilek] - 3829 - 27
-[Daniel Mulugetta] - 3835 - 27
-[Brayden Simes] - 3836 - 27
-[James Dale] - 3837 - 27
-[Samuel Connell] - 3842 - 26
-[Connor Mitchell] - 3845 - 27
-[William Huxtable] - 3846 - 27
-[William Wood] - 3847 - 27
-[Lachlan Searle] - 3848 - 27
-[Lachlan Gresham] - 3849 - 27
-[Terry Holder] - 3850 - 27
-[Aidan Butler] - 3851 - 27
-[Lachlan Schultz] - 3854 - 27
-[Matthew Stafford] - 3857 - 27
-[Lachlan Warner] - 3858 - 27
-[Hayden George] - 3860 - 27
-[Luca Geerssen] - 3861 - 27
-[Jack Davie] - 3863 - 27
-[William Crago] - 3864 - 27
-[Frazer Scherf] - 3865 - 27
-[Oliver Black] - 3867 - 27
-[Will Quigley] - 3870 - 27
-[William Turner] - 3871 - 27
-[Max Speedy] - 3873 - 27
-[Isaac Dakin] - 3874 - 27
-[Eli Jubb] - 3875 - 27
-[Inglis Goff] - 3876 - 27
-[Addy Thurlow] - 3880 - 27
-[Harrison Blake] - 3885 - 26
-[Hudson Connelly] - 3892 - 27
-[Beau Edwards] - 3896 - 27
-[Jackson Smith] - 3897 - 27
-[Dylan Barton] - 3898 - 27
-[Finn Dutschke] - 3899 - 27
-[Ewan Waugh] - 3900 - 27
-[Jett Yee] - 3901 - 27
-[Rory Grant] - 3902 - 27
-[Mason Dew] - 3903 - 27
-[Angus Long] - 3904 - 27
-[Charlie Bott] - 3905 - 27
-[Benjamin Torrisi] - 3906 - 27
-[Riley Watt] - 3907 - 27
-[Hani Farah] - 3908 - 27
-[Tobias Lichtwark] - 3909 - 27
-[Kingston Rarere] - 3910 - 27
-[Cooper Sawina] - 3911 - 27
-[Lachlan Herweynen] - 3912 - 27
-[Japjot Singh] - 3913 - 27
-[Callum Grech] - 3914 - 27
-[Michael Clarke] - 3915 - 27
-[Harper Ayre] - 3916 - 27
-[Euan Reinhardt] - 3917 - 27
-[Samuel Anderson] - 3918 - 27
-[Jayden Briggs] - 3919 - 27
-[Kaizer Holt] - 3920 - 27
-[Bill Bukowski] - 3921 - 27
-[Luke Jones] - 3923 - 27
-[Dylan McMurray] - 3924 - 27
-[Charlie Russelhuber] - 3925 - 27
-[Joseph Hawke] - 3926 - 27
-[Joel Lywood] - 3927 - 27
-[Noah Smit] - 3928 - 27
-[Oscar Fennell] - 3929 - 27
-[Daniel Jelincic] - 3930 - 27
-[Alexander Addison] - 3932 - 27
-[Isaiah Gibbs] - 3934 - 27
-[Zak Krawczyk] - 3935 - 27
-[Lachlan Chamberlain] - 3936 - 27
-[Cooper Ramey] - 3937 - 27
-[Thomas Khan] - 3938 - 27
-[Hayden Breen] - 3939 - 27
-[Nate McGoldrick] - 3940 - 27
-[William Pritchard] - 3941 - 27
-[Oliver Fricotte] - 3942 - 27
-[Hunter Kandilierakis] - 3943 - 27
-[Archie Tebbutt] - 3944 - 27
-[Matthew Clark] - 3945 - 27
-[Clyff Watson] - 3946 - 27
-[Tobi Padgett] - 3947 - 27
-[Bryce Murray] - 3948 - 27
-[Clancy Royes] - 3949 - 27
-[Tui Nalatu] - 3951 - 27
-[Mitchell Wallis] - 3952 - 27
-[Manaia Tangitu] - 3953 - 27
-[William Church] - 3956 - 26
-[Kai Laine] - 3957 - 27
-[Harlem O'Keefe] - 3958 - 27
-[Luciano Diaz Abramovich] - 3959 - 27
-[Knox Enright] - 3960 - 27
-[Ayden Fontana] - 3961 - 26
-[Neil Gundecha] - 3963 - 26
-[Christian Seeto] - 3966 - 26
-[Hugh Sweetman] - 4195 - 27
-[Flynn Scully] - 4230 - 28
-[Cooper Williams] - 4231 - 28
-[Jackson Todoreskov] - 4232 - 28
-[Silas Kelly] - 4233 - 26
-[Benjamin Day] - 4234 - 28
-[Harrison Kedwell] - 4235 - 28
-[Lucas Batucan] - 4236 - 28
-[Harry Taylor-Bishop] - 4237 - 28
-[Christopher Mullins] - 4238 - 26
-[Sebastian Nicholls] - 4239 - 28
-[Reece Pollard] - 4240 - 26
-[Michael Magro] - 4241 - 28
-[Elijah Richards] - 4242 - 28
-[Beau Skowronek] - 4243 - 26
-[Leon Skowronek] - 4244 - 28
-[Oliver Hinwood] - 4245 - 28
-[Joseph Cook] - 4246 - 28
-[Samuel Crutcher] - 4247 - 28
-[Riley Walsh] - 4248 - 28
-[Samuel Green] - 4249 - 28
-[Harrison Burley] - 4250 - 28
-[Luke Kilroy] - 4251 - 28
-[Izaiah Brodie-Tomich] - 4252 - 28
-[Ethan Stevenson] - 4253 - 26
-[Ethan White] - 4254 - 26
-[Ryan Mahne] - 4255 - 26
-[Ryden Sutton] - 4256 - 28
-[Lachlan Priddin] - 4257 - 26
-[Tiago Gonzalez] - 4258 - 28
-[Joshua Gonzales] - 4259 - 28
-[Anthony Raven] - 4260 - 28
-[Max Webb] - 4261 - 26
-[Harvey Mortimer] - 4262 - 28
-[Lincoln Conlon] - 4263 - 26
-[Tanay Gulati] - 4264 - 26
-[Merrick Conlon] - 4265 - 26
-[Ryan Burgess] - 4266 - 28
-[James Batchelor] - 4267 - 28
-[Oliver Laws] - 4268 - 28
-[Andrew D'Souza] - 4269 - 26
-[Ryan West] - 4270 - 28
-[Tahj Hubbard] - 4271 - 26
-[Connor Hill] - 4272 - 28
-[Cooper Kurzke] - 4273 - 28
-[Carmelo Cartia] - 4274 - 28
-[Marius Graham] - 4275 - 28
-[Asher Lea] - 4276 - 26
-[Luca Murray] - 4277 - 28
-[Joseph Asnicar] - 4278 - 28
-[Kalev Hamilton] - 4279 - 28
-[Oliver Howe] - 4280 - 28
-[Robin Locke] - 4281 - 28
-[Solomon Fox] - 4282 - 28
-[Sam Asnicar] - 4283 - 28
-[Flynn Chard] - 4284 - 28
-[Declan McGuire] - 4285 - 28
-[Alexander Townsley] - 4286 - 26
-[Tarosh Sharma] - 4287 - 28
-[Hayden Tait] - 4288 - 28
-[Josh Taylor] - 4289 - 28
-[Chase Philpot] - 4290 - 26
-[Pranav Lal] - 4291 - 26
-[Nicholas Altmann] - 4292 - 26
-[Maximus Walsh] - 4293 - 28
-[Kaleb Arop] - 4294 - 26
-[Hayden Ney] - 4295 - 28
-[Oliver Potts] - 4296 - 28
-[Finn Maddock] - 4298 - 28
-[Corey Robinson] - 4299 - 28
-[Noah Cooper] - 4300 - 28
-[Archie Hall] - 4301 - 26
-[Jett Dean] - 4302 - 26
-[Benji Wilmshurst] - 4303 - 28
-[Ashmit Bankar] - 4304 - 28
-[Macarthur Petersen] - 4305 - 28
-[Taj Perrins] - 4306 - 26
-[Jack Avila] - 4307 - 26
-[Todd Lingard] - 4308 - 26
-[Jake Joby] - 4309 - 26
-[Riley Jolley] - 4310 - 28
-[Leyon Qass Dano] - 4311 - 26
-[Levi Muaiava] - 4312 - 26
-[Himal Shakya] - 4313 - 26
-[Finn Williams] - 4314 - 28
-[Caden Swannell] - 4315 - 28
-[William Conroy] - 4316 - 28
-[Christopher Martin] - 4317 - 28
-[Jett Walker] - 4318 - 28
-[James O'Donnell] - 4319 - 28
-[Afram Khudhur] - 4320 - 26
-[Aram Khudhur] - 4321 - 26
-[Hunter Fitz-Lauritsen] - 4322 - 28
-[Archie Taylour] - 4323 - 26
-[Luke Bishop] - 4324 - 28
-[Peter Taliana] - 4325 - 26
-[Xavier Stringfellow] - 4326 - 28
-[Harry Kane] - 4327 - 26
-[Riley Packer] - 4328 - 28
-[Jack Grant] - 4329 - 28
-[Lewis Khan] - 4330 - 28
-[Levi Guinnane] - 4331 - 28
-[Coby Holt] - 4332 - 28
-[Cody Asnicar] - 4333 - 28
-[Thomas Leftley] - 4334 - 28
-[Lachlan Harrison] - 4335 - 28
-[Michael Dwyer] - 4336 - 28
-[Harrison Lawther] - 4337 - 28
-[Reece Davis] - 4338 - 26
-[Noah Mahne] - 4339 - 26
-[Jake Parry] - 4340 - 26
-[Isaac Goodman] - 4341 - 26
-[Isaac Lahiff] - 4342 - 26
-[Sebastian Barber] - 4343 - 28
-[Nicholas Perry] - 4344 - 28
-[Lachlan Peterson] - 4345 - 28
-[Iszak Olasz-English] - 4346 - 28
-[Ronan Tully] - 4347 - 28
-[Whyatt Menyweather] - 4348 - 28
-[Finn Marlow] - 4349 - 28
-[Ethan Archard] - 4350 - 28
-[Matthew Underdown] - 4351 - 28
-[Jaxon Drury] - 4352 - 28
-[Spencer Fox] - 4353 - 28
-[Jack Munko] - 4354 - 28
-[Benjamin Munko] - 4355 - 28
-[Patrick Napper] - 4356 - 28
-[Bailey Drake] - 4357 - 28
-[Lucas Mattiske] - 4359 - 28
-[Lync Lauder] - 4360 - 28
-[Samuel Allison] - 4361 - 28
-[Alek Pavlyukovsky] - 4362 - 28
-[Hamish Innes] - 4363 - 28
-[William Graham] - 4364 - 28
-[Charlie Jones] - 4365 - 28
-[Kavi Bhagwan] - 4366 - 28
-[Charlie Gorton] - 4367 - 28
-[Owen Cruice] - 4368 - 28
-[Hue Tan] - 4369 - 26
-[Joseph Luxford] - 4370 - 28
-[Fraser MacBeth] - 4371 - 28
-[William Howard] - 4372 - 28
-[Kobi Newell] - 4373 - 28
-[Zac Bugler] - 4374 - 28
-[William David] - 4375 - 28
-[Billy Grose] - 4376 - 28
-[Connor West-Newman] - 4377 - 28
-[Finley Peppler] - 4378 - 28
-[Xavier Gibson] - 4379 - 28
-[Jack McDermott] - 4380 - 28
-[Liam Mudgway] - 4381 - 28
-[Sebastiaan Giezen] - 4382 - 28
-[Jack Passmore] - 4383 - 26
-[Darcy Walters] - 4384 - 28
-[Heath Baker] - 4385 - 28
-[Matthew Dowling] - 4386 - 28
-[Eli Bock] - 4387 - 28
-[Harry Connolly] - 4388 - 28
-[Albie Royes] - 4389 - 28
-[Aarnav Bankar] - 4390 - 27
-[Emilio Ceccato] - 4391 - 26
-[Orlando Ceccato] - 4392 - 28
-[Lachlan Richards] - 4393 - 26
-[Joshua Mukoma] - 4394 - 26
-[Jett Matthews] - 4395 - 26
-[Thomas Caldwell] - 4396 - 28
-[Luca Bicanic] - 4397 - 28
-[Lucas Mancini] - 4398 - 26
-[Joseph Pryce-Davies] - 4399 - 28
-[Oliver Hewitt] - 4400 - 28
-[Will Dickson] - 4401 - 28
-[Satyar Borzoo] - 4402 - 28
-[Charlton Toth] - 4403 - 28
-[Boston Lubke] - 4404 - 28
-[Aidan Megaw] - 4405 - 28
-[Lung Makuel] - 4406 - 26
-[Adam Singer] - 4407 - 28
-[Joshua Jones] - 4408 - 28
-[Eli Miles] - 4409 - 28
-[Eamon Manley] - 4410 - 28
-[Jackson Dickie] - 4411 - 26
-[Spencer Toth] - 4412 - 28
-[Jack McCorry] - 4413 - 28
-[Oliver Smith] - 4414 - 26
-[Braydan Thompson] - 4415 - 26
-[Oscar Kummer] - 4416 - 26
-[Flynn Larkins] - 4417 - 28
-[Khy Harrison] - 4418 - 28
-[Benjamin Davis] - 4419 - 28
-[Griffin McCormack] - 4420 - 28
-[Joshua Parkin] - 4421 - 28
-[Bailey Handcock] - 4422 - 28
-[Izaak Hughes-Musu] - 4423 - 26
-[Joshua Bradford] - 4425 - 28
-[Noah Avci] - 4426 - 26
-[Ben Chiu Chong] - 4427 - 28
-[Murray Woodbridge] - 4428 - 28
-[Samuel Sander] - 4429 - 26
-[William Jones] - 4430 - 26
-[Harrison Dwyer] - 4431 - 28
-[Mitchell Thompson] - 4432 - 26
-[Shaun Spathonis] - 4433 - 26
-[Corey Mapp] - 4434 - 26
-[Will Amos] - 4435 - 26
-[Stanley Hambling] - 4436 - 26
-[Connor Melit] - 4437 - 28
-[Liam Hall] - 4438 - 26
-[Hugo Bent] - 4439 - 28
-[James Perkins] - 4440 - 28
-[Lewis O'Malley] - 4946 - 28
-[Tristan Auelua] - 4958 - 26
-[Carter Parcell] - 4988 - 26
-[Jamie Lummis] - 5011 - 26
-[Patrick Dickinson] - 5012 - 26
-[Mathias Uitime] - 5016 - 26
-[Oscar Brown] - 5019 - 26
-[Percy Page] - 5025 - 27
-[Simon Priddey Delfino] - 5028 - 26
-[Noah Evans] - 5031 - 26
-[Liam Miller] - 5038 - 28
-[Lachy Theodossio] - 5041 - 27
-[Theo Tsingos] - 5067 - 27
-[Harry Hewitt] - 5068 - 29
-[Hugo Morgan] - 5069 - 27
-[Henry Burke] - 5070 - 29
-[Tristan Mullins] - 5071 - 29
-[Hayden Cooper] - 5072 - 29
-[Archie Fraser] - 5073 - 29
-[Ronan Jenkins] - 5074 - 29
-[Alex Cahill] - 5075 - 27
-[Jaxon Williams] - 5076 - 29
-[Parker James] - 5077 - 29
-[Archie Ceccato] - 5078 - 27
-[Samir Gurung] - 5079 - 27
-[Charlton Volter] - 5080 - 29
-[Joshua Dale] - 5081 - 29
-[Dominic Goreta] - 5082 - 29
-[Ethan Sainsbury] - 5083 - 29
-[Penn Wilson] - 5084 - 29
-[John Meredith] - 5085 - 27
-[Cash Calder] - 5086 - 27
-[Anderson Hennessy] - 5087 - 29
-[Alexander McLeod] - 5088 - 27
-[Edward Atkins] - 5089 - 29
-[Ciaran Nicholas] - 5090 - 29
-[Isaac Noone] - 5091 - 27
-[Kai Leggett] - 5092 - 29
-[Dane Audibert] - 5093 - 29
-[Flynn Esaias] - 5094 - 29
-[Jensen Mendoza] - 5095 - 27
-[Felix Ferguson] - 5096 - 29
-[Finn McMenz] - 5097 - 29
-[Camden Lawson] - 5098 - 27
-[Jacob Hadwick] - 5099 - 29
-[Hamish Adams] - 5100 - 27
-[Hayden Wecker] - 5101 - 29
-[Cory Catling] - 5102 - 29
-[Abiel Healy] - 5103 - 27
-[Dominic Downey] - 5105 - 29
-[Blake Martin] - 5106 - 27
-[Mitchell Southby] - 5107 - 29
-[Jayden Foy] - 5108 - 29
-[Carter Horn] - 5109 - 29
-[Jaden Armitage] - 5110 - 29
-[Zachary Macks] - 5111 - 29
-[Thomas Hanly] - 5112 - 29
-[Parker Stevens] - 5113 - 29
-[Emmet Burow] - 5114 - 29
-[Finn Walker] - 5115 - 29
-[Noah Warner] - 5116 - 29
-[Lachlan Maskell] - 5117 - 29
-[Levi MacDonald] - 5118 - 27
-[Jethro Cope] - 5119 - 29
-[Josh McDonald] - 5120 - 29
-[Campbell Turner] - 5121 - 29
-[Riley Brannelly] - 5122 - 29
-[Lachlan Page] - 5123 - 29
-[Thomas Burton] - 5124 - 29
-[William Hoarau] - 5125 - 29
-[Blake Morton] - 5126 - 29
-[Harry Whitfield] - 5127 - 29
-[Eamon Stanton] - 5128 - 27
-[Finn Yee] - 5129 - 29
-[Henry Long] - 5130 - 29
-[Oliver Lichtwark] - 5131 - 29
-[Alfie Clarke] - 5132 - 29
-[Joshua Morgan] - 5133 - 27
-[Isaac Morgan] - 5134 - 29
-[Cayden Read] - 5135 - 27
-[Archie Hawke] - 5136 - 29
-[Zack Martinez] - 5137 - 27
-[Ellis Breen] - 5138 - 29
-[Morgan Pritchard] - 5139 - 29
-[Thomas Culver] - 5140 - 27
-[Olli Padgett] - 5141 - 29
-[Finn Richards] - 5142 - 29
-[Ben Parry] - 5143 - 29
-[William Dickinson] - 5144 - 27
-[Seth Goodman] - 5145 - 27
-[Will Dallas] - 5146 - 27
-[Eli Dallas] - 5147 - 29
-[Mauro Diaz Abramovich] - 5148 - 29
-[Rylee Harrison] - 5149 - 29
-[Matthys Visser] - 5150 - 27
-[Cooper Ferguson] - 5151 - 29
-[Dominic Philpot] - 5152 - 29
-[Cristian Sala-Eden] - 5153 - 27
-[Harrington Petersen] - 5154 - 29
-[Jesse Fuary-James] - 5155 - 27
-[Isaac Geary] - 5156 - 27
-[Nicholas Liddell] - 5157 - 27
-[Nicolas Ollenburg] - 5158 - 27
-[Miguel Alladin] - 5159 - 27
-[Lachlan Button] - 5160 - 27
-[Munro Kelland] - 5161 - 27
-[Adam Maliakkal] - 5162 - 27
-[Finn Pickwell] - 5163 - 27
-[Samson Pouniu] - 5164 - 27
-[Arya Prabhuram] - 5165 - 27
-[Oliver Pyle] - 5166 - 27
-[Joshua D'Addona] - 5167 - 27
-[Elijah Doran] - 5168 - 27
-[Max Hannah] - 5169 - 27
-[Joshua Menzies] - 5170 - 27
-[Lucas O'Brien] - 5171 - 27
-[Tanaka Midzi] - 5172 - 27
-[Jacob Monk] - 5173 - 29
-[Damon Langan] - 5174 - 29
-[Chase Elliott] - 5175 - 29
-[Thane McArthur] - 5176 - 29
-[Lachlan Edmonds] - 5177 - 29
-[Thomas Wickett] - 5178 - 29
-[I Gede Donaldson] - 5179 - 29
-[Bailey Walter] - 5180 - 29
-[Callan Hutton] - 5181 - 29
-[Noah Uhr] - 5182 - 29
-[Tyler Haynes] - 5183 - 29
-[Harrison Hornby] - 5184 - 29
-[Harrison Lyons] - 5185 - 29
-[Eli Fenech] - 5186 - 29
-[Beau Williams] - 5187 - 29
-[Freddie Hampton] - 5188 - 27
-[Monty Hampton] - 5189 - 27
-[Heston Kumar] - 5190 - 29
-[Bailey Murrell] - 5191 - 29
-[Jash Hirani] - 5192 - 29
-[Sam Briggs] - 5193 - 29
-[Noah Lindner] - 5194 - 29
-[Nicholas Whiting] - 5195 - 29
-[Edward Bazeos] - 5196 - 29
-[Zeke Greenfield] - 5197 - 29
-[Fynn Schulte] - 5198 - 29
-[Finn Gilbert] - 5199 - 29
-[Zachary Keefe] - 5200 - 29
-[Cooper Pritchard] - 5201 - 29
-[Spencer Vowles] - 5202 - 29
-[Talan Neilsen] - 5203 - 29
-[Jack Hobbs] - 5204 - 29
-[Corbin Welsh] - 5205 - 29
-[Billy Brown] - 5206 - 29
-[James Wilson] - 5207 - 29
-[Jacob Ellis] - 5208 - 29
-[Akshat Niroop] - 5209 - 29
-[Flynn Sallmann] - 5210 - 29
-[Luca Good] - 5211 - 29
-[Owen McKinley] - 5212 - 29
-[Jude McClure] - 5213 - 29
-[Logan Jordan] - 5214 - 29
-[Bobby Potter] - 5215 - 29
-[Dylan Postlethwaite] - 5216 - 29
-[Blake Abbott] - 5217 - 29
-[Joseph Morris] - 5218 - 29
-[Spencer Tsingos] - 5219 - 29
-[Oliver Baldwin] - 5220 - 29
-[Clancy Scanlan] - 5221 - 29
-[Denim McCormack] - 5222 - 29
-[Harrison Hickey] - 5223 - 29
-[Jackson Leslie] - 5224 - 29
-[Elijah Pepperdene] - 5225 - 29
-[Sharanpreet Barring] - 5226 - 29
-[Samuel McColl] - 5227 - 29
-[Nathan Watson] - 5228 - 29
-[Seth Donnelly] - 5229 - 29
-[Benjiman French] - 5230 - 29
-[Spencer Dillewaard] - 5231 - 29
-[Mitchell Todd] - 5232 - 29
-[Harry Collins] - 5233 - 29
-[Cooper Mann] - 5234 - 29
-[Maneet Sarao] - 5235 - 29
-[Hugh Gow] - 5236 - 29
-[Mason Gow] - 5237 - 27
-[Dulisha Fernando] - 5238 - 29
-[Braxton O'Brien] - 5239 - 29
-[Benjamin Nicholson] - 5240 - 29
-[Nicholas Lawless] - 5241 - 29
-[Jacob Vernon] - 5242 - 29
-[Elliot Hitchcock] - 5243 - 29
-[Jack White] - 5244 - 29
-[Tyler White] - 5245 - 29
-[Jarlath Murphy] - 5246 - 29
-[Jack Kunst] - 5247 - 29
-[Jack McKeering] - 5248 - 29
-[Hunter Paulger] - 5249 - 27
-[Bentley Paulger] - 5250 - 29
-[Jack Stretton] - 5251 - 27
-[Jaireet Tej] - 5252 - 29
-[Alex McKinnon] - 5253 - 27
-[Phoenix Munday] - 5254 - 29
-[Noah Giess] - 5255 - 29
-[Eric Shrestha] - 5256 - 27
-[Nathaniel Wiles] - 5258 - 27
-[Angus Pitman] - 5259 - 27
-[Jack Taverner] - 5260 - 27
-[Charlie White] - 5261 - 29
-[Lachlan Sellars] - 5262 - 29
-[Angus Kruger] - 5263 - 27
-[Seturo Nanai] - 5264 - 27
-[Percy Baker] - 5265 - 29
-[Rydah Nixon] - 5266 - 27
-[Taj Rai] - 5267 - 29
-[Jaiden Buultjens] - 5268 - 29
-[Tyson Bailey] - 5269 - 29
-[Jaraiya Lewis] - 5270 - 27
-[Lucca Sanson] - 5271 - 27
-[Tom Hills] - 5272 - 29
-[Alex Collins] - 5275 - 26
-[Cuan van Bart] - 5277 - 27
-[Saxon Waters] - 5278 - 26
-[Max Hillard] - 5280 - 26
-[Jack Hillard] - 5281 - 27
-[Marlin Jones] - 5282 - 26
-[Ceasario Lopes] - 5284 - 26
-[Jacob Hose] - 5287 - 27
-[Eiden Sijokallungal] - 5291 - 26
-[Edwin Sijokallungal] - 5292 - 27
-[Harry O'Dwyer] - 5293 - 26
-[Kaleb Kelly] - 5431 - 28
-[Oliver Howell] - 5471 - 28
-[Lucas John] - 5472 - 27
-[Benjamin Lippert] - 5489 - 28
-[Marcus Cooper] - 5490 - 28
-[Benji Wright] - 5508 - 29
-[Matthew Marsberg] - 5511 - 26
-[Charlie McGill] - 5512 - 27
-[Jack Mathers] - 5513 - 27
-[Charlie Mathers] - 5514 - 29
-[Ryan Megaw] - 6567 - 30
-[Jack Mosely] - 6568 - 30
-[Nate McCullough] - 6569 - 30
-[Reuben Dufourq] - 6570 - 30
-[Lewis Copping] - 6571 - 28
-[Liam McKeering] - 6572 - 30
-[Daniel Simpson] - 6573 - 30
-[Ben Craker] - 6574 - 30
-[Severin De Clercq] - 6575 - 30
-[Cooper Dionysius] - 6576 - 30
-[Louie Taylor-Bishop] - 6577 - 30
-[Raf Gonzalez] - 6578 - 30
-[Luas Morgan] - 6579 - 30
-[Angus Laws] - 6580 - 30
-[Noah Pastourel] - 6581 - 30
-[Fin McGlone] - 6582 - 28
-[Lochlan McGlone] - 6583 - 28
-[Lachlan McLaren] - 6584 - 30
-[Angus Leftley] - 6585 - 30
-[Jordan Packer] - 6586 - 30
-[Finlay Cass-Daly] - 6587 - 30
-[Emmett Cass-Daly] - 6588 - 30
-[Rhys Gribben] - 6589 - 28
-[Oliver Harkin] - 6590 - 30
-[Archie Andrews] - 6591 - 30
-[Lincoln Williams] - 6592 - 30
-[Freddie Franklin] - 6593 - 30
-[Oisin Lacey] - 6594 - 30
-[Jaedon Albayalde] - 6595 - 28
-[Eli Whiteside] - 6596 - 30
-[Ethan Collins] - 6597 - 28
-[Harrison Riedel] - 6598 - 30
-[Monty Sweetman] - 6599 - 30
-[Benjamin Bell] - 6600 - 30
-[Liam Buckley] - 6601 - 28
-[William Mackinnon] - 6602 - 30
-[Darcy Caddy] - 6603 - 30
-[Lucas Kinsella] - 6604 - 30
-[Tyler Komarzynski] - 6605 - 28
-[Campbell Smith] - 6606 - 28
-[Boston Speedy] - 6607 - 30
-[Krystian Foltak] - 6608 - 30
-[Malachi Hamilton] - 6609 - 30
-[Asher Hamilton] - 6610 - 30
-[Cooper Blake] - 6611 - 30
-[James McLeavy] - 6612 - 30
-[Aaron Nmanii] - 6613 - 28
-[Malakai Rarere] - 6614 - 30
-[Levi McGoldrick] - 6615 - 30
-[James Passmore] - 6616 - 28
-[Jack Dallas] - 6617 - 30
-[Otis Laine] - 6619 - 30
-[Ari Williams] - 6620 - 30
-[Charlie Allison] - 6621 - 30
-[Nikolai Pavlyukovsky] - 6622 - 30
-[Duncan Caldwell] - 6623 - 30
-[Nathan Clarke] - 6624 - 28
-[Nicolai Fitz-Lauritsen] - 6625 - 30
-[Leon David] - 6626 - 30
-[Xavier Marlow] - 6627 - 30
-[Maxwell Dowling] - 6628 - 28
-[Ben Underdown] - 6629 - 30
-[Daniel Taylor] - 6630 - 30
-[Finn Harper] - 6631 - 28
-[Vince Tan] - 6632 - 30
-[Joshua Ollenburg] - 6633 - 28
-[Liam Ollenburg] - 6634 - 30
-[Harrison Little] - 6635 - 28
-[Max Potts] - 6636 - 30
-[Luke Greenfield] - 6637 - 30
-[Fletcher Good] - 6638 - 30
-[Aden McClure] - 6639 - 30
-[Billy McArdle] - 6640 - 28
-[Blake McArdle] - 6641 - 30
-[Jake Clur] - 6642 - 28
-[Xavier Ballinger] - 6643 - 28
-[Aidan Buchanan] - 6644 - 28
-[Oliver Buchanan] - 6645 - 30
-[Hayden Punter] - 6646 - 28
-[Nathanael Passagne] - 6647 - 28
-[Teddy Wright] - 6648 - 28
-[Xavier Skiba] - 6649 - 28
-[Lucas Anthony] - 6650 - 28
-[Noah Anthony] - 6651 - 30
-[Jacob Blyth] - 6652 - 28
-[Kobi Blyth] - 6653 - 30
-[Nathaniel Chaffey] - 6654 - 28
-[Phoenix Duggan-Saseve] - 6655 - 28
-[Ben Clynes] - 6656 - 28
-[Cooper Black] - 6657 - 28
-[Billy O'Sullivan] - 6658 - 28
-[Lincoln Mason] - 6659 - 28
-[Edrik Potocki] - 6660 - 30
-[Griff Jones] - 6661 - 28
-[Harry Williams] - 6662 - 28
-[Codyn Stuy] - 6663 - 28
-[Sammy Kainth] - 6664 - 28
-[Riley Slingsby] - 6665 - 28
-[Ryder Dowling] - 6666 - 28
-[Flynn Niu] - 6667 - 28
-[George Kruger] - 6668 - 30
-[Jaxon McKean] - 6669 - 28
-[Kc Nixon] - 6670 - 30
-[Tanah Kowaltzke] - 6671 - 30
-[Jonah Valcovich] - 6672 - 30
-[Alex Rosuck] - 6673 - 30
-[Eli Reid] - 6674 - 30
-[Leo Griffiths] - 6675 - 30
-[Hayden Cleaver] - 6676 - 30
-[Max Wheeler] - 6677 - 30
-[Alexander Dashwood] - 6678 - 30
-[Noah Harridge] - 6679 - 30
-[Levi Johanson] - 6680 - 30
-[Jack McCubbin] - 6681 - 30
-[Archie Falkus] - 6682 - 30
-[Dylan Harvey] - 6683 - 30
-[Hamish Searle] - 6684 - 30
-[Reuben Ryan] - 6685 - 30
-[Flynn Harding] - 6686 - 30
-[Alfie Triggs] - 6687 - 30
-[Theo Gillott] - 6688 - 30
-[Thomas Vaughan] - 6689 - 30
-[Jack Compton] - 6690 - 30
-[Jim Westell] - 6691 - 30
-[Noah Shilvock] - 6692 - 30
-[Elliott Gallagher] - 6693 - 30
-[Josh Straton] - 6694 - 30
-[Noah Landsberg] - 6695 - 30
-[Scott Inglis] - 6696 - 30
-[Oska Littlewood] - 6697 - 30
-[Archer Ryall] - 6698 - 30
-[Fynn Stewart] - 6699 - 30
-[Nicholas Robb] - 6700 - 30
-[Luca Meehan] - 6701 - 30
-[Mason Reed] - 6702 - 30
-[Jonty Coetzee] - 6703 - 30
-[Lincoln Clark] - 6704 - 30
-[Samuel Cavanagh] - 6705 - 30
-[James Cavanagh] - 6706 - 30
-[Noah Le Marsney] - 6707 - 30
-[Rex Smith] - 6708 - 30
-[Mossi Smith] - 6709 - 29
-[Ben Philp] - 6710 - 30
-[Riley Alexander] - 6711 - 30
-[Harry Mayoh] - 6712 - 30
-[Mason Duncan] - 6713 - 30
-[Benji Scott] - 6714 - 30
-[Joshua Macann] - 6715 - 30
-[Patrick O'Dea] - 6716 - 30
-[Jack McGuinness] - 6717 - 30
-[Sebastian Robertson] - 6718 - 30
-[Owen Atkinson] - 6719 - 30
-[Aarav Chawla] - 6720 - 30
-[Luca Bizjak] - 6721 - 30
-[Lincoln Chan] - 6722 - 30
-[Angus Murray] - 6723 - 30
-[Hayden Oxley] - 6724 - 30
-[Jude Ainsworth] - 6725 - 30
-[Thomas Dearling] - 6726 - 30
-[Oliver Black] - 6727 - 30
-[Archer Harris] - 6728 - 30
-[Cooper Cox] - 6729 - 30
-[Liam Mancini] - 6730 - 30
-[Henry Fastlabend] - 6731 - 30
-[Logan Jurkiewicz] - 6732 - 30
-[Ben Ingram] - 6733 - 30
-[Hudson Ramsay] - 6734 - 30
-[Kali Harris] - 6735 - 30
-[Harrison Hendle] - 6736 - 30
-[Lochlan Blake] - 6737 - 30
-[Adam Romkes] - 6738 - 30
-[Harrison Cornish] - 6739 - 30
-[Cohen Andersen] - 6740 - 30
-[Harvey Saunders] - 6741 - 30
-[Chayse Thomas] - 6742 - 30
-[Declan Stafford] - 6743 - 30
-[Axel Allen-Baker] - 6744 - 30
-[Hudson Jack] - 6745 - 30
-[Sebastian Bally] - 6746 - 30
-[Xavier Olsen] - 6747 - 29
-[Tanvir Kalia] - 6748 - 30
-[Liam van Bart] - 6749 - 30
-[Mika Cvetko-Lueger] - 6750 - 28
-[Aaron Walsh] - 6751 - 30
-[Aston Young] - 6752 - 30
-[Christian O'Dempsey] - 6753 - 28
-[Tau Tamaariki] - 6754 - 28
-[Ekampreet Dhaliwal] - 6755 - 28
-[Finbar Newton] - 6756 - 30
-[Dylan Miller] - 6757 - 29
-[Jordan Welling] - 6758 - 28
-[Gurtaj Sandhu] - 6759 - 28
-[Junsei Martin] - 6760 - 30
-[James Masson] - 6761 - 27
-[Nicholas Di Tullio] - 6762 - 30
-[Jake Reid] - 6763 - 28
-[Zaki Maddock] - 6764 - 28
-[Darcy Coleman] - 6766 - 28
-[Xavier Loli] - 6767 - 27
-[Max Kilkelly] - 6768 - 28
-[Alex Petrellis] - 6769 - 26
-[Josh Petrellis] - 6770 - 27
-[Jack Woolf] - 6771 - 26
-[Cooper Coca] - 7058 - 27
-[Flynn Light] - 7062 - 27
-[Oliver Gribble] - 7064 - 29
-[Matthew Campbell] - 7081 - 26
-[Maddox Brown] - 7095 - 30
-[Maror Muorter] - 7119 - 26
-[Ashley Valenton] - 7133 - 26
-[Max McCarthy] - 7135 - 27
-[Alexander Churchill] - 7148 - 30
-[Harrison Murphy] - 7149 - 27
-[Callum Mitchell] - 7153 - 28
-[Austin Bird] - 7164 - 28
-[Andy Rio] - 7167 - 28
-[Student SPC] - 7174 - 28
-[Patrick Taylor] - 7201 - 30
-[Oscar Powell] - 7209 - 30
-[Gautam Bhalla] - 7212 - 29
-[Goldit Mabor] - 7213 - 28
-[Dani Akkad] - 7215 - 27
-[Samuel Poole] - 7218 - 27
-[Jacob Makuel] - 7497 - 29
-[Levi Singer] - 7498 - 31
-[Oliver Henry] - 7499 - 31
-[Brock Catling] - 7500 - 31
-[William Hewitt] - 7501 - 31
-[Majith Shan] - 7502 - 29
-[Levi Cooper] - 7503 - 31
-[Hayden Cook] - 7504 - 31
-[Emmett Volter] - 7505 - 31
-[Liam Tiru] - 7506 - 31
-[Sidney Huxtable] - 7507 - 31
-[James Searle] - 7508 - 31
-[Harvey Bell] - 7509 - 31
-[George Thomas] - 7510 - 29
-[Liam Hodkinson] - 7511 - 29
-[Archie Faulkner] - 7512 - 31
-[Cameron Price] - 7513 - 29
-[Jye Evans] - 7514 - 29
-[Lachlan Riedel] - 7515 - 31
-[Sonny Duff] - 7516 - 31
-[Finley Smith] - 7517 - 29
-[Cooper Lenz] - 7518 - 29
-[Alexander Coutts] - 7519 - 31
-[Jack Millar] - 7520 - 31
-[Kristian Inch] - 7521 - 31
-[Samuel Kilroy] - 7522 - 31
-[Lucas Clarke] - 7523 - 31
-[Bisajpreet Singh] - 7524 - 31
-[Fraser Stanley] - 7525 - 29
-[Jaxson White] - 7526 - 29
-[Ned Connolly] - 7527 - 31
-[Oscar Giezen] - 7528 - 31
-[Julian Cruice] - 7529 - 31
-[Tareq Walker] - 7530 - 31
-[Cory Bugler] - 7531 - 31
-[Cohen Menyweather] - 7532 - 31
-[Flinders Petersen] - 7533 - 31
-[Xavier Geary] - 7534 - 29
-[Cameron Menzies] - 7535 - 29
-[Oliver Wickett] - 7536 - 31
-[Oliver Lindner] - 7537 - 31
-[Oliver Bazeos] - 7538 - 31
-[Callum Chapman] - 7539 - 29
-[Adam Frojda] - 7540 - 29
-[Levi McKinley] - 7541 - 31
-[Fraser Tsingos] - 7542 - 31
-[Gus Donnelly] - 7543 - 31
-[George Mann] - 7544 - 31
-[Jivraj Sandhu] - 7545 - 29
-[Oliver Lawson] - 7546 - 29
-[Mason McKinnon] - 7547 - 31
-[Benjamin Punter] - 7548 - 31
-[Ashton Cooper] - 7549 - 31
-[Mohit Sheenmar] - 7550 - 28
-[Glenn Hanson] - 7551 - 29
-[Jai Hanson] - 7552 - 29
-[Gaivy Klair] - 7553 - 29
-[Jayden Wong] - 7554 - 31
-[Corbin McKean] - 7555 - 31
-[Jackson Kemp] - 7556 - 29
-[Knox Harridge] - 7557 - 31
-[Flynn Drake] - 7558 - 29
-[Martin Priddey Delfino] - 7559 - 31
-[Eli Clancy] - 7560 - 29
-[Elgin Sijokallungal] - 7561 - 31
-[Mason Crawford] - 7562 - 29
-[Rowan Thapa] - 7563 - 29
-[Nathan Mangilit] - 7564 - 29
-[Preet Sidhu] - 7565 - 29
-[Zach Balnaves] - 7566 - 29
-[Lachie Norton] - 7567 - 29
-[Harry McGregor] - 7568 - 29
-[Tomas Cortes Duran] - 7569 - 29
-[Matthew Pershouse] - 7570 - 29
-[Abhijot Kingra] - 7571 - 29
-[James Spriggens] - 7572 - 29
-[Samyam Karki] - 7573 - 29
-[Tom Lawler] - 7574 - 29
-[Frankie Worland] - 7575 - 29
-[Archie Denning] - 7576 - 29
-[Byron Heberley] - 7577 - 29
-[Dempsey Anstiss] - 7578 - 29
-[Samuel O'Dempsey] - 7579 - 29
-[Noah Temple] - 7580 - 29
-[Riley Ditchburn] - 7581 - 31
-[Harry Zerafa] - 7582 - 31
-[Liam Clues] - 7583 - 31
-[Jack Buckland] - 7584 - 31
-[Zaid Riley] - 7585 - 31
-[Koby Strydom] - 7586 - 31
-[Angus Harris] - 7587 - 29
-[Ashwyn Gamage] - 7588 - 29
-[Harrison Smallbon] - 7589 - 31
-[Jack Love] - 7590 - 31
-[Jude Cosgrove] - 7591 - 31
-[Walter Hillier] - 7592 - 31
-[Archie Jones] - 7593 - 31
-[Lewis Herrod] - 7594 - 31
-[Hunter Gray] - 7595 - 31
-[LeBron Foondun] - 7596 - 31
-[Thomas Graham] - 7597 - 31
-[Benjamin Freestone] - 7598 - 31
-[Ryker Green] - 7599 - 31
-[Harrison Lowther] - 7600 - 31
-[Oliver Hamilton] - 7601 - 31
-[Thorin Muldal] - 7602 - 31
-[Theo Machado-Smith] - 7603 - 31
-[Noah Coutinho] - 7604 - 31
-[Xavier Whittam] - 7605 - 31
-[Lachlan Dancer] - 7606 - 31
-[Bailey Brandon] - 7607 - 31
-[Oakley Gordon-Smith] - 7608 - 31
-[Cooper Williams] - 7609 - 31
-[Ethan Nicholls] - 7610 - 31
-[Lachlan Bartlett] - 7611 - 31
-[Thomas Smith] - 7612 - 31
-[Charles Hedges] - 7613 - 31
-[Carter Masson] - 7614 - 31
-[Lucas Barnard] - 7615 - 31
-[Baines McCallum] - 7616 - 31
-[James Batty] - 7617 - 31
-[Henry Pollock] - 7618 - 31
-[Liam Treacy] - 7619 - 31
-[Nathan Foat] - 7620 - 31
-[Lincoln Seitz] - 7621 - 31
-[Theodore Nugent] - 7622 - 31
-[Benjamin Clark] - 7623 - 31
-[Bayley Anderson] - 7624 - 31
-[Charlie Andrews] - 7625 - 31
-[Jet Harradine] - 7626 - 31
-[Eli Harradine] - 7627 - 31
-[Brennan Campbell] - 7628 - 31
-[Jack Stowe] - 7629 - 31
-[Finlay O'Connor] - 7630 - 31
-[Archer Hall] - 7631 - 31
-[Oliver Cargill] - 7632 - 31
-[Harrison Munce] - 7633 - 31
-[Ashton Farley] - 7634 - 31
-[Harrison Dellit] - 7635 - 31
-[Brandon Ryan] - 7636 - 31
-[Jayden Devine] - 7637 - 31
-[Joseph Gavel] - 7638 - 31
-[Louis Tucker] - 7639 - 31
-[Max Jarrott] - 7640 - 31
-[Jai Fisher] - 7641 - 31
-[Sebastian Ebner] - 7642 - 31
-[Louie Rowe] - 7643 - 31
-[Owen Russo] - 7644 - 31
-[Charlie Wilkins] - 7645 - 31
-[Andrew Durston] - 7646 - 31
-[Liam Waddell] - 7647 - 31
-[Joshua Loveday-Lowe] - 7648 - 31
-[Cody Kelly Grice] - 7649 - 31
-[Kieran Latham] - 7650 - 31
-[Max Copeman] - 7651 - 31
-[Dexter Gray] - 7652 - 31
-[Oscar Francis] - 7653 - 31
-[Boston Silver] - 7654 - 31
-[Hugh Townsend] - 7655 - 31
-[Charlie Dwyer] - 7656 - 29
-[Brody Coleman] - 7657 - 31
-[Nico Berman] - 7658 - 29
-[Aarush Paudel] - 7659 - 31
-[Max Millar] - 7660 - 31
-[Charlie Norris] - 7661 - 31
-[Jack Stokes] - 7662 - 31
-[Will Davidson] - 7663 - 30
-[Tobias Overell] - 7664 - 29
-[Conor Finnerty] - 7665 - 31
-[Harrison Walls] - 7666 - 31
-[Oscar Johnson] - 7667 - 31
-[Oliver Johnson] - 7668 - 31
-[Jim Mitchell] - 7669 - 30
-[Finley Kuys] - 7670 - 31
-[James Wilson] - 7671 - 29
-[Kye Bowmaker] - 7672 - 27
-[James Morris] - 7673 - 30
-[Adam Edwards] - 7674 - 30
-[Thomas Tauzowski] - 7675 - 31
-[Jagger Evans] - 7676 - 31
-[Ashton Young] - 7677 - 29
-[Patrick Young] - 7678 - 31
-[Ethan Baird] - 7679 - 29
-[Kristian Amato] - 7680 - 29
-[Jack Amato] - 7681 - 31
-[Flynn Chandler] - 7682 - 29
-[Harry Chandler] - 7683 - 28
-[Brady Williams] - 7684 - 29
-[Spencer Sandys] - 7685 - 27
-[Dustin Henderson] - 7686 - 29
-[Ari Henderson] - 7687 - 30
-[Riley McShane] - 7688 - 31
-[Benjamin Ball] - 7689 - 28
-[Bailey Graham] - 7690 - 29
-[Elijah Lucas] - 7691 - 31
-[Harvey Lucas] - 7699 - 30
-[Travis O'Connor] - 7737 - 29
-[Lachlan O'Grady] - 7738 - 29
-[Gantin Taulani] - 7741 - 29
-[Petar Ratkovic] - 7767 - 28
-[Shida Fadeyibi] - 7781 - 26
-[Jaxton Warren] - 7789 - 30
-[Sam Longmire] - 7794 - 30
-[Harry Stilianos] - 7807 - 28
-[Jesse Harbourne] - 7808 - 27
-[Ellis Lawson] - 7809 - 26
-[Jordan Vujevich] - 7816 - 27
-[Melarn Vujevich-Rapie] - 7817 - 31
-[Bentley Green] - 7834 - 28
-[Isaac McLoughlin] - 7835 - 30
-[Ryley Leather] - 7859 - 30
-[Tommy McMahon] - 7860 - 30
-[Tyson Estella] - 7861 - 30
-[Benjamin Krushka] - 8159 - 32
-[Isaac Hazelman] - 8160 - 30
-[Matthew Silver-Thomas] - 8161 - 32
-[Billy Tot] - 8162 - 30
-[Flint Grainger] - 8163 - 32
-[Samson Prlja] - 8164 - 32
-[Marcus Webb] - 8165 - 30
-[George Mamin] - 8166 - 32
-[Riley Gribben] - 8167 - 30
-[Andrew Henderson-Scott] - 8168 - 30
-[Dylan Lacey] - 8169 - 32
-[Alexander Walker] - 8170 - 32
-[Benjamin Davie] - 8171 - 32
-[Ethan Meunier] - 8172 - 32
-[Patrick Smith] - 8173 - 32
-[Owen Vanderkley] - 8174 - 30
-[Jake Duffy] - 8175 - 32
-[Frederick Long] - 8176 - 32
-[Theodore Martinez] - 8177 - 32
-[Jacob Bow] - 8178 - 32
-[Nicholas Martin] - 8179 - 32
-[Harry Cooper] - 8180 - 32
-[Jaxon Handcock] - 8181 - 32
-[Tawona Midzi] - 8182 - 30
-[Matthew Whiting] - 8183 - 32
-[Ben Chapman] - 8184 - 32
-[Jesse Sallmann] - 8185 - 32
-[Harrison Leslie] - 8186 - 32
-[Julian Anthony] - 8187 - 32
-[Carter Chaffey] - 8188 - 32
-[Luka Baker] - 8189 - 32
-[Aaron Watkins] - 8190 - 29
-[Arnold Wheeler] - 8191 - 32
-[Silas Jose] - 8192 - 30
-[Ash Brooks] - 8193 - 28
-[Hudson Gallagher] - 8194 - 32
-[Oliver Wolff] - 8195 - 30
-[Matthew Drew] - 8196 - 30
-[Liam Lipman] - 8197 - 30
-[Ethan Lipman] - 8198 - 32
-[Jasson Brooks] - 8199 - 30
-[Dean Brooks] - 8200 - 32
-[Luke McGuinness] - 8201 - 32
-[Jack Whitbourne] - 8202 - 30
-[William Oxley] - 8203 - 32
-[Tom Craig] - 8204 - 30
-[Elliott Fastlabend] - 8205 - 32
-[Eddie Meredith] - 8206 - 30
-[George Meredith] - 8207 - 32
-[Harry Ingram] - 8208 - 32
-[Lennox Andersen] - 8209 - 32
-[Austin Allen-Baker] - 8210 - 32
-[William Cannan] - 8211 - 30
-[Mason Heberley] - 8212 - 32
-[Thomas Lee] - 8213 - 29
-[Jaygo Hall] - 8214 - 30
-[Malakai Tamaariki] - 8215 - 30
-[Cormac Newton] - 8216 - 32
-[Dallas Strydom] - 8217 - 32
-[Joel Coutinho] - 8218 - 32
-[Alex Ross] - 8219 - 31
-[Callen Tynan] - 8220 - 30
-[Connor Treacy] - 8221 - 32
-[Kousei Martin] - 8222 - 32
-[Henry Carter] - 8223 - 30
-[Jacob Barber] - 8224 - 30
-[Joseph Borger] - 8225 - 30
-[Archer Light] - 8226 - 30
-[Jenson Hunter] - 8227 - 30
-[Abram Kikhwa] - 8228 - 30
-[Kennedy Mateariki] - 8229 - 30
-[Sam Nagy] - 8230 - 30
-[Angus Ong] - 8231 - 30
-[Flynn Rowlands] - 8232 - 30
-[Finlay Wong] - 8233 - 30
-[Archie Wong] - 8234 - 32
-[Olle Adriansson] - 8235 - 30
-[Hunter Overell] - 8236 - 32
-[Flynn Charlton] - 8237 - 30
-[Thomas Lowe] - 8238 - 30
-[Noah Guymer] - 8239 - 30
-[Miller Crawford-Smith] - 8240 - 30
-[Carter Edward] - 8241 - 30
-[Hunter Turnbull] - 8242 - 30
-[Sebastian Green] - 8243 - 30
-[Harnoorvir Singh] - 8244 - 30
-[Abhijot Sharma] - 8245 - 30
-[James McAlister] - 8246 - 30
-[Patrick Wilson] - 8247 - 30
-[Jaydon Hides] - 8248 - 32
-[James McIntyre] - 8249 - 30
-[Oliver Ayres] - 8250 - 32
-[Archie Beutel] - 8251 - 32
-[William Baker] - 8252 - 32
-[Samuel Birchall] - 8253 - 32
-[Jasper Brown] - 8254 - 32
-[Oliver Butterley] - 8255 - 32
-[Benji Campbell] - 8256 - 32
-[Michael Connell] - 8257 - 32
-[Karstan Davis] - 8258 - 32
-[Harrison Caughey] - 8259 - 32
-[Harrison Garland] - 8260 - 32
-[James Ebert] - 8261 - 32
-[Harry Caughey] - 8262 - 32
-[Kylaan D'Souza] - 8263 - 32
-[Lincoln Ellison] - 8264 - 32
-[Mason Fowlie] - 8265 - 32
-[Oscar Hunt] - 8266 - 32
-[Caden Gardner] - 8267 - 32
-[Enrique Cifuentes] - 8268 - 32
-[Teddy Clark] - 8269 - 32
-[Parker Cleave] - 8270 - 32
-[Tate Young] - 8271 - 32
-[Henry Hart] - 8272 - 32
-[Aston Guest] - 8273 - 32
-[Lennox Wilson] - 8274 - 32
-[Harrison O'Brien] - 8275 - 32
-[Jack van der Pluijm] - 8276 - 32
-[Rhys Miller] - 8277 - 32
-[Joshua Titman] - 8278 - 32
-[Dominic Villanueva] - 8279 - 32
-[William Persijn] - 8280 - 32
-[Flynn Wetherell] - 8281 - 32
-[Sam Roberts] - 8282 - 32
-[Henry Lawrence] - 8283 - 32
-[Liam McNiven] - 8284 - 32
-[George Thomas] - 8285 - 32
-[River Weight] - 8286 - 32
-[Elliot Piatti] - 8287 - 32
-[Clay Roberts] - 8288 - 32
-[Finn Simmons] - 8289 - 32
-[Alfred Kelly] - 8290 - 32
-[Arlo Harvey] - 8291 - 32
-[Nate Inglis] - 8292 - 32
-[Bodhi Hearnden] - 8293 - 32
-[Edward O'Rourke] - 8294 - 32
-[Callum Panayotakis] - 8295 - 32
-[Jaxson Saunders] - 8296 - 32
-[Gray Collins] - 8297 - 32
-[Daniel Kelly] - 8298 - 32
-[Oscar Spence] - 8299 - 32
-[Xavier Holmes] - 8300 - 32
-[Isaac Cronin] - 8301 - 32
-[Marcel Rao] - 8302 - 32
-[Jack Morgan] - 8303 - 32
-[Liam Morgan] - 8304 - 32
-[Edison Rose] - 8305 - 32
-[Ned Steel] - 8306 - 32
-[Heath Pountney] - 8307 - 32
-[Chase Weller] - 8308 - 32
-[Sebastian Silman] - 8309 - 32
-[Oliver Stewart] - 8310 - 32
-[Taika Takiari] - 8311 - 32
-[Noah Adamson] - 8312 - 32
-[Jayden Baird] - 8313 - 30
-[Henry Batch] - 8314 - 32
-[JaCobi Brooks] - 8315 - 32
-[Zane Anabtawi] - 8316 - 32
-[Finnlay Moore] - 8317 - 32
-[Enrico La Spina] - 8318 - 30
-[Sahibjot Malhi] - 8319 - 32
-[Parker Manning] - 8320 - 32
-[Thomas Bronish] - 8321 - 32
-[Sameer Puwar] - 8322 - 32
-[Aryan Puwar] - 8323 - 30
-[Taj Hanna] - 8324 - 32
-[Samuel Hooper] - 8325 - 32
-[Abhinav Timsina] - 8326 - 30
-[Connor Payne] - 8327 - 30
-[Parker Cabrera] - 8328 - 32
-[Josaphat Conquest] - 8329 - 30
-[Hadley Riach] - 8330 - 32
-[Lachlan Weston] - 8331 - 32
-[Joshua Callaghan] - 8332 - 32
-[Jarvis Cook] - 8333 - 30
-[Andrew Aluvula] - 8334 - 30
-[Gurmanpreet Bhullar] - 8335 - 27
-[Carter Cusack] - 8336 - 30
-[Jacob Adzraku] - 8337 - 30
-[Benjamin Westcott] - 8338 - 32
-[Elias Gillott] - 8339 - 30
-[Sebastian Leeds] - 8340 - 30
-[Oliver Belgrove] - 8341 - 32
-[Tyrese Healey] - 8342 - 30
-[Advit Gogia] - 8343 - 32
-[Foxx Delbridge] - 8344 - 32
-[Kai Dawes] - 8345 - 32
-[Alexander Houghton] - 8346 - 32
-[Jamis Rounds] - 8347 - 30
-[Harrison Cattell] - 8348 - 32
-[Saxon Scholes] - 8349 - 32
-[Oliver McDowell] - 8350 - 32
-[Charlie Bale] - 8351 - 32
-[Paula Mohenoa] - 8352 - 31
-[Harrison Ripp] - 8353 - 29
-[George Wilson] - 8354 - 29
-[Zachary Hose] - 8355 - 28
-[Thomas Gregg] - 8356 - 31
-[Bailey Lokeni] - 8357 - 30
-[Hugh Winter] - 8358 - 31
-[Rafael Azzarello] - 8359 - 29
-[Alfred Strachan] - 8360 - 29
-[Lewis Pascoe] - 8361 - 29
-[Rhys Liquorish] - 8382 - 30
-[Hunter Liquorish] - 8383 - 32
-[Quinn Callaghan] - 8418 - 30
-[Yousif Al-Hayali] - 8425 - 27
-[Lachlan McGavin] - 8449 - 29
-[Frankie Harvey] - 8468 - 28
-[William James] - 8469 - 32
-[Joshua Barsby] - 8470 - 30
-[Samuel Tredrea] - 8471 - 27
-[Jaden Fourie] - 8472 - 29
-[Kauala Vakauku] - 8490 - 28
-[Xavier Goodwin] - 8511 - 28
-[Magnus De Clercq] - 8843 - 33
-[Zac Stewart] - 8844 - 33
-[Quinn Gribben] - 8845 - 31
-[Jeremy Anderson] - 8846 - 31
-[Patrick Hanly] - 8847 - 33
-[Lachlan Chapman] - 8848 - 31
-[Hayden Chapman] - 8849 - 33
-[Nicholas Riedel] - 8850 - 33
-[Hugo Caddy] - 8851 - 33
-[Sebastian Ellis] - 8852 - 33
-[Leo McMahon] - 8853 - 33
-[Louie Seery] - 8854 - 33
-[Bennett Kedwell] - 8855 - 33
-[Adam Russelhuber] - 8856 - 33
-[Parker Perrins] - 8857 - 33
-[Sebastian Pickwell] - 8858 - 31
-[Ripley Morris] - 8859 - 33
-[Charlie Lawson] - 8860 - 31
-[Joseph Williams] - 8861 - 31
-[Sebastian Valcovich] - 8862 - 33
-[Francis Ryan] - 8863 - 33
-[Blake Landsberg] - 8864 - 33
-[Zachary Robertson] - 8865 - 33
-[Dominic Robertson] - 8866 - 33
-[Hayden Stafford] - 8867 - 33
-[Elliott Jack] - 8868 - 33
-[Hugo Denning] - 8869 - 31
-[Harvey Clues] - 8870 - 33
-[Parker Harris] - 8871 - 31
-[Kaylan Gamage] - 8872 - 31
-[Lachlan Smallbon] - 8873 - 33
-[Fraser Herrod] - 8874 - 33
-[Parker Brandon] - 8875 - 33
-[Adam Nicholls] - 8876 - 33
-[Kaito Bartlett] - 8877 - 33
-[Kayden Crawford] - 8878 - 31
-[Clancy Andrews] - 8879 - 33
-[James Peterson] - 8880 - 31
-[Noah Glover] - 8881 - 31
-[Arlo Hurrell] - 8882 - 31
-[Walter Pentis] - 8883 - 31
-[Jenson Russo] - 8884 - 33
-[Noah Hovenden MacPherson] - 8885 - 31
-[Mitchell Reid] - 8886 - 31
-[Oliver Reid] - 8887 - 33
-[Jackson Gardner] - 8888 - 31
-[William Woolf] - 8889 - 33
-[Frey Adriansson] - 8890 - 33
-[Jett Adriansson] - 8891 - 33
-[Quinn Kuys] - 8892 - 33
-[Avijot Singh] - 8893 - 31
-[Jacob Curtain] - 8894 - 31
-[Nuku Baines Framhein] - 8895 - 31
-[Charles Tauzowski] - 8896 - 33
-[Sylas Evans] - 8897 - 33
-[Brandon Nilsson] - 8898 - 31
-[Patrick Amato] - 8899 - 33
-[Thomas Hooper] - 8900 - 33
-[Jeevan Alappatt] - 8901 - 31
-[Theodore Barsby] - 8902 - 31
-[Brayden Cleary] - 8903 - 31
-[Ryan Donnelly] - 8904 - 31
-[Patrick Edwards] - 8905 - 31
-[Cooper Garven] - 8906 - 31
-[Sebastian Gunn] - 8907 - 31
-[Oscar Gurung] - 8908 - 31
-[Levi Hodgkinson] - 8909 - 31
-[Javier Inchong] - 8910 - 31
-[Matthew Joseph] - 8911 - 31
-[Lennox Laritz] - 8912 - 31
-[Christopher Keller] - 8913 - 31
-[James Meyer] - 8914 - 31
-[Joshua Meyer] - 8915 - 33
-[Jack Morgan] - 8916 - 31
-[Oliver Prout] - 8917 - 31
-[Lachlan Pike] - 8918 - 31
-[Robert Simpson] - 8919 - 31
-[Thomas Tetlow] - 8920 - 31
-[Jimmy Whatley Treyvaud] - 8921 - 31
-[Samuel Vincent] - 8922 - 31
-[Henry Shaw] - 8923 - 31
-[Henry Birchall] - 8924 - 31
-[Samuel Unwin] - 8925 - 31
-[Levi Turnbull] - 8926 - 31
-[Carter Dean] - 8927 - 31
-[Jack Dean] - 8928 - 33
-[Mason Norman] - 8929 - 33
-[Grayson Green] - 8930 - 31
-[Tong Ngor] - 8931 - 31
-[Hayden Marsh] - 8932 - 31
-[James Bowman] - 8933 - 33
-[Charlie Cervera] - 8934 - 33
-[Lachlan Attard] - 8935 - 33
-[William Gordon] - 8936 - 33
-[Joonatan Saar] - 8937 - 33
-[Finn Hayward] - 8938 - 33
-[Zachary Davis] - 8939 - 33
-[Sebastian Lamont] - 8940 - 33
-[Ethan Ademokun] - 8941 - 33
-[Oliver Jacobsen] - 8942 - 33
-[Nathaniel Morley] - 8943 - 33
-[Hunter Hubbard] - 8944 - 33
-[Jude Taylor] - 8945 - 33
-[Fletcher Kimpton] - 8946 - 33
-[Cooper Heagney] - 8947 - 33
-[Lucas Stevenson] - 8948 - 33
-[Luke Schuler] - 8949 - 33
-[Elliot Sullivan] - 8950 - 33
-[Grayson Griffin] - 8951 - 33
-[Hamish McPhee] - 8952 - 33
-[Braxton Utiera] - 8953 - 33
-[Matteo Utiera] - 8954 - 33
-[John Southby] - 8955 - 33
-[Cooper Clark] - 8956 - 33
-[Darcy Sanders] - 8957 - 33
-[Samuel Peter] - 8958 - 33
-[Jett Driutti] - 8959 - 33
-[Leonardo Otte Miller] - 8960 - 33
-[Jack Gilpin] - 8961 - 33
-[Brodie Kelly] - 8962 - 33
-[Giovanni Loschiavo] - 8963 - 33
-[Van Nilsson] - 8964 - 33
-[Ethan Burch] - 8965 - 33
-[Samuel Nielsen] - 8966 - 33
-[Hugo Cole] - 8967 - 33
-[Ayaan Mishra] - 8968 - 33
-[Mason Coope] - 8969 - 33
-[Archie McIver] - 8970 - 33
-[Riley Corney] - 8971 - 33
-[Bobby Wolfe] - 8972 - 33
-[Thomas Dunning] - 8973 - 33
-[Harvey Matthews] - 8974 - 33
-[Max Manz] - 8975 - 33
-[Thomas Logan] - 8976 - 33
-[Liam Bosnjak] - 8977 - 33
-[James Gafney] - 8978 - 33
-[August Gehrmann] - 8979 - 33
-[Kian Jyani] - 8980 - 33
-[Liam Halkyard] - 8981 - 33
-[William Jacks] - 8982 - 33
-[William Jackson] - 8983 - 33
-[Taj Nugent] - 8984 - 33
-[Harry Hayman] - 8985 - 33
-[Hanish Cherlapally] - 8986 - 33
-[Oliver Coughlan] - 8987 - 33
-[Riley Whiteoak] - 8988 - 33
-[Oliver Shepherd] - 8989 - 33
-[Fletcher McKenzie] - 8990 - 33
-[Benson Nancarrow] - 8991 - 33
-[Charlie Jenkins] - 8992 - 33
-[Jake Nesbitt] - 8993 - 33
-[Patrick Kearney] - 8994 - 33
-[Thomas Cohn] - 8995 - 33
-[Simon Grisales Ocampo] - 8996 - 33
-[Patrick Carey] - 8997 - 33
-[Finn Robinson-Henke] - 8998 - 33
-[James Ryan] - 8999 - 33
-[Harper Lokeni] - 9000 - 31
-[Thomas Kearney] - 9001 - 33
-[Ezekiel Fare] - 9002 - 31
-[Oliver Cleary] - 9003 - 31
-[Ethan Hammond] - 9004 - 31
-[Eamonn Perry] - 9005 - 33
-[Cooper Herlihy] - 9006 - 33
-[Thomas Neil] - 9007 - 33
-[Eddy Rogers] - 9008 - 33
-[Henry Jaenke] - 9009 - 31
-[Ted Beattie] - 9010 - 31
-[Lachlan Boyd] - 9011 - 31
-[Omar Gazawi] - 9012 - 31
-[Theo Fenwick] - 9013 - 31
-[Beeson Aryal] - 9014 - 31
-[Mataeo Te Muunu] - 9015 - 31
-[Will Kinghorn] - 9016 - 31
-[Oliver Bagdonas] - 9017 - 33
-[Cohen Vanderkly] - 9018 - 32
-[Dominic Delfos] - 9019 - 33
-[Chase Milkovic] - 9020 - 32
-[Gurshan Gill] - 9021 - 31
-[Aviraj Singh Goraya] - 9022 - 31
-[Gursamar Dhanda] - 9023 - 31
-[Ridley Hepburn] - 9024 - 33
-[Noah Watson] - 9025 - 31
-[Oliver Dowsett] - 9026 - 31
-[Alfie Dowsett] - 9027 - 32
-[Leon Jeong] - 9028 - 33
-[Lachlan Teed] - 9029 - 33
-[Jaxon Land] - 9030 - 31
-[Alexander Perro] - 9031 - 31
-[Leo Turner] - 9032 - 33
-[Nicholas Marin] - 9033 - 33
-[Xavier Limbach] - 9034 - 33
-[Karanprit Dhindsa] - 9035 - 29
-[Henry Bray] - 9036 - 33
-[Mateo Carson] - 9037 - 31
-[Gurfateh Singh] - 9038 - 31
-[Alexander Yap] - 9039 - 31
-[Noah Goldspink] - 9040 - 33
-[Max Weder] - 9041 - 31
-[Isaiah Denny] - 9042 - 31
-[Ryan Sigdel] - 9043 - 29
-[Jonathon Mee] - 9044 - 30
-[Aaron Vizer] - 9045 - 33
-[Koby Brackstone] - 9046 - 31
-[Grayson Colegate] - 9047 - 33
-[Mikeal Muir] - 9048 - 33
-[Cooper Lawson] - 9049 - 30
-[Quinn Ogilvie] - 9050 - 30
-[Sam Fox] - 9051 - 27
-[Dwyer Fox] - 9052 - 32
-[Carter Beck] - 9053 - 29
-[Flynn Chiapello] - 9054 - 28
-[Maxwell Smith] - 9055 - 27
-[Clancy Bishop] - 9056 - 33
-[Matthew Fleming] - 9101 - 30
-[Patrick Lawler] - 9128 - 32
-[Anshel Arun] - 9129 - 27
-[Kaiden Burton-Demmers] - 9149 - 27
-[Korey McGreevy] - 9162 - 28
-[Ethan Martin] - 9172 - 29
-[Joshua Cook] - 9173 - 29
-[Alfred McGowan] - 9174 - 32
+[Caspian Andrews] - 3175 - 26 - 26andreca@stpatricks.qld.edu.au
+[Noah Hawkins] - 3176 - 26 - 26hawkino@stpatricks.qld.edu.au
+[Mitchell Jakavicius] - 3177 - 26 - 26jakavmi@stpatricks.qld.edu.au
+[Thomas Giess] - 3178 - 26 - 26giessth@stpatricks.qld.edu.au
+[Tarek Al Samaraie] - 3179 - 26 - 26alsamta@stpatricks.qld.edu.au
+[Lukas Magro] - 3180 - 26 - 26magrolu@stpatricks.qld.edu.au
+[Charlie Jones] - 3181 - 26 - 26jonesch@stpatricks.qld.edu.au
+[James Whitfield] - 3182 - 26 - 26whitfja@stpatricks.qld.edu.au
+[Micah Hamilton] - 3184 - 26 - 26hamilmi@stpatricks.qld.edu.au
+[Isaiah Nalatu] - 3185 - 26 - 26nalatis@stpatricks.qld.edu.au
+[Harry Duffy] - 3186 - 26 - 26duffyha@stpatricks.qld.edu.au
+[William Howe] - 3187 - 26 - 26howewi@stpatricks.qld.edu.au
+[Jesse Coates] - 3189 - 26 - 26coateje@stpatricks.qld.edu.au
+[Finn O'Keefe] - 3190 - 26 - 26okeeffi@stpatricks.qld.edu.au
+[Matthew Doyle] - 3192 - 26 - 26doylema@stpatricks.qld.edu.au
+[Maximus Fox] - 3193 - 26 - 26foxma@stpatricks.qld.edu.au
+[Aydan McGuire] - 3194 - 26 - 26mcguiay@stpatricks.qld.edu.au
+[Hudson McKay] - 3196 - 26 - 26mckayhu@stpatricks.qld.edu.au
+[Alexander McKenzie] - 3197 - 26 - 26MCKENal@stpatricks.qld.edu.au
+[Tristan Dass] - 3198 - 26 - 26dasstr@stpatricks.qld.edu.au
+[Izak Devlin] - 3199 - 26 - 26devliiz@stpatricks.qld.edu.au
+[Jabez Yohannan] - 3203 - 26 - 26yohanja@stpatricks.qld.edu.au
+[Ronan McMahon] - 3208 - 26 - 26mcmahro@stpatricks.qld.edu.au
+[Marc Millet] - 3214 - 26 - 26millema@stpatricks.qld.edu.au
+[Aiden Mason] - 3218 - 26 - 26masonai@stpatricks.qld.edu.au
+[Zachary Wylie] - 3221 - 26 - 26wylieza@stpatricks.qld.edu.au
+[Evan Parker] - 3222 - 26 - 26parkeev@stpatricks.qld.edu.au
+[Rhys Plenderleith] - 3224 - 26 - 26plendrh@stpatricks.qld.edu.au
+[Dashiell Crutcher] - 3225 - 26 - 26crutcda@stpatricks.qld.edu.au
+[Cooper Aurisch] - 3226 - 26 - 26AURISco@stpatricks.qld.edu.au
+[Mitchell Nicholas] - 3228 - 26 - 26nichomi@stpatricks.qld.edu.au
+[Angus Stewart] - 3231 - 26 - 26stewaan@stpatricks.qld.edu.au
+[Tiakina Bateman] - 3232 - 26 - 26batemti@stpatricks.qld.edu.au
+[Angus Ryan] - 3233 - 26 - 26ryanan@stpatricks.qld.edu.au
+[Isaac Madden] - 3238 - 26 - 26maddeis@stpatricks.qld.edu.au
+[Daniel Pryce-Davies] - 3239 - 26 - 26pryceda@stpatricks.qld.edu.au
+[Elijah Murdoch] - 3240 - 26 - 26murdoel@stpatricks.qld.edu.au
+[Tori Maccarone] - 3241 - 26 - 26maccato@stpatricks.qld.edu.au
+[Eli Russell] - 3243 - 26 - 26russeel@stpatricks.qld.edu.au
+[Henry Mattiske] - 3246 - 26 - 26mattihe@stpatricks.qld.edu.au
+[Jesse Burgess] - 3247 - 26 - 26burgeje@stpatricks.qld.edu.au
+[Jacob Brind] - 3248 - 26 - 26brindja@stpatricks.qld.edu.au
+[Byron Emery] - 3249 - 26 - 26emeryby@stpatricks.qld.edu.au
+[Ethan Esaias] - 3250 - 26 - 26esaiaet@stpatricks.qld.edu.au
+[William Mortimer] - 3254 - 26 - 26mortiwi@stpatricks.qld.edu.au
+[Angus Turton] - 3255 - 26 - 26turtoan@stpatricks.qld.edu.au
+[Lincoln Gower] - 3259 - 26 - 26gowerli@stpatricks.qld.edu.au
+[Ryan Colsen] - 3260 - 26 - 26colsery@stpatricks.qld.edu.au
+[Joel Tregenza] - 3261 - 26 - 26vincejo@stpatricks.qld.edu.au
+[Thomas Richardson] - 3262 - 26 - 26richath@stpatricks.qld.edu.au
+[Sam Innes] - 3263 - 26 - 26innessa@stpatricks.qld.edu.au
+[Cooper Smith] - 3264 - 26 - 26smithco@stpatricks.qld.edu.au
+[Levi Rynn] - 3265 - 26 - 26rynnle@stpatricks.qld.edu.au
+[Alexander Rynn] - 3266 - 26 - 26rynnal@stpatricks.qld.edu.au
+[Jack Davis] - 3267 - 26 - 26davisja@stpatricks.qld.edu.au
+[Will O'Sullivan] - 3269 - 26 - 26osullwi@stpatricks.qld.edu.au
+[Harry Jones] - 3271 - 26 - 26jonesha@stpatricks.qld.edu.au
+[Zane Fletcher] - 3272 - 26 - 26fletcza@stpatricks.qld.edu.au
+[Harry Parchimowicz] - 3273 - 26 - 26parchha@stpatricks.qld.edu.au
+[Charlie James] - 3274 - 26 - 26jamesch@stpatricks.qld.edu.au
+[Patrick Whitby] - 3275 - 26 - 26whitbpa@stpatricks.qld.edu.au
+[Henry Kingston] - 3276 - 26 - 26kingshe@stpatricks.qld.edu.au
+[Adam Burgess] - 3277 - 26 - 26burgead@stpatricks.qld.edu.au
+[Benjamin Rowley] - 3278 - 26 - 26rowlebe@stpatricks.qld.edu.au
+[Maxx Warnecke] - 3279 - 26 - 26warnema@stpatricks.qld.edu.au
+[George Croughton-Lloyd] - 3280 - 26 - 26crougge@stpatricks.qld.edu.au
+[Adam Mitchell] - 3281 - 26 - 26mitchad@stpatricks.qld.edu.au
+[Liam Scully] - 3282 - 26 - 26scullli@stpatricks.qld.edu.au
+[Joshua Sundhoo] - 3283 - 26 - 26sundhjo@stpatricks.qld.edu.au
+[Aidan O'Regan] - 3284 - 26 - 26oregai@stpatricks.qld.edu.au
+[Cael Armitage] - 3285 - 26 - 26armitca@stpatricks.qld.edu.au
+[Joshua Manton] - 3286 - 26 - 26mantojo@stpatricks.qld.edu.au
+[Samuel Migus] - 3288 - 26 - 26MIGUSsa@stpatricks.qld.edu.au
+[Harrison Hinwood] - 3289 - 26 - 26hinwoha@stpatricks.qld.edu.au
+[Brock O'Sullivan] - 3291 - 26 - 26osullbr@stpatricks.qld.edu.au
+[Henry Moore] - 3292 - 26 - 26moorehe@stpatricks.qld.edu.au
+[Lewis Tatti] - 3293 - 26 - 26tattile@stpatricks.qld.edu.au
+[Rowan Harris] - 3295 - 26 - 26harriro@stpatricks.qld.edu.au
+[James Black] - 3296 - 26 - 26blackja@stpatricks.qld.edu.au
+[William Miles] - 3298 - 26 - 26mileswi@stpatricks.qld.edu.au
+[Fletcher Sherlock] - 3299 - 26 - 26sherlfl@stpatricks.qld.edu.au
+[Eddisen Vaughan] - 3300 - 26 - 26vaughed@stpatricks.qld.edu.au
+[Joel Peterson] - 3301 - 26 - 26peterjo@stpatricks.qld.edu.au
+[Oliver Ruggieri-Green] - 3302 - 26 - 26ruggiol@stpatricks.qld.edu.au
+[Thomas Neville] - 3303 - 26 - 26nevilth@stpatricks.qld.edu.au
+[Flynn Kettle] - 3304 - 26 - 26kettlfl@stpatricks.qld.edu.au
+[Lachlan MacPherson] - 3305 - 26 - 26macphla@stpatricks.qld.edu.au
+[Thomas Cook] - 3306 - 26 - 26cookth@stpatricks.qld.edu.au
+[Keegan Webb] - 3307 - 26 - 26WEBBke@stpatricks.qld.edu.au
+[Alexander Blum] - 3308 - 26 - 26blumal@stpatricks.qld.edu.au
+[Marley Pike] - 3311 - 26 - 26pikema@stpatricks.qld.edu.au
+[Jake Hackett] - 3313 - 26 - 26hackeja@stpatricks.qld.edu.au
+[Kahu Evans] - 3315 - 26 - 26evanska@stpatricks.qld.edu.au
+[Brodie Mulhearn] - 3316 - 26 - 26mulhebr@stpatricks.qld.edu.au
+[Maxwell Gilbey] - 3317 - 26 - 26gilbema@stpatricks.qld.edu.au
+[Cameron Payne] - 3319 - 26 - 26payneca@stpatricks.qld.edu.au
+[William Finch] - 3320 - 26 - 26finchwi@stpatricks.qld.edu.au
+[Bailey Macks] - 3321 - 26 - 26macksba@stpatricks.qld.edu.au
+[Samuel Austin] - 3322 - 26 - 26austisa@stpatricks.qld.edu.au
+[Aiden Pett] - 3323 - 26 - 26pettai@stpatricks.qld.edu.au
+[Max McKay] - 3325 - 26 - 26mckayma@stpatricks.qld.edu.au
+[Harry Lusk] - 3326 - 26 - 26luskha@stpatricks.qld.edu.au
+[Jack MacPherson] - 3329 - 26 - 26macphja@stpatricks.qld.edu.au
+[Alex O'Malley] - 3330 - 26 - 26omallal@stpatricks.qld.edu.au
+[Oliver Allen] - 3331 - 26 - 26allenol@stpatricks.qld.edu.au
+[Benjamin Whiteside] - 3334 - 26 - 26whitebe@stpatricks.qld.edu.au
+[Benjamin Warburton] - 3336 - 26 - 26warbube@stpatricks.qld.edu.au
+[George Gilleland] - 3337 - 26 - 26gillege@stpatricks.qld.edu.au
+[Sebastian Traves] - 3338 - 26 - 26travese@stpatricks.qld.edu.au
+[Oliver Slater] - 3339 - 26 - 26slateol@stpatricks.qld.edu.au
+[Luca McDonald] - 3340 - 26 - 26mcdonlu@stpatricks.qld.edu.au
+[Reilly Wade-Jayathungage] - 3341 - 26 - 26wadejre@stpatricks.qld.edu.au
+[Owen Colavito-Lynch] - 3342 - 26 - 26colavow@stpatricks.qld.edu.au
+[Jamie Stringfellow] - 3343 - 26 - 26strinja@stpatricks.qld.edu.au
+[Ayden Collins] - 3344 - 26 - 26colliay@stpatricks.qld.edu.au
+[Riley Carsburg] - 3345 - 26 - 26carsbri@stpatricks.qld.edu.au
+[Dylan Maskell] - 3346 - 26 - 26maskedy@stpatricks.qld.edu.au
+[Mitchell McKay] - 3347 - 26 - 26mckaymi@stpatricks.qld.edu.au
+[Max Terecans] - 3348 - 26 - 26terecma@stpatricks.qld.edu.au
+[Marley Hanlon] - 3349 - 26 - 26hanloma@stpatricks.qld.edu.au
+[William Kinsella] - 3351 - 26 - 26kinsewi@stpatricks.qld.edu.au
+[Samuel Noud] - 3352 - 26 - 26noudsa@stpatricks.qld.edu.au
+[Finn Mahon] - 3353 - 26 - 26mahonfi@stpatricks.qld.edu.au
+[Patrick Clarke] - 3354 - 26 - 26clarkpa@stpatricks.qld.edu.au
+[Logan Potter] - 3355 - 26 - 26pottelo@stpatricks.qld.edu.au
+[Callum Morrison] - 3356 - 26 - 26morrica@stpatricks.qld.edu.au
+[Nicholas Bent] - 3357 - 26 - 26bentni@stpatricks.qld.edu.au
+[Connor Flanagan] - 3358 - 26 - 26flanaco@stpatricks.qld.edu.au
+[Tristan Nicholls] - 3360 - 26 - 26nichotr@stpatricks.qld.edu.au
+[Alex Foltak] - 3361 - 26 - 26foltaal@stpatricks.qld.edu.au
+[Connor Inggs] - 3362 - 26 - 26inggsco@stpatricks.qld.edu.au
+[Hamish Page] - 3366 - 26 - 26pageha@stpatricks.qld.edu.au
+[Seth Unigarro Canning] - 3367 - 26 - 26unigase@stpatricks.qld.edu.au
+[Cooper Chan] - 3369 - 26 - 26chanco@stpatricks.qld.edu.au
+[Jaxson Inch] - 3370 - 26 - 26inchja@stpatricks.qld.edu.au
+[Drew Gardiner] - 3371 - 26 - 26gardidr@stpatricks.qld.edu.au
+[Charlie Burton] - 3372 - 26 - 26burtoch@stpatricks.qld.edu.au
+[Harper Cooper] - 3373 - 26 - 26coopeha@stpatricks.qld.edu.au
+[Thomas Hoarau] - 3374 - 26 - 26hoarath@stpatricks.qld.edu.au
+[Angus Gemmell] - 3375 - 26 - 26gemmean@stpatricks.qld.edu.au
+[Emanuel Dickison] - 3376 - 26 - 26dickiem@stpatricks.qld.edu.au
+[Max Kilroy] - 3377 - 26 - 26kilroma@stpatricks.qld.edu.au
+[Luke McDonald] - 3601 - 26 - 26mcdonluk@stpatricks.qld.edu.au
+[Adam Toohey] - 3604 - 26 - 26toohead@stpatricks.qld.edu.au
+[Matthew Phillimore] - 3605 - 26 - 26phillma@stpatricks.qld.edu.au
+[Patrick Weedon] - 3753 - 27 - 27WEEDOpa@stpatricks.qld.edu.au
+[Samuel Sherlock] - 3754 - 27 - 27SHERLsa@stpatricks.qld.edu.au
+[Trent Kearney] - 3755 - 27 - 27KEARNtr@stpatricks.qld.edu.au
+[Matthew Barnett-Pickering] - 3756 - 27 - 27BARNEma@stpatricks.qld.edu.au
+[Jude Hooper] - 3758 - 27 - 27HOOPEju@stpatricks.qld.edu.au
+[Sergio Ruggieri-Green] - 3759 - 27 - 27RUGGIse@stpatricks.qld.edu.au
+[Alexander Larman] - 3761 - 27 - 27LARMAal@stpatricks.qld.edu.au
+[Zac Taylor] - 3762 - 27 - 27TAYLOza@stpatricks.qld.edu.au
+[Nate Taylor] - 3763 - 27 - 27TAYLOna@stpatricks.qld.edu.au
+[Isaac Van Stam] - 3764 - 27 - 27VANSTis@stpatricks.qld.edu.au
+[Isaac Delporte] - 3765 - 27 - 27DELPOis@stpatricks.qld.edu.au
+[Thomas Hewitt] - 3767 - 27 - 27HEWITth@stpatricks.qld.edu.au
+[Aidan Downey] - 3768 - 27 - 27DOWNEai@stpatricks.qld.edu.au
+[Patrick Bothwell] - 3769 - 27 - 27BOTHWpa@stpatricks.qld.edu.au
+[Isaac Cooper] - 3770 - 27 - 27COOPEis@stpatricks.qld.edu.au
+[Liam Whitelaw] - 3771 - 27 - 27WHITEli@stpatricks.qld.edu.au
+[Samuel Perez] - 3772 - 27 - 27PEREZsa@stpatricks.qld.edu.au
+[Edward Hennessy] - 3774 - 27 - 27HENNEed@stpatricks.qld.edu.au
+[Luke Thirgood] - 3777 - 27 - 27THIRGlu@stpatricks.qld.edu.au
+[Lachlan Tuck] - 3780 - 27 - 27TUCKla@stpatricks.qld.edu.au
+[Hayden Grainger] - 3781 - 27 - 27GRAINha@stpatricks.qld.edu.au
+[Aidan Morgan] - 3782 - 27 - 27MORGAai@stpatricks.qld.edu.au
+[Wil Stewart] - 3785 - 27 - 27STEWAwi@stpatricks.qld.edu.au
+[Thomas Sloan] - 3786 - 27 - 27SLOANth@stpatricks.qld.edu.au
+[Blake Keogh] - 3787 - 27 - 27KEOGHbl@stpatricks.qld.edu.au
+[William Heinemann] - 3788 - 27 - 27HEINEwi@stpatricks.qld.edu.au
+[Lachlan Laws] - 3789 - 27 - 27LAWSla@stpatricks.qld.edu.au
+[Billy Martin] - 3791 - 27 - 27MARTIbi@stpatricks.qld.edu.au
+[Elijah Pastourel] - 3792 - 27 - 27PASTOel@stpatricks.qld.edu.au
+[Jett Bassett] - 3793 - 27 - 27BASSEje@stpatricks.qld.edu.au
+[Preston Jenkins] - 3794 - 27 - 27JENKIpr@stpatricks.qld.edu.au
+[Aidan McLaren] - 3795 - 27 - 27MCLARai@stpatricks.qld.edu.au
+[Brady Polinski] - 3796 - 27 - 27POLINbr@stpatricks.qld.edu.au
+[Noah Chilcott] - 3799 - 27 - 27CHILCno@stpatricks.qld.edu.au
+[Jacob Barclay] - 3800 - 27 - 27BARCLja@stpatricks.qld.edu.au
+[Lucas Wilson] - 3801 - 27 - 27WILSOlu@stpatricks.qld.edu.au
+[Ryan Hutchings] - 3802 - 27 - 27HUTCHry@stpatricks.qld.edu.au
+[Lucas Poole] - 3803 - 27 - 27POOLElu@stpatricks.qld.edu.au
+[Thomas Dawson] - 3804 - 27 - 27DAWSOth@stpatricks.qld.edu.au
+[Hayden Craddock] - 3805 - 27 - 27CRADDha@stpatricks.qld.edu.au
+[Campbell Staiger] - 3806 - 27 - 27STAIGca@stpatricks.qld.edu.au
+[Adam Hogan] - 3807 - 27 - 27HOGANad@stpatricks.qld.edu.au
+[Matthew Hahne] - 3808 - 27 - 27HAHNEma@stpatricks.qld.edu.au
+[Kahu Davis-Raeli] - 3809 - 27 - 27DAVISka@stpatricks.qld.edu.au
+[Samuel Dufourq] - 3810 - 27 - 27DUFOUsa@stpatricks.qld.edu.au
+[Aiden McNaught] - 3811 - 27 - 27MCNAUai@stpatricks.qld.edu.au
+[Darcy Harman] - 3812 - 27 - 27HARMAda@stpatricks.qld.edu.au
+[Sebastian Pastoors] - 3813 - 27 - 27PASTOse@stpatricks.qld.edu.au
+[Hamish Ferguson] - 3814 - 27 - 27FERGUha@stpatricks.qld.edu.au
+[Felix Maddocks] - 3815 - 27 - 27MADDOfe@stpatricks.qld.edu.au
+[Filippo Ruggieri-Green] - 3816 - 27 - 27RUGGIfi@stpatricks.qld.edu.au
+[Rhodes De Clercq] - 3817 - 27 - 27DECLErh@stpatricks.qld.edu.au
+[Sol De Clercq] - 3818 - 27 - 27DECLEso@stpatricks.qld.edu.au
+[Harry Hahn] - 3820 - 27 - 27HAHNha@stpatricks.qld.edu.au
+[Liam Goves] - 3822 - 27 - 27GOVESli@stpatricks.qld.edu.au
+[Peeter Sheppard] - 3823 - 27 - 27SHEPPpe@stpatricks.qld.edu.au
+[Ethan Volker] - 3824 - 27 - 27VOLKEet@stpatricks.qld.edu.au
+[Ryan Purdy] - 3825 - 27 - 27PURDYry@stpatricks.qld.edu.au
+[Jack Alcorn] - 3828 - 27 - 27ALCORja@stpatricks.qld.edu.au
+[Oliver Bilek] - 3829 - 27 - 27BILEKol@stpatricks.qld.edu.au
+[Daniel Mulugetta] - 3835 - 27 - 27MULUGda@stpatricks.qld.edu.au
+[Brayden Simes] - 3836 - 27 - 27SIMESbr@stpatricks.qld.edu.au
+[James Dale] - 3837 - 27 - 27DALEja@stpatricks.qld.edu.au
+[Samuel Connell] - 3842 - 26 - 26CONNEsa@stpatricks.qld.edu.au
+[Connor Mitchell] - 3845 - 27 - 27MITCHco@stpatricks.qld.edu.au
+[William Huxtable] - 3846 - 27 - 27HUXTAwi@stpatricks.qld.edu.au
+[William Wood] - 3847 - 27 - 27WOODwi@stpatricks.qld.edu.au
+[Lachlan Searle] - 3848 - 27 - 27SEARLla@stpatricks.qld.edu.au
+[Lachlan Gresham] - 3849 - 27 - 27GRESHla@stpatricks.qld.edu.au
+[Terry Holder] - 3850 - 27 - 27HOLDEte@stpatricks.qld.edu.au
+[Aidan Butler] - 3851 - 27 - 27BUTLEai@stpatricks.qld.edu.au
+[Lachlan Schultz] - 3854 - 27 - 27SCHULla@stpatricks.qld.edu.au
+[Matthew Stafford] - 3857 - 27 - 27STAFFma@stpatricks.qld.edu.au
+[Lachlan Warner] - 3858 - 27 - 27WARNEla@stpatricks.qld.edu.au
+[Hayden George] - 3860 - 27 - 27GEORGha@stpatricks.qld.edu.au
+[Luca Geerssen] - 3861 - 27 - 27GEERSlu@stpatricks.qld.edu.au
+[Jack Davie] - 3863 - 27 - 27DAVIEja@stpatricks.qld.edu.au
+[William Crago] - 3864 - 27 - 27CRAGOwi@stpatricks.qld.edu.au
+[Frazer Scherf] - 3865 - 27 - 27SCHERfr@stpatricks.qld.edu.au
+[Oliver Black] - 3867 - 27 - 27BLACKol@stpatricks.qld.edu.au
+[Will Quigley] - 3870 - 27 - 27QUIGLwi@stpatricks.qld.edu.au
+[William Turner] - 3871 - 27 - 27TURNEwi@stpatricks.qld.edu.au
+[Max Speedy] - 3873 - 27 - 27SPEEDma@stpatricks.qld.edu.au
+[Isaac Dakin] - 3874 - 27 - 27DAKINis@stpatricks.qld.edu.au
+[Eli Jubb] - 3875 - 27 - 27JUBBel@stpatricks.qld.edu.au
+[Inglis Goff] - 3876 - 27 - 27GOFFin@stpatricks.qld.edu.au
+[Addy Thurlow] - 3880 - 27 - 27THURLad@stpatricks.qld.edu.au
+[Harrison Blake] - 3885 - 26 - 26BLAKEha@stpatricks.qld.edu.au
+[Hudson Connelly] - 3892 - 27 - 27CONNEhu@stpatricks.qld.edu.au
+[Beau Edwards] - 3896 - 27 - 27EDWARbe@stpatricks.qld.edu.au
+[Jackson Smith] - 3897 - 27 - 27SMITHja@stpatricks.qld.edu.au
+[Dylan Barton] - 3898 - 27 - 27BARTOdy@stpatricks.qld.edu.au
+[Finn Dutschke] - 3899 - 27 - 27DUTSCfi@stpatricks.qld.edu.au
+[Ewan Waugh] - 3900 - 27 - 27WAUGHew@stpatricks.qld.edu.au
+[Jett Yee] - 3901 - 27 - 27YEEje@stpatricks.qld.edu.au
+[Rory Grant] - 3902 - 27 - 27GRANTro@stpatricks.qld.edu.au
+[Mason Dew] - 3903 - 27 - 27DEWma@stpatricks.qld.edu.au
+[Angus Long] - 3904 - 27 - 27LONGan@stpatricks.qld.edu.au
+[Charlie Bott] - 3905 - 27 - 27BOTTch@stpatricks.qld.edu.au
+[Benjamin Torrisi] - 3906 - 27 - 27TORRIbe@stpatricks.qld.edu.au
+[Riley Watt] - 3907 - 27 - 27WATTri@stpatricks.qld.edu.au
+[Hani Farah] - 3908 - 27 - 27FARAHha@stpatricks.qld.edu.au
+[Tobias Lichtwark] - 3909 - 27 - 27LICHTto@stpatricks.qld.edu.au
+[Kingston Rarere] - 3910 - 27 - 27RARERki@stpatricks.qld.edu.au
+[Cooper Sawina] - 3911 - 27 - 27SAWINco@stpatricks.qld.edu.au
+[Lachlan Herweynen] - 3912 - 27 - 27HERWEla@stpatricks.qld.edu.au
+[Japjot Singh] - 3913 - 27 - 27SINGHja@stpatricks.qld.edu.au
+[Callum Grech] - 3914 - 27 - 27GRECHca@stpatricks.qld.edu.au
+[Michael Clarke] - 3915 - 27 - 27CLARKmi@stpatricks.qld.edu.au
+[Harper Ayre] - 3916 - 27 - 27AYREha@stpatricks.qld.edu.au
+[Euan Reinhardt] - 3917 - 27 - 27REINHeu@stpatricks.qld.edu.au
+[Samuel Anderson] - 3918 - 27 - 27ANDERsa@stpatricks.qld.edu.au
+[Jayden Briggs] - 3919 - 27 - 27BRIGGja@stpatricks.qld.edu.au
+[Kaizer Holt] - 3920 - 27 - 27HOLTka@stpatricks.qld.edu.au
+[Bill Bukowski] - 3921 - 27 - 27BUKOWbi@stpatricks.qld.edu.au
+[Luke Jones] - 3923 - 27 - 27JONESlu@stpatricks.qld.edu.au
+[Dylan McMurray] - 3924 - 27 - 27MCMURdy@stpatricks.qld.edu.au
+[Charlie Russelhuber] - 3925 - 27 - 27RUSSEch@stpatricks.qld.edu.au
+[Joseph Hawke] - 3926 - 27 - 27HAWKEjo@stpatricks.qld.edu.au
+[Joel Lywood] - 3927 - 27 - 27LYWOOjo@stpatricks.qld.edu.au
+[Noah Smit] - 3928 - 27 - 27SMITno@stpatricks.qld.edu.au
+[Oscar Fennell] - 3929 - 27 - 27FENNEos@stpatricks.qld.edu.au
+[Daniel Jelincic] - 3930 - 27 - 27JELINda@stpatricks.qld.edu.au
+[Alexander Addison] - 3932 - 27 - 27ADDISal@stpatricks.qld.edu.au
+[Isaiah Gibbs] - 3934 - 27 - 27GIBBSis@stpatricks.qld.edu.au
+[Zak Krawczyk] - 3935 - 27 - 27KRAWCza@stpatricks.qld.edu.au
+[Lachlan Chamberlain] - 3936 - 27 - 27CHAMBla@stpatricks.qld.edu.au
+[Cooper Ramey] - 3937 - 27 - 27RAMEYco@stpatricks.qld.edu.au
+[Thomas Khan] - 3938 - 27 - 27KHANth@stpatricks.qld.edu.au
+[Hayden Breen] - 3939 - 27 - 27BREENha@stpatricks.qld.edu.au
+[Nate McGoldrick] - 3940 - 27 - 27MCGOLna@stpatricks.qld.edu.au
+[William Pritchard] - 3941 - 27 - 27PRITCwi@stpatricks.qld.edu.au
+[Oliver Fricotte] - 3942 - 27 - 27FRICOol@stpatricks.qld.edu.au
+[Hunter Kandilierakis] - 3943 - 27 - 27KANDIhu@stpatricks.qld.edu.au
+[Archie Tebbutt] - 3944 - 27 - 27TEBBUar@stpatricks.qld.edu.au
+[Matthew Clark] - 3945 - 27 - 27CLARKma@stpatricks.qld.edu.au
+[Clyff Watson] - 3946 - 27 - 27WATSOcl@stpatricks.qld.edu.au
+[Tobi Padgett] - 3947 - 27 - 27PADGEto@stpatricks.qld.edu.au
+[Bryce Murray] - 3948 - 27 - 27MURRAbr@stpatricks.qld.edu.au
+[Clancy Royes] - 3949 - 27 - 27ROYEScl@stpatricks.qld.edu.au
+[Tui Nalatu] - 3951 - 27 - 27NALATki@stpatricks.qld.edu.au
+[Mitchell Wallis] - 3952 - 27 - 27WALLImi@stpatricks.qld.edu.au
+[Manaia Tangitu] - 3953 - 27 - 27TANGIma@stpatricks.qld.edu.au
+[William Church] - 3956 - 26 - 26CHURCwi@stpatricks.qld.edu.au
+[Kai Laine] - 3957 - 27 - 27LAINEka@stpatricks.qld.edu.au
+[Harlem O'Keefe] - 3958 - 27 - 27OKEEFha@stpatricks.qld.edu.au
+[Luciano Diaz Abramovich] - 3959 - 27 - 27DIAZAlu@stpatricks.qld.edu.au
+[Knox Enright] - 3960 - 27 - 27ENRIGkn@stpatricks.qld.edu.au
+[Ayden Fontana] - 3961 - 26 - 26FONTAay@stpatricks.qld.edu.au
+[Neil Gundecha] - 3963 - 26 - 26GUNDEne@stpatricks.qld.edu.au
+[Christian Seeto] - 3966 - 26 - 26SEETOch@stpatricks.qld.edu.au
+[Hugh Sweetman] - 4195 - 27 - 27SWEEThu@stpatricks.qld.edu.au
+[Flynn Scully] - 4230 - 28 - 28SCULLfl@stpatricks.qld.edu.au
+[Cooper Williams] - 4231 - 28 - 28WILLIco@stpatricks.qld.edu.au
+[Jackson Todoreskov] - 4232 - 28 - 28TODORja@stpatricks.qld.edu.au
+[Silas Kelly] - 4233 - 26 - 26KELLYsi@stpatricks.qld.edu.au
+[Benjamin Day] - 4234 - 28 - 28DAYbe@stpatricks.qld.edu.au
+[Harrison Kedwell] - 4235 - 28 - 28KEDWEha@stpatricks.qld.edu.au
+[Lucas Batucan] - 4236 - 28 - 28BATUClu@stpatricks.qld.edu.au
+[Harry Taylor-Bishop] - 4237 - 28 - 28TAYLOha@stpatricks.qld.edu.au
+[Christopher Mullins] - 4238 - 26 - 26MULLIch@stpatricks.qld.edu.au
+[Sebastian Nicholls] - 4239 - 28 - 28NICHOse@stpatricks.qld.edu.au
+[Reece Pollard] - 4240 - 26 - 26POLLAre@stpatricks.qld.edu.au
+[Michael Magro] - 4241 - 28 - 28MAGROmi@stpatricks.qld.edu.au
+[Elijah Richards] - 4242 - 28 - 28RICHAel@stpatricks.qld.edu.au
+[Beau Skowronek] - 4243 - 26 - 26SKOWRbe@stpatricks.qld.edu.au
+[Leon Skowronek] - 4244 - 28 - 28SKOWRle@stpatricks.qld.edu.au
+[Oliver Hinwood] - 4245 - 28 - 28HINWOol@stpatricks.qld.edu.au
+[Joseph Cook] - 4246 - 28 - 28COOKjo@stpatricks.qld.edu.au
+[Samuel Crutcher] - 4247 - 28 - 28CRUTCsa@stpatricks.qld.edu.au
+[Riley Walsh] - 4248 - 28 - 28WALSHri@stpatricks.qld.edu.au
+[Samuel Green] - 4249 - 28 - 28GREENsa@stpatricks.qld.edu.au
+[Harrison Burley] - 4250 - 28 - 28BURLEha@stpatricks.qld.edu.au
+[Luke Kilroy] - 4251 - 28 - 28KILROlu@stpatricks.qld.edu.au
+[Izaiah Brodie-Tomich] - 4252 - 28 - 28BRODIiz@stpatricks.qld.edu.au
+[Ethan Stevenson] - 4253 - 26 - 26STEVEet@stpatricks.qld.edu.au
+[Ethan White] - 4254 - 26 - 26WHITEet@stpatricks.qld.edu.au
+[Ryan Mahne] - 4255 - 26 - 26MAHNEry@stpatricks.qld.edu.au
+[Ryden Sutton] - 4256 - 28 - 28SUTTOry@stpatricks.qld.edu.au
+[Lachlan Priddin] - 4257 - 26 - 26PRIDDla@stpatricks.qld.edu.au
+[Tiago Gonzalez] - 4258 - 28 - 28GONZAti@stpatricks.qld.edu.au
+[Joshua Gonzales] - 4259 - 28 - 28GONZAjo@stpatricks.qld.edu.au
+[Anthony Raven] - 4260 - 28 - 28RAVENan@stpatricks.qld.edu.au
+[Max Webb] - 4261 - 26 - 26WEBBma@stpatricks.qld.edu.au
+[Harvey Mortimer] - 4262 - 28 - 28MORTIha@stpatricks.qld.edu.au
+[Lincoln Conlon] - 4263 - 26 - 26CONLOli@stpatricks.qld.edu.au
+[Tanay Gulati] - 4264 - 26 - 26GULATta@stpatricks.qld.edu.au
+[Merrick Conlon] - 4265 - 26 - 26CONLOme@stpatricks.qld.edu.au
+[Ryan Burgess] - 4266 - 28 - 28BURGEry@stpatricks.qld.edu.au
+[James Batchelor] - 4267 - 28 - 28BATCHja@stpatricks.qld.edu.au
+[Oliver Laws] - 4268 - 28 - 28LAWSol@stpatricks.qld.edu.au
+[Andrew D'Souza] - 4269 - 26 - 26DSOUZan@stpatricks.qld.edu.au
+[Ryan West] - 4270 - 28 - 28WESTry@stpatricks.qld.edu.au
+[Tahj Hubbard] - 4271 - 26 - 26HUBBAta@stpatricks.qld.edu.au
+[Connor Hill] - 4272 - 28 - 28HILLco@stpatricks.qld.edu.au
+[Cooper Kurzke] - 4273 - 28 - 28KURZKco@stpatricks.qld.edu.au
+[Carmelo Cartia] - 4274 - 28 - 28CARTIca@stpatricks.qld.edu.au
+[Marius Graham] - 4275 - 28 - 28GRAHAma@stpatricks.qld.edu.au
+[Asher Lea] - 4276 - 26 - 26LEAas@stpatricks.qld.edu.au
+[Luca Murray] - 4277 - 28 - 28MURRAlu@stpatricks.qld.edu.au
+[Joseph Asnicar] - 4278 - 28 - 28ASNICjo@stpatricks.qld.edu.au
+[Kalev Hamilton] - 4279 - 28 - 28HAMILka@stpatricks.qld.edu.au
+[Oliver Howe] - 4280 - 28 - 28HOWEol@stpatricks.qld.edu.au
+[Robin Locke] - 4281 - 28 - 28LOCKEro@stpatricks.qld.edu.au
+[Solomon Fox] - 4282 - 28 - 28FOXso@stpatricks.qld.edu.au
+[Sam Asnicar] - 4283 - 28 - 28ASNICsa@stpatricks.qld.edu.au
+[Flynn Chard] - 4284 - 28 - 28CHARDfl@stpatricks.qld.edu.au
+[Declan McGuire] - 4285 - 28 - 28MCGUIde@stpatricks.qld.edu.au
+[Alexander Townsley] - 4286 - 26 - 26TOWNSal@stpatricks.qld.edu.au
+[Tarosh Sharma] - 4287 - 28 - 28SHARMta@stpatricks.qld.edu.au
+[Hayden Tait] - 4288 - 28 - 28TAITha@stpatricks.qld.edu.au
+[Josh Taylor] - 4289 - 28 - 28TAYLOjo@stpatricks.qld.edu.au
+[Chase Philpot] - 4290 - 26 - 26PHILPch@stpatricks.qld.edu.au
+[Pranav Lal] - 4291 - 26 - 26LALpr@stpatricks.qld.edu.au
+[Nicholas Altmann] - 4292 - 26 - 26ALTMAni@stpatricks.qld.edu.au
+[Maximus Walsh] - 4293 - 28 - 28WALSHma@stpatricks.qld.edu.au
+[Kaleb Arop] - 4294 - 26 - 26AROPka@stpatricks.qld.edu.au
+[Hayden Ney] - 4295 - 28 - 28NEYha@stpatricks.qld.edu.au
+[Oliver Potts] - 4296 - 28 - 28POTTSol@stpatricks.qld.edu.au
+[Finn Maddock] - 4298 - 28 - 28MADDOfi@stpatricks.qld.edu.au
+[Corey Robinson] - 4299 - 28 - 28ROBINco@stpatricks.qld.edu.au
+[Noah Cooper] - 4300 - 28 - 28COOPEno@stpatricks.qld.edu.au
+[Archie Hall] - 4301 - 26 - 26HALLar@stpatricks.qld.edu.au
+[Jett Dean] - 4302 - 26 - 26DEANje@stpatricks.qld.edu.au
+[Benji Wilmshurst] - 4303 - 28 - 28WILMSbe@stpatricks.qld.edu.au
+[Ashmit Bankar] - 4304 - 28 - 28BANKAas@stpatricks.qld.edu.au
+[Macarthur Petersen] - 4305 - 28 - 28PETERma@stpatricks.qld.edu.au
+[Taj Perrins] - 4306 - 26 - 26PERRIta@stpatricks.qld.edu.au
+[Jack Avila] - 4307 - 26 - 26AVILAja@stpatricks.qld.edu.au
+[Todd Lingard] - 4308 - 26 - 26LINGAto@stpatricks.qld.edu.au
+[Jake Joby] - 4309 - 26 - 26JOBYja@stpatricks.qld.edu.au
+[Riley Jolley] - 4310 - 28 - 28JOLLEri@stpatricks.qld.edu.au
+[Leyon Qass Dano] - 4311 - 26 - 26QASSDle@stpatricks.qld.edu.au
+[Levi Muaiava] - 4312 - 26 - 26MUAIAle@stpatricks.qld.edu.au
+[Himal Shakya] - 4313 - 26 - 26SHAKYhi@stpatricks.qld.edu.au
+[Finn Williams] - 4314 - 28 - 28WILLIfi@stpatricks.qld.edu.au
+[Caden Swannell] - 4315 - 28 - 28SWANNca@stpatricks.qld.edu.au
+[William Conroy] - 4316 - 28 - 28CONROwi@stpatricks.qld.edu.au
+[Christopher Martin] - 4317 - 28 - 28MARTIch@stpatricks.qld.edu.au
+[Jett Walker] - 4318 - 28 - 28WALKEje@stpatricks.qld.edu.au
+[James O'Donnell] - 4319 - 28 - 28ODONNja@stpatricks.qld.edu.au
+[Afram Khudhur] - 4320 - 26 - 26KHUDHaf@stpatricks.qld.edu.au
+[Aram Khudhur] - 4321 - 26 - 26KHUDHar@stpatricks.qld.edu.au
+[Hunter Fitz-Lauritsen] - 4322 - 28 - 28FITZLhu@stpatricks.qld.edu.au
+[Archie Taylour] - 4323 - 26 - 26TAYLOar@stpatricks.qld.edu.au
+[Luke Bishop] - 4324 - 28 - 28BISHOlu@stpatricks.qld.edu.au
+[Peter Taliana] - 4325 - 26 - 26TALIApe@stpatricks.qld.edu.au
+[Xavier Stringfellow] - 4326 - 28 - 28STRINxa@stpatricks.qld.edu.au
+[Harry Kane] - 4327 - 26 - 26KANEha@stpatricks.qld.edu.au
+[Riley Packer] - 4328 - 28 - 28PACKEri@stpatricks.qld.edu.au
+[Jack Grant] - 4329 - 28 - 28GRANTja@stpatricks.qld.edu.au
+[Lewis Khan] - 4330 - 28 - 28KHANle@stpatricks.qld.edu.au
+[Levi Guinnane] - 4331 - 28 - 28GUINNle@stpatricks.qld.edu.au
+[Coby Holt] - 4332 - 28 - 28HOLTco@stpatricks.qld.edu.au
+[Cody Asnicar] - 4333 - 28 - 28ASNICco@stpatricks.qld.edu.au
+[Thomas Leftley] - 4334 - 28 - 28LEFTLth@stpatricks.qld.edu.au
+[Lachlan Harrison] - 4335 - 28 - 28HARRIla@stpatricks.qld.edu.au
+[Michael Dwyer] - 4336 - 28 - 28DWYERmi@stpatricks.qld.edu.au
+[Harrison Lawther] - 4337 - 28 - 28LAWTHha@stpatricks.qld.edu.au
+[Reece Davis] - 4338 - 26 - 26DAVISre@stpatricks.qld.edu.au
+[Noah Mahne] - 4339 - 26 - 26MAHNEno@stpatricks.qld.edu.au
+[Jake Parry] - 4340 - 26 - 26PARRYja@stpatricks.qld.edu.au
+[Isaac Goodman] - 4341 - 26 - 26GOODMis@stpatricks.qld.edu.au
+[Isaac Lahiff] - 4342 - 26 - 26LAHIFis@stpatricks.qld.edu.au
+[Sebastian Barber] - 4343 - 28 - 28BARBEse@stpatricks.qld.edu.au
+[Nicholas Perry] - 4344 - 28 - 28PERRYni@stpatricks.qld.edu.au
+[Lachlan Peterson] - 4345 - 28 - 28PETERla@stpatricks.qld.edu.au
+[Iszak Olasz-English] - 4346 - 28 - 28OLASZis@stpatricks.qld.edu.au
+[Ronan Tully] - 4347 - 28 - 28TULLYro@stpatricks.qld.edu.au
+[Whyatt Menyweather] - 4348 - 28 - 28MENYWwh@stpatricks.qld.edu.au
+[Finn Marlow] - 4349 - 28 - 28MARLOfi@stpatricks.qld.edu.au
+[Ethan Archard] - 4350 - 28 - 28ARCHAet@stpatricks.qld.edu.au
+[Matthew Underdown] - 4351 - 28 - 28UNDERma@stpatricks.qld.edu.au
+[Jaxon Drury] - 4352 - 28 - 28DRURYja@stpatricks.qld.edu.au
+[Spencer Fox] - 4353 - 28 - 28FOXsp@stpatricks.qld.edu.au
+[Jack Munko] - 4354 - 28 - 28MUNKOja@stpatricks.qld.edu.au
+[Benjamin Munko] - 4355 - 28 - 28MUNKObe@stpatricks.qld.edu.au
+[Patrick Napper] - 4356 - 28 - 28NAPPEpa@stpatricks.qld.edu.au
+[Bailey Drake] - 4357 - 28 - 28DRAKEba@stpatricks.qld.edu.au
+[Lucas Mattiske] - 4359 - 28 - 28MATTIlu@stpatricks.qld.edu.au
+[Lync Lauder] - 4360 - 28 - 28LAUDEly@stpatricks.qld.edu.au
+[Samuel Allison] - 4361 - 28 - 28ALLISsa@stpatricks.qld.edu.au
+[Alek Pavlyukovsky] - 4362 - 28 - 28PAVLYal@stpatricks.qld.edu.au
+[Hamish Innes] - 4363 - 28 - 28INNESha@stpatricks.qld.edu.au
+[William Graham] - 4364 - 28 - 28GRAHAwi@stpatricks.qld.edu.au
+[Charlie Jones] - 4365 - 28 - 28JONESch@stpatricks.qld.edu.au
+[Kavi Bhagwan] - 4366 - 28 - 28BHAGWka@stpatricks.qld.edu.au
+[Charlie Gorton] - 4367 - 28 - 28GORTOch@stpatricks.qld.edu.au
+[Owen Cruice] - 4368 - 28 - 28CRUICow@stpatricks.qld.edu.au
+[Hue Tan] - 4369 - 26 - 26TANhu@stpatricks.qld.edu.au
+[Joseph Luxford] - 4370 - 28 - 28LUXFOjo@stpatricks.qld.edu.au
+[Fraser MacBeth] - 4371 - 28 - 28MACBEfr@stpatricks.qld.edu.au
+[William Howard] - 4372 - 28 - 28HOWARwi@stpatricks.qld.edu.au
+[Kobi Newell] - 4373 - 28 - 28NEWELko@stpatricks.qld.edu.au
+[Zac Bugler] - 4374 - 28 - 28BUGLEza@stpatricks.qld.edu.au
+[William David] - 4375 - 28 - 28DAVIDwi@stpatricks.qld.edu.au
+[Billy Grose] - 4376 - 28 - 28GROSEbi@stpatricks.qld.edu.au
+[Connor West-Newman] - 4377 - 28 - 28WESTNco@stpatricks.qld.edu.au
+[Finley Peppler] - 4378 - 28 - 28PEPPLfi@stpatricks.qld.edu.au
+[Xavier Gibson] - 4379 - 28 - 28GIBSOxa@stpatricks.qld.edu.au
+[Jack McDermott] - 4380 - 28 - 28MCDERja@stpatricks.qld.edu.au
+[Liam Mudgway] - 4381 - 28 - 28MUDGWli@stpatricks.qld.edu.au
+[Sebastiaan Giezen] - 4382 - 28 - 28GIEZEse@stpatricks.qld.edu.au
+[Jack Passmore] - 4383 - 26 - 26PASSMja@stpatricks.qld.edu.au
+[Darcy Walters] - 4384 - 28 - 28WALTEda@stpatricks.qld.edu.au
+[Heath Baker] - 4385 - 28 - 28BAKERhe@stpatricks.qld.edu.au
+[Matthew Dowling] - 4386 - 28 - 28DOWLIma@stpatricks.qld.edu.au
+[Eli Bock] - 4387 - 28 - 28BOCKel@stpatricks.qld.edu.au
+[Harry Connolly] - 4388 - 28 - 28CONNOha@stpatricks.qld.edu.au
+[Albie Royes] - 4389 - 28 - 28ROYESal@stpatricks.qld.edu.au
+[Aarnav Bankar] - 4390 - 27 - 27BANKAaa@stpatricks.qld.edu.au
+[Emilio Ceccato] - 4391 - 26 - 26CECCAem@stpatricks.qld.edu.au
+[Orlando Ceccato] - 4392 - 28 - 28CECCAor@stpatricks.qld.edu.au
+[Lachlan Richards] - 4393 - 26 - 26RICHAla@stpatricks.qld.edu.au
+[Joshua Mukoma] - 4394 - 26 - 26MUKOMmp@stpatricks.qld.edu.au
+[Jett Matthews] - 4395 - 26 - 26MATTHje@stpatricks.qld.edu.au
+[Thomas Caldwell] - 4396 - 28 - 28CALDWth@stpatricks.qld.edu.au
+[Luca Bicanic] - 4397 - 28 - 28BICANlu@stpatricks.qld.edu.au
+[Lucas Mancini] - 4398 - 26 - 26MANCIlu@stpatricks.qld.edu.au
+[Joseph Pryce-Davies] - 4399 - 28 - 28PRYCEjo@stpatricks.qld.edu.au
+[Oliver Hewitt] - 4400 - 28 - 28HEWITol@stpatricks.qld.edu.au
+[Will Dickson] - 4401 - 28 - 28DICKSwi@stpatricks.qld.edu.au
+[Satyar Borzoo] - 4402 - 28 - 28BORZOsa@stpatricks.qld.edu.au
+[Charlton Toth] - 4403 - 28 - 28TOTHch@stpatricks.qld.edu.au
+[Boston Lubke] - 4404 - 28 - 28LUBKEbo@stpatricks.qld.edu.au
+[Aidan Megaw] - 4405 - 28 - 28MEGAWai@stpatricks.qld.edu.au
+[Lung Makuel] - 4406 - 26 - 26MAKUElu@stpatricks.qld.edu.au
+[Adam Singer] - 4407 - 28 - 28SINGEad@stpatricks.qld.edu.au
+[Joshua Jones] - 4408 - 28 - 28JONESjo@stpatricks.qld.edu.au
+[Eli Miles] - 4409 - 28 - 28MILESel@stpatricks.qld.edu.au
+[Eamon Manley] - 4410 - 28 - 28MANLEea@stpatricks.qld.edu.au
+[Jackson Dickie] - 4411 - 26 - 26DICKIja@stpatricks.qld.edu.au
+[Spencer Toth] - 4412 - 28 - 28TOTHsp@stpatricks.qld.edu.au
+[Jack McCorry] - 4413 - 28 - 28MCCORja@stpatricks.qld.edu.au
+[Oliver Smith] - 4414 - 26 - 26SMITHol@stpatricks.qld.edu.au
+[Braydan Thompson] - 4415 - 26 - 26THOMPbr@stpatricks.qld.edu.au
+[Oscar Kummer] - 4416 - 26 - 26KUMMEos@stpatricks.qld.edu.au
+[Flynn Larkins] - 4417 - 28 - 28LARKIfl@stpatricks.qld.edu.au
+[Khy Harrison] - 4418 - 28 - 28HARRIkh@stpatricks.qld.edu.au
+[Benjamin Davis] - 4419 - 28 - 28DAVISbe@stpatricks.qld.edu.au
+[Griffin McCormack] - 4420 - 28 - 28MCCORgr@stpatricks.qld.edu.au
+[Joshua Parkin] - 4421 - 28 - 28PARKIjo@stpatricks.qld.edu.au
+[Bailey Handcock] - 4422 - 28 - 28HANDCba@stpatricks.qld.edu.au
+[Izaak Hughes-Musu] - 4423 - 26 - 26HUGHEiz@stpatricks.qld.edu.au
+[Joshua Bradford] - 4425 - 28 - 28BRADFjo@stpatricks.qld.edu.au
+[Noah Avci] - 4426 - 26 - 26AVCIno@stpatricks.qld.edu.au
+[Ben Chiu Chong] - 4427 - 28 - 28CHIUCbe@stpatricks.qld.edu.au
+[Murray Woodbridge] - 4428 - 28 - 28WOODBmu@stpatricks.qld.edu.au
+[Samuel Sander] - 4429 - 26 - 26SANDEsa@stpatricks.qld.edu.au
+[William Jones] - 4430 - 26 - 26JONESwi@stpatricks.qld.edu.au
+[Harrison Dwyer] - 4431 - 28 - 28DWYERha@stpatricks.qld.edu.au
+[Mitchell Thompson] - 4432 - 26 - 26THOMPmi@stpatricks.qld.edu.au
+[Shaun Spathonis] - 4433 - 26 - 26SPATHsh@stpatricks.qld.edu.au
+[Corey Mapp] - 4434 - 26 - 26MAPPco@stpatricks.qld.edu.au
+[Will Amos] - 4435 - 26 - 26AMOSwi@stpatricks.qld.edu.au
+[Stanley Hambling] - 4436 - 26 - 26HAMBLst@stpatricks.qld.edu.au
+[Connor Melit] - 4437 - 28 - 28MELITco@stpatricks.qld.edu.au
+[Liam Hall] - 4438 - 26 - 26HALLli@stpatricks.qld.edu.au
+[Hugo Bent] - 4439 - 28 - 28BENThu@stpatricks.qld.edu.au
+[James Perkins] - 4440 - 28 - 28PERKIja@stpatricks.qld.edu.au
+[Lewis O'Malley] - 4946 - 28 - 28OMALLle@stpatricks.qld.edu.au
+[Tristan Auelua] - 4958 - 26 - 26AUELUtr@stpatricks.qld.edu.au
+[Carter Parcell] - 4988 - 26 - 26PARCEca@stpatricks.qld.edu.au
+[Jamie Lummis] - 5011 - 26 - 26LUMMIja@stpatricks.qld.edu.au
+[Patrick Dickinson] - 5012 - 26 - 26DICKIpa@stpatricks.qld.edu.au
+[Mathias Uitime] - 5016 - 26 - 26UITIMma@stpatricks.qld.edu.au
+[Oscar Brown] - 5019 - 26 - 26BROWNos@stpatricks.qld.edu.au
+[Percy Page] - 5025 - 27 - 27PAGEpe@stpatricks.qld.edu.au
+[Simon Priddey Delfino] - 5028 - 26 - 26PRIDDsi@stpatricks.qld.edu.au
+[Noah Evans] - 5031 - 26 - 26EVANSno@stpatricks.qld.edu.au
+[Liam Miller] - 5038 - 28 - 28MILLEli@stpatricks.qld.edu.au
+[Lachy Theodossio] - 5041 - 27 - 27THEODla@stpatricks.qld.edu.au
+[Theo Tsingos] - 5067 - 27 - 27TSINGth@stpatricks.qld.edu.au
+[Harry Hewitt] - 5068 - 29 - 29HEWITha@stpatricks.qld.edu.au
+[Hugo Morgan] - 5069 - 27 - 27MORGAhu@stpatricks.qld.edu.au
+[Henry Burke] - 5070 - 29 - 29BURKEhe@stpatricks.qld.edu.au
+[Tristan Mullins] - 5071 - 29 - 29MULLItr@stpatricks.qld.edu.au
+[Hayden Cooper] - 5072 - 29 - 29COOPEha@stpatricks.qld.edu.au
+[Archie Fraser] - 5073 - 29 - 29FRASEar@stpatricks.qld.edu.au
+[Ronan Jenkins] - 5074 - 29 - 29JENKIro@stpatricks.qld.edu.au
+[Alex Cahill] - 5075 - 27 - 27CAHILal@stpatricks.qld.edu.au
+[Jaxon Williams] - 5076 - 29 - 29WILLIja@stpatricks.qld.edu.au
+[Parker James] - 5077 - 29 - 29JAMESpa@stpatricks.qld.edu.au
+[Archie Ceccato] - 5078 - 27 - 27CECCAar@stpatricks.qld.edu.au
+[Samir Gurung] - 5079 - 27 - 27GURUNsa@stpatricks.qld.edu.au
+[Charlton Volter] - 5080 - 29 - 29VOLTEch@stpatricks.qld.edu.au
+[Joshua Dale] - 5081 - 29 - 29DALEjo@stpatricks.qld.edu.au
+[Dominic Goreta] - 5082 - 29 - 29GORETdo@stpatricks.qld.edu.au
+[Ethan Sainsbury] - 5083 - 29 - 29SAINSet@stpatricks.qld.edu.au
+[Penn Wilson] - 5084 - 29 - 29WILSOpe@stpatricks.qld.edu.au
+[John Meredith] - 5085 - 27 - 27MEREDjo@stpatricks.qld.edu.au
+[Cash Calder] - 5086 - 27 - 27CALDEca@stpatricks.qld.edu.au
+[Anderson Hennessy] - 5087 - 29 - 29HENNEan@stpatricks.qld.edu.au
+[Alexander McLeod] - 5088 - 27 - 27MCLEOal@stpatricks.qld.edu.au
+[Edward Atkins] - 5089 - 29 - 29ATKINed@stpatricks.qld.edu.au
+[Ciaran Nicholas] - 5090 - 29 - 29NICHOci@stpatricks.qld.edu.au
+[Isaac Noone] - 5091 - 27 - 27NOONEis@stpatricks.qld.edu.au
+[Kai Leggett] - 5092 - 29 - 29LEGGEka@stpatricks.qld.edu.au
+[Dane Audibert] - 5093 - 29 - 29AUDIBda@stpatricks.qld.edu.au
+[Flynn Esaias] - 5094 - 29 - 29ESAIAfl@stpatricks.qld.edu.au
+[Jensen Mendoza] - 5095 - 27 - 27MENDOje@stpatricks.qld.edu.au
+[Felix Ferguson] - 5096 - 29 - 29FERGUfe@stpatricks.qld.edu.au
+[Finn McMenz] - 5097 - 29 - 29MCMENfi@stpatricks.qld.edu.au
+[Camden Lawson] - 5098 - 27 - 27LAWSOca@stpatricks.qld.edu.au
+[Jacob Hadwick] - 5099 - 29 - 29HADWIja@stpatricks.qld.edu.au
+[Hamish Adams] - 5100 - 27 - 27ADAMSha@stpatricks.qld.edu.au
+[Hayden Wecker] - 5101 - 29 - 29WECKEha@stpatricks.qld.edu.au
+[Cory Catling] - 5102 - 29 - 29CATLIco@stpatricks.qld.edu.au
+[Abiel Healy] - 5103 - 27 - 27HEALYab@stpatricks.qld.edu.au
+[Dominic Downey] - 5105 - 29 - 29DOWNEdo@stpatricks.qld.edu.au
+[Blake Martin] - 5106 - 27 - 27MARTIbl@stpatricks.qld.edu.au
+[Mitchell Southby] - 5107 - 29 - 29SOUTHmi@stpatricks.qld.edu.au
+[Jayden Foy] - 5108 - 29 - 29FOYja@stpatricks.qld.edu.au
+[Carter Horn] - 5109 - 29 - 29HORNca@stpatricks.qld.edu.au
+[Jaden Armitage] - 5110 - 29 - 29ARMITja@stpatricks.qld.edu.au
+[Zachary Macks] - 5111 - 29 - 29MACKSza@stpatricks.qld.edu.au
+[Thomas Hanly] - 5112 - 29 - 29HANLYth@stpatricks.qld.edu.au
+[Parker Stevens] - 5113 - 29 - 29STEVEpa@stpatricks.qld.edu.au
+[Emmet Burow] - 5114 - 29 - 29BUROWem@stpatricks.qld.edu.au
+[Finn Walker] - 5115 - 29 - 29WALKEfi@stpatricks.qld.edu.au
+[Noah Warner] - 5116 - 29 - 29WARNEno@stpatricks.qld.edu.au
+[Lachlan Maskell] - 5117 - 29 - 29MASKEla@stpatricks.qld.edu.au
+[Levi MacDonald] - 5118 - 27 - 27MACDOle@stpatricks.qld.edu.au
+[Jethro Cope] - 5119 - 29 - 29COPEje@stpatricks.qld.edu.au
+[Josh McDonald] - 5120 - 29 - 29MCDONjo@stpatricks.qld.edu.au
+[Campbell Turner] - 5121 - 29 - 29TURNEca@stpatricks.qld.edu.au
+[Riley Brannelly] - 5122 - 29 - 29BRANNri@stpatricks.qld.edu.au
+[Lachlan Page] - 5123 - 29 - 29PAGEla@stpatricks.qld.edu.au
+[Thomas Burton] - 5124 - 29 - 29BURTOth@stpatricks.qld.edu.au
+[William Hoarau] - 5125 - 29 - 29HOARAwi@stpatricks.qld.edu.au
+[Blake Morton] - 5126 - 29 - 29MORTObl@stpatricks.qld.edu.au
+[Harry Whitfield] - 5127 - 29 - 29WHITFha@stpatricks.qld.edu.au
+[Eamon Stanton] - 5128 - 27 - 27STANTea@stpatricks.qld.edu.au
+[Finn Yee] - 5129 - 29 - 29YEEfi@stpatricks.qld.edu.au
+[Henry Long] - 5130 - 29 - 29LONGhe@stpatricks.qld.edu.au
+[Oliver Lichtwark] - 5131 - 29 - 29LICHTol@stpatricks.qld.edu.au
+[Alfie Clarke] - 5132 - 29 - 29CLARKal@stpatricks.qld.edu.au
+[Joshua Morgan] - 5133 - 27 - 27MORGAjo@stpatricks.qld.edu.au
+[Isaac Morgan] - 5134 - 29 - 29MORGAis@stpatricks.qld.edu.au
+[Cayden Read] - 5135 - 27 - 27READca@stpatricks.qld.edu.au
+[Archie Hawke] - 5136 - 29 - 29HAWKEar@stpatricks.qld.edu.au
+[Zack Martinez] - 5137 - 27 - 27MARTIza@stpatricks.qld.edu.au
+[Ellis Breen] - 5138 - 29 - 29BREENel@stpatricks.qld.edu.au
+[Morgan Pritchard] - 5139 - 29 - 29PRITCmo@stpatricks.qld.edu.au
+[Thomas Culver] - 5140 - 27 - 27CULVEth@stpatricks.qld.edu.au
+[Olli Padgett] - 5141 - 29 - 29PADGEol@stpatricks.qld.edu.au
+[Finn Richards] - 5142 - 29 - 29RICHAfi@stpatricks.qld.edu.au
+[Ben Parry] - 5143 - 29 - 29PARRYbe@stpatricks.qld.edu.au
+[William Dickinson] - 5144 - 27 - 27DICKIwi@stpatricks.qld.edu.au
+[Seth Goodman] - 5145 - 27 - 27GOODMse@stpatricks.qld.edu.au
+[Will Dallas] - 5146 - 27 - 27DALLAwi@stpatricks.qld.edu.au
+[Eli Dallas] - 5147 - 29 - 29DALLAel@stpatricks.qld.edu.au
+[Mauro Diaz Abramovich] - 5148 - 29 - 29DIAZma@stpatricks.qld.edu.au
+[Rylee Harrison] - 5149 - 29 - 29HARRIry@stpatricks.qld.edu.au
+[Matthys Visser] - 5150 - 27 - 27VISSEma@stpatricks.qld.edu.au
+[Cooper Ferguson] - 5151 - 29 - 29FERGUco@stpatricks.qld.edu.au
+[Dominic Philpot] - 5152 - 29 - 29PHILPdo@stpatricks.qld.edu.au
+[Cristian Sala-Eden] - 5153 - 27 - 27SALAEcr@stpatricks.qld.edu.au
+[Harrington Petersen] - 5154 - 29 - 29PETERha@stpatricks.qld.edu.au
+[Jesse Fuary-James] - 5155 - 27 - 27FUARYje@stpatricks.qld.edu.au
+[Isaac Geary] - 5156 - 27 - 27GEARYis@stpatricks.qld.edu.au
+[Nicholas Liddell] - 5157 - 27 - 27LIDDEni@stpatricks.qld.edu.au
+[Nicolas Ollenburg] - 5158 - 27 - 27OLLENni@stpatricks.qld.edu.au
+[Miguel Alladin] - 5159 - 27 - 27ALLADmi@stpatricks.qld.edu.au
+[Lachlan Button] - 5160 - 27 - 27BUTTOla@stpatricks.qld.edu.au
+[Munro Kelland] - 5161 - 27 - 27KELLAmu@stpatricks.qld.edu.au
+[Adam Maliakkal] - 5162 - 27 - 27MALIAad@stpatricks.qld.edu.au
+[Finn Pickwell] - 5163 - 27 - 27PICKWfi@stpatricks.qld.edu.au
+[Samson Pouniu] - 5164 - 27 - 27POUNIsa@stpatricks.qld.edu.au
+[Arya Prabhuram] - 5165 - 27 - 27PRABHar@stpatricks.qld.edu.au
+[Oliver Pyle] - 5166 - 27 - 27PYLEol@stpatricks.qld.edu.au
+[Joshua D'Addona] - 5167 - 27 - 27DADDOjo@stpatricks.qld.edu.au
+[Elijah Doran] - 5168 - 27 - 27DORANel@stpatricks.qld.edu.au
+[Max Hannah] - 5169 - 27 - 27HANNAma@stpatricks.qld.edu.au
+[Joshua Menzies] - 5170 - 27 - 27MENZIjo@stpatricks.qld.edu.au
+[Lucas O'Brien] - 5171 - 27 - 27OBRIElu@stpatricks.qld.edu.au
+[Tanaka Midzi] - 5172 - 27 - 27MIDZIta@stpatricks.qld.edu.au
+[Jacob Monk] - 5173 - 29 - 29MONKja@stpatricks.qld.edu.au
+[Damon Langan] - 5174 - 29 - 29LANGAda@stpatricks.qld.edu.au
+[Chase Elliott] - 5175 - 29 - 29ELLIOch@stpatricks.qld.edu.au
+[Thane McArthur] - 5176 - 29 - 29MCARTth@stpatricks.qld.edu.au
+[Lachlan Edmonds] - 5177 - 29 - 29EDMONla@stpatricks.qld.edu.au
+[Thomas Wickett] - 5178 - 29 - 29WICKEth@stpatricks.qld.edu.au
+[I Gede Donaldson] - 5179 - 29 - 29DONALig@stpatricks.qld.edu.au
+[Bailey Walter] - 5180 - 29 - 29WALTEba@stpatricks.qld.edu.au
+[Callan Hutton] - 5181 - 29 - 29HUTTOca@stpatricks.qld.edu.au
+[Noah Uhr] - 5182 - 29 - 29UHRno@stpatricks.qld.edu.au
+[Tyler Haynes] - 5183 - 29 - 29HAYNEty@stpatricks.qld.edu.au
+[Harrison Hornby] - 5184 - 29 - 29HORNBha@stpatricks.qld.edu.au
+[Harrison Lyons] - 5185 - 29 - 29LYONSha@stpatricks.qld.edu.au
+[Eli Fenech] - 5186 - 29 - 29FENECel@stpatricks.qld.edu.au
+[Beau Williams] - 5187 - 29 - 29WILLIbe@stpatricks.qld.edu.au
+[Freddie Hampton] - 5188 - 27 - 27HAMPTfr@stpatricks.qld.edu.au
+[Monty Hampton] - 5189 - 27 - 27HAMPTmo@stpatricks.qld.edu.au
+[Heston Kumar] - 5190 - 29 - 29KUMARhe@stpatricks.qld.edu.au
+[Bailey Murrell] - 5191 - 29 - 29MURREba@stpatricks.qld.edu.au
+[Jash Hirani] - 5192 - 29 - 29HIRANja@stpatricks.qld.edu.au
+[Sam Briggs] - 5193 - 29 - 29BRIGGsa@stpatricks.qld.edu.au
+[Noah Lindner] - 5194 - 29 - 29LINDNno@stpatricks.qld.edu.au
+[Nicholas Whiting] - 5195 - 29 - 29WHITIni@stpatricks.qld.edu.au
+[Edward Bazeos] - 5196 - 29 - 29BAZEOed@stpatricks.qld.edu.au
+[Zeke Greenfield] - 5197 - 29 - 29GREENze@stpatricks.qld.edu.au
+[Fynn Schulte] - 5198 - 29 - 29SCHULfy@stpatricks.qld.edu.au
+[Finn Gilbert] - 5199 - 29 - 29GILBEfi@stpatricks.qld.edu.au
+[Zachary Keefe] - 5200 - 29 - 29KEEFEza@stpatricks.qld.edu.au
+[Cooper Pritchard] - 5201 - 29 - 29PRITCco@stpatricks.qld.edu.au
+[Spencer Vowles] - 5202 - 29 - 29VOWLEsp@stpatricks.qld.edu.au
+[Talan Neilsen] - 5203 - 29 - 29NEILSta@stpatricks.qld.edu.au
+[Jack Hobbs] - 5204 - 29 - 29HOBBSja@stpatricks.qld.edu.au
+[Corbin Welsh] - 5205 - 29 - 29WELSHco@stpatricks.qld.edu.au
+[Billy Brown] - 5206 - 29 - 29BROWNbi@stpatricks.qld.edu.au
+[James Wilson] - 5207 - 29 - 29WILSOja@stpatricks.qld.edu.au
+[Jacob Ellis] - 5208 - 29 - 29ELLISja@stpatricks.qld.edu.au
+[Akshat Niroop] - 5209 - 29 - 29NIROOak@stpatricks.qld.edu.au
+[Flynn Sallmann] - 5210 - 29 - 29SALLMfl@stpatricks.qld.edu.au
+[Luca Good] - 5211 - 29 - 29GOODlu@stpatricks.qld.edu.au
+[Owen McKinley] - 5212 - 29 - 29MCKINow@stpatricks.qld.edu.au
+[Jude McClure] - 5213 - 29 - 29MCCLUju@stpatricks.qld.edu.au
+[Logan Jordan] - 5214 - 29 - 29JORDAlo@stpatricks.qld.edu.au
+[Bobby Potter] - 5215 - 29 - 29POTTEbo@stpatricks.qld.edu.au
+[Dylan Postlethwaite] - 5216 - 29 - 29POSTLdy@stpatricks.qld.edu.au
+[Blake Abbott] - 5217 - 29 - 29ABBOTbl@stpatricks.qld.edu.au
+[Joseph Morris] - 5218 - 29 - 29MORRIjo@stpatricks.qld.edu.au
+[Spencer Tsingos] - 5219 - 29 - 29TSINGsp@stpatricks.qld.edu.au
+[Oliver Baldwin] - 5220 - 29 - 29BALDWol@stpatricks.qld.edu.au
+[Clancy Scanlan] - 5221 - 29 - 29SCANLcl@stpatricks.qld.edu.au
+[Denim McCormack] - 5222 - 29 - 29MCCORde@stpatricks.qld.edu.au
+[Harrison Hickey] - 5223 - 29 - 29HICKEha@stpatricks.qld.edu.au
+[Jackson Leslie] - 5224 - 29 - 29LESLIja@stpatricks.qld.edu.au
+[Elijah Pepperdene] - 5225 - 29 - 29PEPPEel@stpatricks.qld.edu.au
+[Sharanpreet Barring] - 5226 - 29 - 29barrish@stpatricks.qld.edu.au
+[Samuel McColl] - 5227 - 29 - 29MCCOLsa@stpatricks.qld.edu.au
+[Nathan Watson] - 5228 - 29 - 29WATSOna@stpatricks.qld.edu.au
+[Seth Donnelly] - 5229 - 29 - 29DONNEse@stpatricks.qld.edu.au
+[Benjiman French] - 5230 - 29 - 29FRENCbe@stpatricks.qld.edu.au
+[Spencer Dillewaard] - 5231 - 29 - 29DILLEsp@stpatricks.qld.edu.au
+[Mitchell Todd] - 5232 - 29 - 29TODDmi@stpatricks.qld.edu.au
+[Harry Collins] - 5233 - 29 - 29COLLIha@stpatricks.qld.edu.au
+[Cooper Mann] - 5234 - 29 - 29MANNco@stpatricks.qld.edu.au
+[Maneet Sarao] - 5235 - 29 - 29saraoma@stpatricks.qld.edu.au
+[Hugh Gow] - 5236 - 29 - 29GOWhu@stpatricks.qld.edu.au
+[Mason Gow] - 5237 - 27 - 27GOWma@stpatricks.qld.edu.au
+[Dulisha Fernando] - 5238 - 29 - 29FERNAdu@stpatricks.qld.edu.au
+[Braxton O'Brien] - 5239 - 29 - 29OBRIEbr@stpatricks.qld.edu.au
+[Benjamin Nicholson] - 5240 - 29 - 29NICHObe@stpatricks.qld.edu.au
+[Nicholas Lawless] - 5241 - 29 - 29LAWLEni@stpatricks.qld.edu.au
+[Jacob Vernon] - 5242 - 29 - 29VERNOja@stpatricks.qld.edu.au
+[Elliot Hitchcock] - 5243 - 29 - 29HITCHel@stpatricks.qld.edu.au
+[Jack White] - 5244 - 29 - 29WHITEja@stpatricks.qld.edu.au
+[Tyler White] - 5245 - 29 - 29WHITEty@stpatricks.qld.edu.au
+[Jarlath Murphy] - 5246 - 29 - 29MURPHja@stpatricks.qld.edu.au
+[Jack Kunst] - 5247 - 29 - 29KUNSTja@stpatricks.qld.edu.au
+[Jack McKeering] - 5248 - 29 - 29MCKEEja@stpatricks.qld.edu.au
+[Hunter Paulger] - 5249 - 27 - 27PAULGhu@stpatricks.qld.edu.au
+[Bentley Paulger] - 5250 - 29 - 29PAULGbe@stpatricks.qld.edu.au
+[Jack Stretton] - 5251 - 27 - 27STRETja@stpatricks.qld.edu.au
+[Jaireet Tej] - 5252 - 29 - 29TEJja@stpatricks.qld.edu.au
+[Alex McKinnon] - 5253 - 27 - 27MCKINal@stpatricks.qld.edu.au
+[Phoenix Munday] - 5254 - 29 - 29MUNDAph@stpatricks.qld.edu.au
+[Noah Giess] - 5255 - 29 - 29GIESSno@stpatricks.qld.edu.au
+[Eric Shrestha] - 5256 - 27 - 27SHRESer@stpatricks.qld.edu.au
+[Nathaniel Wiles] - 5258 - 27 - 27WILESna@stpatricks.qld.edu.au
+[Angus Pitman] - 5259 - 27 - 27PITMAan@stpatricks.qld.edu.au
+[Jack Taverner] - 5260 - 27 - 27TAVERja@stpatricks.qld.edu.au
+[Charlie White] - 5261 - 29 - 29WHITEch@stpatricks.qld.edu.au
+[Lachlan Sellars] - 5262 - 29 - 29SELLAla@stpatricks.qld.edu.au
+[Angus Kruger] - 5263 - 27 - 27KRUGEan@stpatricks.qld.edu.au
+[Seturo Nanai] - 5264 - 27 - 27NANAIse@stpatricks.qld.edu.au
+[Percy Baker] - 5265 - 29 - 29BAKERpe@stpatricks.qld.edu.au
+[Rydah Nixon] - 5266 - 27 - 27NIXONry@stpatricks.qld.edu.au
+[Taj Rai] - 5267 - 29 - 29RAIta@stpatricks.qld.edu.au
+[Jaiden Buultjens] - 5268 - 29 - 29BUULTja@stpatricks.qld.edu.au
+[Tyson Bailey] - 5269 - 29 - 29BAILEty@stpatricks.qld.edu.au
+[Jaraiya Lewis] - 5270 - 27 - 27LEWISja@stpatricks.qld.edu.au
+[Lucca Sanson] - 5271 - 27 - 27SANSOlu@stpatricks.qld.edu.au
+[Tom Hills] - 5272 - 29 - 29HILLSto@stpatricks.qld.edu.au
+[Alex Collins] - 5275 - 26 - 26COLLIal@stpatricks.qld.edu.au
+[Cuan van Bart] - 5277 - 27 - 27VANBAcu@stpatricks.qld.edu.au
+[Saxon Waters] - 5278 - 26 - 26WATERsa@stpatricks.qld.edu.au
+[Max Hillard] - 5280 - 26 - 26HILLAma@stpatricks.qld.edu.au
+[Jack Hillard] - 5281 - 27 - 27HILLAja@stpatricks.qld.edu.au
+[Marlin Jones] - 5282 - 26 - 26JONESma@stpatricks.qld.edu.au
+[Ceasario Lopes] - 5284 - 26 - 26LOPESce@stpatricks.qld.edu.au
+[Jacob Hose] - 5287 - 27 - 27HOSEja@stpatricks.qld.edu.au
+[Eiden Sijokallungal] - 5291 - 26 - 26SIJOKei@stpatricks.qld.edu.au
+[Edwin Sijokallungal] - 5292 - 27 - 27SIJOKed@stpatricks.qld.edu.au
+[Harry O'Dwyer] - 5293 - 26 - 26ODWYEha@stpatricks.qld.edu.au
+[Kaleb Kelly] - 5431 - 28 - 28KELLYka@stpatricks.qld.edu.au
+[Oliver Howell] - 5471 - 28 - 28HOWELol@stpatricks.qld.edu.au
+[Lucas John] - 5472 - 27 - 27JOHNlu@stpatricks.qld.edu.au
+[Benjamin Lippert] - 5489 - 28 - 28LIPPEbe@stpatricks.qld.edu.au
+[Marcus Cooper] - 5490 - 28 - 28COOPEma@stpatricks.qld.edu.au
+[Benji Wright] - 5508 - 29 - 29WRIGHbe@stpatricks.qld.edu.au
+[Matthew Marsberg] - 5511 - 26 - 26MARSBma@stpatricks.qld.edu.au
+[Charlie McGill] - 5512 - 27 - 27MCGILch@stpatricks.qld.edu.au
+[Jack Mathers] - 5513 - 27 - 27MATHEja@stpatricks.qld.edu.au
+[Charlie Mathers] - 5514 - 29 - 29MATHEch@stpatricks.qld.edu.au
+[Ryan Megaw] - 6567 - 30 - 30MEGAWry@stpatricks.qld.edu.au
+[Jack Mosely] - 6568 - 30 - 30MOSELja@stpatricks.qld.edu.au
+[Nate McCullough] - 6569 - 30 - 30MCCULna@stpatricks.qld.edu.au
+[Reuben Dufourq] - 6570 - 30 - 30DUFOUre@stpatricks.qld.edu.au
+[Lewis Copping] - 6571 - 28 - 28COPPIle@stpatricks.qld.edu.au
+[Liam McKeering] - 6572 - 30 - 30MCKEEli@stpatricks.qld.edu.au
+[Daniel Simpson] - 6573 - 30 - 30SIMPSda@stpatricks.qld.edu.au
+[Ben Craker] - 6574 - 30 - 30CRAKEbe@stpatricks.qld.edu.au
+[Severin De Clercq] - 6575 - 30 - 30DECLEse@stpatricks.qld.edu.au
+[Cooper Dionysius] - 6576 - 30 - 30DIONYco@stpatricks.qld.edu.au
+[Louie Taylor-Bishop] - 6577 - 30 - 30TAYLOlo@stpatricks.qld.edu.au
+[Raf Gonzalez] - 6578 - 30 - 30GONZAra@stpatricks.qld.edu.au
+[Luas Morgan] - 6579 - 30 - 30MORGAlu@stpatricks.qld.edu.au
+[Angus Laws] - 6580 - 30 - 30LAWSan@stpatricks.qld.edu.au
+[Noah Pastourel] - 6581 - 30 - 30PASTOno@stpatricks.qld.edu.au
+[Fin McGlone] - 6582 - 28 - 28MCGLOfi@stpatricks.qld.edu.au
+[Lochlan McGlone] - 6583 - 28 - 28MCGLOlo@stpatricks.qld.edu.au
+[Lachlan McLaren] - 6584 - 30 - 30MCLARla@stpatricks.qld.edu.au
+[Angus Leftley] - 6585 - 30 - 30LEFTLan@stpatricks.qld.edu.au
+[Jordan Packer] - 6586 - 30 - 30PACKEjo@stpatricks.qld.edu.au
+[Finlay Cass-Daly] - 6587 - 30 - 30CASSDfi@stpatricks.qld.edu.au
+[Emmett Cass-Daly] - 6588 - 30 - 30CASSDem@stpatricks.qld.edu.au
+[Rhys Gribben] - 6589 - 28 - 28GRIBBrh@stpatricks.qld.edu.au
+[Oliver Harkin] - 6590 - 30 - 30HARKIol@stpatricks.qld.edu.au
+[Archie Andrews] - 6591 - 30 - 30ANDREar@stpatricks.qld.edu.au
+[Lincoln Williams] - 6592 - 30 - 30WILLIli@stpatricks.qld.edu.au
+[Freddie Franklin] - 6593 - 30 - 30FRANKfr@stpatricks.qld.edu.au
+[Oisin Lacey] - 6594 - 30 - 30LACEYoi@stpatricks.qld.edu.au
+[Jaedon Albayalde] - 6595 - 28 - 28ALBAYja@stpatricks.qld.edu.au
+[Eli Whiteside] - 6596 - 30 - 30WHITEel@stpatricks.qld.edu.au
+[Ethan Collins] - 6597 - 28 - 28COLLIet@stpatricks.qld.edu.au
+[Harrison Riedel] - 6598 - 30 - 30RIEDEha@stpatricks.qld.edu.au
+[Monty Sweetman] - 6599 - 30 - 30SWEETmo@stpatricks.qld.edu.au
+[Benjamin Bell] - 6600 - 30 - 30BELLbe@stpatricks.qld.edu.au
+[Liam Buckley] - 6601 - 28 - 28BUCKLli@stpatricks.qld.edu.au
+[William Mackinnon] - 6602 - 30 - 30MACKIwi@stpatricks.qld.edu.au
+[Darcy Caddy] - 6603 - 30 - 30CADDYda@stpatricks.qld.edu.au
+[Lucas Kinsella] - 6604 - 30 - 30KINSElu@stpatricks.qld.edu.au
+[Tyler Komarzynski] - 6605 - 28 - 28KOMARty@stpatricks.qld.edu.au
+[Campbell Smith] - 6606 - 28 - 28SMITHca@stpatricks.qld.edu.au
+[Boston Speedy] - 6607 - 30 - 30SPEEDbo@stpatricks.qld.edu.au
+[Krystian Foltak] - 6608 - 30 - 30FOLTAkr@stpatricks.qld.edu.au
+[Malachi Hamilton] - 6609 - 30 - 30HAMILma@stpatricks.qld.edu.au
+[Asher Hamilton] - 6610 - 30 - 30HAMILas@stpatricks.qld.edu.au
+[Cooper Blake] - 6611 - 30 - 30BLAKEco@stpatricks.qld.edu.au
+[James McLeavy] - 6612 - 30 - 30MCLEAja@stpatricks.qld.edu.au
+[Aaron Nmanii] - 6613 - 28 - 28NMANIaa@stpatricks.qld.edu.au
+[Malakai Rarere] - 6614 - 30 - 30RARERma@stpatricks.qld.edu.au
+[Levi McGoldrick] - 6615 - 30 - 30MCGOLle@stpatricks.qld.edu.au
+[James Passmore] - 6616 - 28 - 28PASSMja@stpatricks.qld.edu.au
+[Jack Dallas] - 6617 - 30 - 30DALLAja@stpatricks.qld.edu.au
+[Otis Laine] - 6619 - 30 - 30LAINEot@stpatricks.qld.edu.au
+[Ari Williams] - 6620 - 30 - 30WILLIar@stpatricks.qld.edu.au
+[Charlie Allison] - 6621 - 30 - 30ALLISch@stpatricks.qld.edu.au
+[Nikolai Pavlyukovsky] - 6622 - 30 - 30PAVLYni@stpatricks.qld.edu.au
+[Duncan Caldwell] - 6623 - 30 - 30CALDWdu@stpatricks.qld.edu.au
+[Nathan Clarke] - 6624 - 28 - 28CLARKna@stpatricks.qld.edu.au
+[Nicolai Fitz-Lauritsen] - 6625 - 30 - 30FITZLni@stpatricks.qld.edu.au
+[Leon David] - 6626 - 30 - 30DAVIDle@stpatricks.qld.edu.au
+[Xavier Marlow] - 6627 - 30 - 30MARLOxa@stpatricks.qld.edu.au
+[Maxwell Dowling] - 6628 - 28 - 28DOWLImax@stpatricks.qld.edu.au
+[Ben Underdown] - 6629 - 30 - 30UNDERbe@stpatricks.qld.edu.au
+[Daniel Taylor] - 6630 - 30 - 30TAYLOda@stpatricks.qld.edu.au
+[Finn Harper] - 6631 - 28 - 28HARPEfi@stpatricks.qld.edu.au
+[Vince Tan] - 6632 - 30 - 30TANvi@stpatricks.qld.edu.au
+[Joshua Ollenburg] - 6633 - 28 - 28OLLENjo@stpatricks.qld.edu.au
+[Liam Ollenburg] - 6634 - 30 - 30OLLENli@stpatricks.qld.edu.au
+[Harrison Little] - 6635 - 28 - 28LITTLha@stpatricks.qld.edu.au
+[Max Potts] - 6636 - 30 - 30POTTSma@stpatricks.qld.edu.au
+[Luke Greenfield] - 6637 - 30 - 30GREENlu@stpatricks.qld.edu.au
+[Fletcher Good] - 6638 - 30 - 30GOODfl@stpatricks.qld.edu.au
+[Aden McClure] - 6639 - 30 - 30MCCLUad@stpatricks.qld.edu.au
+[Billy McArdle] - 6640 - 28 - 28MCARDbi@stpatricks.qld.edu.au
+[Blake McArdle] - 6641 - 30 - 30MCARDbl@stpatricks.qld.edu.au
+[Jake Clur] - 6642 - 28 - 28CLURja@stpatricks.qld.edu.au
+[Xavier Ballinger] - 6643 - 28 - 28BALLIxa@stpatricks.qld.edu.au
+[Aidan Buchanan] - 6644 - 28 - 28BUCHAai@stpatricks.qld.edu.au
+[Oliver Buchanan] - 6645 - 30 - 30BUCHAol@stpatricks.qld.edu.au
+[Hayden Punter] - 6646 - 28 - 28PUNTEha@stpatricks.qld.edu.au
+[Nathanael Passagne] - 6647 - 28 - 28PASSAna@stpatricks.qld.edu.au
+[Teddy Wright] - 6648 - 28 - 28WRIGHed@stpatricks.qld.edu.au
+[Xavier Skiba] - 6649 - 28 - 28SKIBAxa@stpatricks.qld.edu.au
+[Lucas Anthony] - 6650 - 28 - 28ANTHOlu@stpatricks.qld.edu.au
+[Noah Anthony] - 6651 - 30 - 30ANTHOno@stpatricks.qld.edu.au
+[Jacob Blyth] - 6652 - 28 - 28BLYTHja@stpatricks.qld.edu.au
+[Kobi Blyth] - 6653 - 30 - 30BLYTHko@stpatricks.qld.edu.au
+[Nathaniel Chaffey] - 6654 - 28 - 28CHAFFna@stpatricks.qld.edu.au
+[Phoenix Duggan-Saseve] - 6655 - 28 - 28DUGGAph@stpatricks.qld.edu.au
+[Ben Clynes] - 6656 - 28 - 28CLYNEbe@stpatricks.qld.edu.au
+[Cooper Black] - 6657 - 28 - 28BLACKco@stpatricks.qld.edu.au
+[Billy O'Sullivan] - 6658 - 28 - 28OSULLbi@stpatricks.qld.edu.au
+[Lincoln Mason] - 6659 - 28 - 28MASONli@stpatricks.qld.edu.au
+[Edrik Potocki] - 6660 - 30 - 30POTOCed@stpatricks.qld.edu.au
+[Griff Jones] - 6661 - 28 - 28JONESgr@stpatricks.qld.edu.au
+[Harry Williams] - 6662 - 28 - 28WILLIha@stpatricks.qld.edu.au
+[Codyn Stuy] - 6663 - 28 - 28STUYco@stpatricks.qld.edu.au
+[Sammy Kainth] - 6664 - 28 - 28KAINTsa@stpatricks.qld.edu.au
+[Riley Slingsby] - 6665 - 28 - 28SLINGri@stpatricks.qld.edu.au
+[Ryder Dowling] - 6666 - 28 - 28DOWLIry@stpatricks.qld.edu.au
+[Flynn Niu] - 6667 - 28 - 28NIUfl@stpatricks.qld.edu.au
+[George Kruger] - 6668 - 30 - 30KRUGEge@stpatricks.qld.edu.au
+[Jaxon McKean] - 6669 - 28 - 28MCKEAja@stpatricks.qld.edu.au
+[Kc Nixon] - 6670 - 30 - 30NIXONkc@stpatricks.qld.edu.au
+[Tanah Kowaltzke] - 6671 - 30 - 30KOWALta@stpatricks.qld.edu.au
+[Jonah Valcovich] - 6672 - 30 - 30VALCOjo@stpatricks.qld.edu.au
+[Alex Rosuck] - 6673 - 30 - 30ROSUCal@stpatricks.qld.edu.au
+[Eli Reid] - 6674 - 30 - 30REIDel@stpatricks.qld.edu.au
+[Leo Griffiths] - 6675 - 30 - 30GRIFFle@stpatricks.qld.edu.au
+[Hayden Cleaver] - 6676 - 30 - 30CLEAVha@stpatricks.qld.edu.au
+[Max Wheeler] - 6677 - 30 - 30WHEELma@stpatricks.qld.edu.au
+[Alexander Dashwood] - 6678 - 30 - 30DASHWal@stpatricks.qld.edu.au
+[Noah Harridge] - 6679 - 30 - 30HARRIno@stpatricks.qld.edu.au
+[Levi Johanson] - 6680 - 30 - 30JOHANle@stpatricks.qld.edu.au
+[Jack McCubbin] - 6681 - 30 - 30MCCUBja@stpatricks.qld.edu.au
+[Archie Falkus] - 6682 - 30 - 30FALKUar@stpatricks.qld.edu.au
+[Dylan Harvey] - 6683 - 30 - 30HARVEdy@stpatricks.qld.edu.au
+[Hamish Searle] - 6684 - 30 - 30SEARLha@stpatricks.qld.edu.au
+[Reuben Ryan] - 6685 - 30 - 30RYANre@stpatricks.qld.edu.au
+[Flynn Harding] - 6686 - 30 - 30HARDIfl@stpatricks.qld.edu.au
+[Alfie Triggs] - 6687 - 30 - 30TRIGGal@stpatricks.qld.edu.au
+[Theo Gillott] - 6688 - 30 - 30GILLOth@stpatricks.qld.edu.au
+[Thomas Vaughan] - 6689 - 30 - 30VAUGHth@stpatricks.qld.edu.au
+[Jack Compton] - 6690 - 30 - 30COMPTja@stpatricks.qld.edu.au
+[Jim Westell] - 6691 - 30 - 30WESTEji@stpatricks.qld.edu.au
+[Noah Shilvock] - 6692 - 30 - 30SHILVno@stpatricks.qld.edu.au
+[Elliott Gallagher] - 6693 - 30 - 30GALLAel@stpatricks.qld.edu.au
+[Josh Straton] - 6694 - 30 - 30STRATjo@stpatricks.qld.edu.au
+[Noah Landsberg] - 6695 - 30 - 30LANDSno@stpatricks.qld.edu.au
+[Scott Inglis] - 6696 - 30 - 30INGLIsc@stpatricks.qld.edu.au
+[Oska Littlewood] - 6697 - 30 - 30LITTLos@stpatricks.qld.edu.au
+[Archer Ryall] - 6698 - 30 - 30RYALLar@stpatricks.qld.edu.au
+[Fynn Stewart] - 6699 - 30 - 30STEWAfy@stpatricks.qld.edu.au
+[Nicholas Robb] - 6700 - 30 - 30ROBBni@stpatricks.qld.edu.au
+[Luca Meehan] - 6701 - 30 - 30MEEHAlu@stpatricks.qld.edu.au
+[Mason Reed] - 6702 - 30 - 30REEDma@stpatricks.qld.edu.au
+[Jonty Coetzee] - 6703 - 30 - 30COETZjo@stpatricks.qld.edu.au
+[Lincoln Clark] - 6704 - 30 - 30CLARKli@stpatricks.qld.edu.au
+[Samuel Cavanagh] - 6705 - 30 - 30CAVANsa@stpatricks.qld.edu.au
+[James Cavanagh] - 6706 - 30 - 30CAVANja@stpatricks.qld.edu.au
+[Noah Le Marsney] - 6707 - 30 - 30LEMARno@stpatricks.qld.edu.au
+[Rex Smith] - 6708 - 30 - 30SMITHre@stpatricks.qld.edu.au
+[Mossi Smith] - 6709 - 29 - 29SMITHmo@stpatricks.qld.edu.au
+[Ben Philp] - 6710 - 30 - 30PHILPbe@stpatricks.qld.edu.au
+[Riley Alexander] - 6711 - 30 - 30ALEXAri@stpatricks.qld.edu.au
+[Harry Mayoh] - 6712 - 30 - 30MAYOHha@stpatricks.qld.edu.au
+[Mason Duncan] - 6713 - 30 - 30DUNCAma@stpatricks.qld.edu.au
+[Benji Scott] - 6714 - 30 - 30SCOTTbe@stpatricks.qld.edu.au
+[Joshua Macann] - 6715 - 30 - 30MACANjo@stpatricks.qld.edu.au
+[Patrick O'Dea] - 6716 - 30 - 30ODEApa@stpatricks.qld.edu.au
+[Jack McGuinness] - 6717 - 30 - 30MCGUIja@stpatricks.qld.edu.au
+[Sebastian Robertson] - 6718 - 30 - 30ROBERse@stpatricks.qld.edu.au
+[Owen Atkinson] - 6719 - 30 - 30ATKINow@stpatricks.qld.edu.au
+[Aarav Chawla] - 6720 - 30 - 30CHAWLaa@stpatricks.qld.edu.au
+[Luca Bizjak] - 6721 - 30 - 30BIZJAlu@stpatricks.qld.edu.au
+[Lincoln Chan] - 6722 - 30 - 30CHANli@stpatricks.qld.edu.au
+[Angus Murray] - 6723 - 30 - 30MURRAan@stpatricks.qld.edu.au
+[Hayden Oxley] - 6724 - 30 - 30OXLEYha@stpatricks.qld.edu.au
+[Jude Ainsworth] - 6725 - 30 - 30AINSWju@stpatricks.qld.edu.au
+[Thomas Dearling] - 6726 - 30 - 30DEARLth@stpatricks.qld.edu.au
+[Oliver Black] - 6727 - 30 - 30BLACKol@stpatricks.qld.edu.au
+[Archer Harris] - 6728 - 30 - 30HARRIar@stpatricks.qld.edu.au
+[Cooper Cox] - 6729 - 30 - 30COXco@stpatricks.qld.edu.au
+[Liam Mancini] - 6730 - 30 - 30MANCIli@stpatricks.qld.edu.au
+[Henry Fastlabend] - 6731 - 30 - 30FASTLhe@stpatricks.qld.edu.au
+[Logan Jurkiewicz] - 6732 - 30 - 30JURKIlo@stpatricks.qld.edu.au
+[Ben Ingram] - 6733 - 30 - 30INGRAbe@stpatricks.qld.edu.au
+[Hudson Ramsay] - 6734 - 30 - 30RAMSAhu@stpatricks.qld.edu.au
+[Kali Harris] - 6735 - 30 - 30HARRIka@stpatricks.qld.edu.au
+[Harrison Hendle] - 6736 - 30 - 30HENDLha@stpatricks.qld.edu.au
+[Lochlan Blake] - 6737 - 30 - 30BLAKElo@stpatricks.qld.edu.au
+[Adam Romkes] - 6738 - 30 - 30ROMKEad@stpatricks.qld.edu.au
+[Harrison Cornish] - 6739 - 30 - 30CORNIha@stpatricks.qld.edu.au
+[Cohen Andersen] - 6740 - 30 - 30ANDERco@stpatricks.qld.edu.au
+[Harvey Saunders] - 6741 - 30 - 30SAUNDha@stpatricks.qld.edu.au
+[Chayse Thomas] - 6742 - 30 - 30THOMAch@stpatricks.qld.edu.au
+[Declan Stafford] - 6743 - 30 - 30STAFFde@stpatricks.qld.edu.au
+[Axel Allen-Baker] - 6744 - 30 - 30ALLENax@stpatricks.qld.edu.au
+[Hudson Jack] - 6745 - 30 - 30JACKhu@stpatricks.qld.edu.au
+[Sebastian Bally] - 6746 - 30 - 30BALLYse@stpatricks.qld.edu.au
+[Xavier Olsen] - 6747 - 29 - 29OLSENxa@stpatricks.qld.edu.au
+[Tanvir Kalia] - 6748 - 30 - 30KALIAta@stpatricks.qld.edu.au
+[Liam van Bart] - 6749 - 30 - 30VANBAli@stpatricks.qld.edu.au
+[Mika Cvetko-Lueger] - 6750 - 28 - 28CVETKmi@stpatricks.qld.edu.au
+[Aaron Walsh] - 6751 - 30 - 30WALSHaa@stpatricks.qld.edu.au
+[Aston Young] - 6752 - 30 - 30YOUNGas@stpatricks.qld.edu.au
+[Christian O'Dempsey] - 6753 - 28 - 28ODEMPch@stpatricks.qld.edu.au
+[Tau Tamaariki] - 6754 - 28 - 28TAMAAta@stpatricks.qld.edu.au
+[Ekampreet Dhaliwal] - 6755 - 28 - 28DHALIek@stpatricks.qld.edu.au
+[Finbar Newton] - 6756 - 30 - 30NEWTOfi@stpatricks.qld.edu.au
+[Dylan Miller] - 6757 - 29 - 29MULDOdy@stpatricks.qld.edu.au
+[Jordan Welling] - 6758 - 28 - 28WELLIjo@stpatricks.qld.edu.au
+[Gurtaj Sandhu] - 6759 - 28 - 28SANDHgu@stpatricks.qld.edu.au
+[Junsei Martin] - 6760 - 30 - 30MARTIju@stpatricks.qld.edu.au
+[James Masson] - 6761 - 27 - 27MASSOja@stpatricks.qld.edu.au
+[Nicholas Di Tullio] - 6762 - 30 - 30DITULni@stpatricks.qld.edu.au
+[Jake Reid] - 6763 - 28 - 28REIDja@stpatricks.qld.edu.au
+[Zaki Maddock] - 6764 - 28 - 28MADDOza@stpatricks.qld.edu.au
+[Darcy Coleman] - 6766 - 28 - 28COLEMda@stpatricks.qld.edu.au
+[Xavier Loli] - 6767 - 27 - 27LOLIxa@stpatricks.qld.edu.au
+[Max Kilkelly] - 6768 - 28 - 28KILKEma@stpatricks.qld.edu.au
+[Alex Petrellis] - 6769 - 26 - 26PETREal@stpatricks.qld.edu.au
+[Josh Petrellis] - 6770 - 27 - 27PETREjo@stpatricks.qld.edu.au
+[Jack Woolf] - 6771 - 26 - 26WOOLFja@stpatricks.qld.edu.au
+[Cooper Coca] - 7058 - 27 - 27COCAco@stpatricks.qld.edu.au
+[Flynn Light] - 7062 - 27 - 27LIGHTfl@stpatricks.qld.edu.au
+[Oliver Gribble] - 7064 - 29 - 29GRIBBol@stpatricks.qld.edu.au
+[Matthew Campbell] - 7081 - 26 - 26CAMPBma@stpatricks.qld.edu.au
+[Maddox Brown] - 7095 - 30 - 30BROWNma@stpatricks.qld.edu.au
+[Maror Muorter] - 7119 - 26 - 26MUORTma@stpatricks.qld.edu.au
+[Ashley Valenton] - 7133 - 26 - 26VALENas@stpatricks.qld.edu.au
+[Max McCarthy] - 7135 - 27 - 27MCCARma@stpatricks.qld.edu.au
+[Alexander Churchill] - 7148 - 30 - 30CHURCal@stpatricks.qld.edu.au
+[Harrison Murphy] - 7149 - 27 - 27MURPHha@stpatricks.qld.edu.au
+[Callum Mitchell] - 7153 - 28 - 28MITCHca@stpatricks.qld.edu.au
+[Austin Bird] - 7164 - 28 - 28BIRDau@stpatricks.qld.edu.au
+[Andy Rio] - 7167 - 28 - 28RIOan@stpatricks.qld.edu.au
+[Student SPC] - 7174 - 28 - 28SPCst@stpatricks.qld.edu.au
+[Patrick Taylor] - 7201 - 30 - 30TAYLOpa@stpatricks.qld.edu.au
+[Oscar Powell] - 7209 - 30 - 30POWELos@stpatricks.qld.edu.au
+[Gautam Bhalla] - 7212 - 29 - 29BHALLga@stpatricks.qld.edu.au
+[Goldit Mabor] - 7213 - 28 - 28MABORgo@stpatricks.qld.edu.au
+[Dani Akkad] - 7215 - 27 - 27AKKADda@stpatricks.qld.edu.au
+[Samuel Poole] - 7218 - 27 - 27POOLEsa@stpatricks.qld.edu.au
+[Jacob Makuel] - 7497 - 29 - 29MAKUEja@stpatricks.qld.edu.au
+[Levi Singer] - 7498 - 31 - 31SINGEle@stpatricks.qld.edu.au
+[Oliver Henry] - 7499 - 31 - 31HENRYol@stpatricks.qld.edu.au
+[Brock Catling] - 7500 - 31 - 31CATLIbr@stpatricks.qld.edu.au
+[William Hewitt] - 7501 - 31 - 31HEWITwi@stpatricks.qld.edu.au
+[Majith Shan] - 7502 - 29 - 29SHANma@stpatricks.qld.edu.au
+[Levi Cooper] - 7503 - 31 - 31COOPEle@stpatricks.qld.edu.au
+[Hayden Cook] - 7504 - 31 - 31COOKha@stpatricks.qld.edu.au
+[Emmett Volter] - 7505 - 31 - 31VOLTEem@stpatricks.qld.edu.au
+[Liam Tiru] - 7506 - 31 - 31TIRUli@stpatricks.qld.edu.au
+[Sidney Huxtable] - 7507 - 31 - 31HUXTAsi@stpatricks.qld.edu.au
+[James Searle] - 7508 - 31 - 31SEARLja@stpatricks.qld.edu.au
+[Harvey Bell] - 7509 - 31 - 31BELLha@stpatricks.qld.edu.au
+[George Thomas] - 7510 - 29 - 29THOMAge@stpatricks.qld.edu.au
+[Liam Hodkinson] - 7511 - 29 - 29HODKIli@stpatricks.qld.edu.au
+[Archie Faulkner] - 7512 - 31 - 31FAULKar@stpatricks.qld.edu.au
+[Cameron Price] - 7513 - 29 - 29PRICEca@stpatricks.qld.edu.au
+[Jye Evans] - 7514 - 29 - 29EVANSjy@stpatricks.qld.edu.au
+[Lachlan Riedel] - 7515 - 31 - 31RIEDEla@stpatricks.qld.edu.au
+[Sonny Duff] - 7516 - 31 - 31DUFFso@stpatricks.qld.edu.au
+[Finley Smith] - 7517 - 29 - 29SMITHfi@stpatricks.qld.edu.au
+[Cooper Lenz] - 7518 - 29 - 29LENZco@stpatricks.qld.edu.au
+[Alexander Coutts] - 7519 - 31 - 31COUTTal@stpatricks.qld.edu.au
+[Jack Millar] - 7520 - 31 - 31MILLAja@stpatricks.qld.edu.au
+[Kristian Inch] - 7521 - 31 - 31INCHkr@stpatricks.qld.edu.au
+[Samuel Kilroy] - 7522 - 31 - 31KILROsa@stpatricks.qld.edu.au
+[Lucas Clarke] - 7523 - 31 - 31CLARKlu@stpatricks.qld.edu.au
+[Bisajpreet Singh] - 7524 - 31 - 31SINGHbi@stpatricks.qld.edu.au
+[Fraser Stanley] - 7525 - 29 - 29STANLfr@stpatricks.qld.edu.au
+[Jaxson White] - 7526 - 29 - 29WHITEjax@stpatricks.qld.edu.au
+[Ned Connolly] - 7527 - 31 - 31CONNOne@stpatricks.qld.edu.au
+[Oscar Giezen] - 7528 - 31 - 31GIEZEos@stpatricks.qld.edu.au
+[Julian Cruice] - 7529 - 31 - 31CRUICju@stpatricks.qld.edu.au
+[Tareq Walker] - 7530 - 31 - 31WALKEta@stpatricks.qld.edu.au
+[Cory Bugler] - 7531 - 31 - 31BUGLEco@stpatricks.qld.edu.au
+[Cohen Menyweather] - 7532 - 31 - 31MENYWco@stpatricks.qld.edu.au
+[Flinders Petersen] - 7533 - 31 - 31PETERfl@stpatricks.qld.edu.au
+[Xavier Geary] - 7534 - 29 - 29GEARYxa@stpatricks.qld.edu.au
+[Cameron Menzies] - 7535 - 29 - 29MENZIca@stpatricks.qld.edu.au
+[Oliver Wickett] - 7536 - 31 - 31WICKEol@stpatricks.qld.edu.au
+[Oliver Lindner] - 7537 - 31 - 31LINDNol@stpatricks.qld.edu.au
+[Oliver Bazeos] - 7538 - 31 - 31BAZEOol@stpatricks.qld.edu.au
+[Callum Chapman] - 7539 - 29 - 29CHAPMca@stpatricks.qld.edu.au
+[Adam Frojda] - 7540 - 29 - 29FROJDad@stpatricks.qld.edu.au
+[Levi McKinley] - 7541 - 31 - 31MCKINle@stpatricks.qld.edu.au
+[Fraser Tsingos] - 7542 - 31 - 31TSINGfr@stpatricks.qld.edu.au
+[Gus Donnelly] - 7543 - 31 - 31DONNEgu@stpatricks.qld.edu.au
+[George Mann] - 7544 - 31 - 31MANNge@stpatricks.qld.edu.au
+[Jivraj Sandhu] - 7545 - 29 - 29SANDHji@stpatricks.qld.edu.au
+[Oliver Lawson] - 7546 - 29 - 29LAWSOol@stpatricks.qld.edu.au
+[Mason McKinnon] - 7547 - 31 - 31MCKINma@stpatricks.qld.edu.au
+[Benjamin Punter] - 7548 - 31 - 31PUNTEbe@stpatricks.qld.edu.au
+[Ashton Cooper] - 7549 - 31 - 31COOPEas@stpatricks.qld.edu.au
+[Mohit Sheenmar] - 7550 - 28 - 28SHEENmo@stpatricks.qld.edu.au
+[Glenn Hanson] - 7551 - 29 - 29HANSOgl@stpatricks.qld.edu.au
+[Jai Hanson] - 7552 - 29 - 29HANSOja@stpatricks.qld.edu.au
+[Gaivy Klair] - 7553 - 29 - 29KLAIRga@stpatricks.qld.edu.au
+[Jayden Wong] - 7554 - 31 - 31WONGja@stpatricks.qld.edu.au
+[Corbin McKean] - 7555 - 31 - 31MCKEAco@stpatricks.qld.edu.au
+[Jackson Kemp] - 7556 - 29 - 29KEMPja@stpatricks.qld.edu.au
+[Knox Harridge] - 7557 - 31 - 31HARRIkn@stpatricks.qld.edu.au
+[Flynn Drake] - 7558 - 29 - 29DRAKEfl@stpatricks.qld.edu.au
+[Martin Priddey Delfino] - 7559 - 31 - 31PRIDDma@stpatricks.qld.edu.au
+[Eli Clancy] - 7560 - 29 - 29CLANCel@stpatricks.qld.edu.au
+[Elgin Sijokallungal] - 7561 - 31 - 31SIJOKel@stpatricks.qld.edu.au
+[Mason Crawford] - 7562 - 29 - 29CRAWFma@stpatricks.qld.edu.au
+[Rowan Thapa] - 7563 - 29 - 29THAPAro@stpatricks.qld.edu.au
+[Nathan Mangilit] - 7564 - 29 - 29MANGIna@stpatricks.qld.edu.au
+[Preet Sidhu] - 7565 - 29 - 29SIDHUpr@stpatricks.qld.edu.au
+[Zach Balnaves] - 7566 - 29 - 29BALNAza@stpatricks.qld.edu.au
+[Lachie Norton] - 7567 - 29 - 29NORTOla@stpatricks.qld.edu.au
+[Harry McGregor] - 7568 - 29 - 29MCGREha@stpatricks.qld.edu.au
+[Tomas Cortes Duran] - 7569 - 29 - 29CORTEto@stpatricks.qld.edu.au
+[Matthew Pershouse] - 7570 - 29 - 29PERSHma@stpatricks.qld.edu.au
+[Abhijot Kingra] - 7571 - 29 - 29KINGRab@stpatricks.qld.edu.au
+[James Spriggens] - 7572 - 29 - 29SPRIGja@stpatricks.qld.edu.au
+[Samyam Karki] - 7573 - 29 - 29KARKIsa@stpatricks.qld.edu.au
+[Tom Lawler] - 7574 - 29 - 29LAWLEto@stpatricks.qld.edu.au
+[Frankie Worland] - 7575 - 29 - 29WORLAfr@stpatricks.qld.edu.au
+[Archie Denning] - 7576 - 29 - 29DENNIar@stpatricks.qld.edu.au
+[Byron Heberley] - 7577 - 29 - 29HEBERby@stpatricks.qld.edu.au
+[Dempsey Anstiss] - 7578 - 29 - 29ANSTIde@stpatricks.qld.edu.au
+[Samuel O'Dempsey] - 7579 - 29 - 29ODEMPsa@stpatricks.qld.edu.au
+[Noah Temple] - 7580 - 29 - 29TEMPLno@stpatricks.qld.edu.au
+[Riley Ditchburn] - 7581 - 31 - 31DITCHri@stpatricks.qld.edu.au
+[Harry Zerafa] - 7582 - 31 - 31ZERAFha@stpatricks.qld.edu.au
+[Liam Clues] - 7583 - 31 - 31CLUESli@stpatricks.qld.edu.au
+[Jack Buckland] - 7584 - 31 - 31BUCKLja@stpatricks.qld.edu.au
+[Zaid Riley] - 7585 - 31 - 31RILEYza@stpatricks.qld.edu.au
+[Koby Strydom] - 7586 - 31 - 31STRYDko@stpatricks.qld.edu.au
+[Angus Harris] - 7587 - 29 - 29HARRIan@stpatricks.qld.edu.au
+[Ashwyn Gamage] - 7588 - 29 - 29GAMAGas@stpatricks.qld.edu.au
+[Harrison Smallbon] - 7589 - 31 - 31SMALLha@stpatricks.qld.edu.au
+[Jack Love] - 7590 - 31 - 31LOVEja@stpatricks.qld.edu.au
+[Jude Cosgrove] - 7591 - 31 - 31COSGRju@stpatricks.qld.edu.au
+[Walter Hillier] - 7592 - 31 - 31HILLIwa@stpatricks.qld.edu.au
+[Archie Jones] - 7593 - 31 - 31JONESar@stpatricks.qld.edu.au
+[Lewis Herrod] - 7594 - 31 - 31HERROle@stpatricks.qld.edu.au
+[Hunter Gray] - 7595 - 31 - 31GRAYhu@stpatricks.qld.edu.au
+[LeBron Foondun] - 7596 - 31 - 31FOONDle@stpatricks.qld.edu.au
+[Thomas Graham] - 7597 - 31 - 31GRAHAth@stpatricks.qld.edu.au
+[Benjamin Freestone] - 7598 - 31 - 31FREESbe@stpatricks.qld.edu.au
+[Ryker Green] - 7599 - 31 - 31GREENry@stpatricks.qld.edu.au
+[Harrison Lowther] - 7600 - 31 - 31LOWTHha@stpatricks.qld.edu.au
+[Oliver Hamilton] - 7601 - 31 - 31HAMILol@stpatricks.qld.edu.au
+[Thorin Muldal] - 7602 - 31 - 31MULDAth@stpatricks.qld.edu.au
+[Theo Machado-Smith] - 7603 - 31 - 31MACHAth@stpatricks.qld.edu.au
+[Noah Coutinho] - 7604 - 31 - 31COUTIno@stpatricks.qld.edu.au
+[Xavier Whittam] - 7605 - 31 - 31WHITTxa@stpatricks.qld.edu.au
+[Lachlan Dancer] - 7606 - 31 - 31DANCEla@stpatricks.qld.edu.au
+[Bailey Brandon] - 7607 - 31 - 31BRANDba@stpatricks.qld.edu.au
+[Oakley Gordon-Smith] - 7608 - 31 - 31GORDOoa@stpatricks.qld.edu.au
+[Cooper Williams] - 7609 - 31 - 31WILLIco@stpatricks.qld.edu.au
+[Ethan Nicholls] - 7610 - 31 - 31NICHOet@stpatricks.qld.edu.au
+[Lachlan Bartlett] - 7611 - 31 - 31BARTLla@stpatricks.qld.edu.au
+[Thomas Smith] - 7612 - 31 - 31SMITHth@stpatricks.qld.edu.au
+[Charles Hedges] - 7613 - 31 - 31HEDGEch@stpatricks.qld.edu.au
+[Carter Masson] - 7614 - 31 - 31MASSOca@stpatricks.qld.edu.au
+[Lucas Barnard] - 7615 - 31 - 31BARNAlu@stpatricks.qld.edu.au
+[Baines McCallum] - 7616 - 31 - 31MCCALba@stpatricks.qld.edu.au
+[James Batty] - 7617 - 31 - 31BATTYja@stpatricks.qld.edu.au
+[Henry Pollock] - 7618 - 31 - 31POLLOhe@stpatricks.qld.edu.au
+[Liam Treacy] - 7619 - 31 - 31TREACli@stpatricks.qld.edu.au
+[Nathan Foat] - 7620 - 31 - 31FOATna@stpatricks.qld.edu.au
+[Lincoln Seitz] - 7621 - 31 - 31SEITZli@stpatricks.qld.edu.au
+[Theodore Nugent] - 7622 - 31 - 31NUGENth@stpatricks.qld.edu.au
+[Benjamin Clark] - 7623 - 31 - 31CLARKbe@stpatricks.qld.edu.au
+[Bayley Anderson] - 7624 - 31 - 31ANDERba@stpatricks.qld.edu.au
+[Charlie Andrews] - 7625 - 31 - 31ANDREch@stpatricks.qld.edu.au
+[Jet Harradine] - 7626 - 31 - 31HARRAje@stpatricks.qld.edu.au
+[Eli Harradine] - 7627 - 31 - 31HARRAel@stpatricks.qld.edu.au
+[Brennan Campbell] - 7628 - 31 - 31CAMPBbr@stpatricks.qld.edu.au
+[Jack Stowe] - 7629 - 31 - 31STOWEja@stpatricks.qld.edu.au
+[Finlay O'Connor] - 7630 - 31 - 31OCONNfi@stpatricks.qld.edu.au
+[Archer Hall] - 7631 - 31 - 31HALLar@stpatricks.qld.edu.au
+[Oliver Cargill] - 7632 - 31 - 31CARGIol@stpatricks.qld.edu.au
+[Harrison Munce] - 7633 - 31 - 31MUNCEha@stpatricks.qld.edu.au
+[Ashton Farley] - 7634 - 31 - 31FARLEas@stpatricks.qld.edu.au
+[Harrison Dellit] - 7635 - 31 - 31DELLIha@stpatricks.qld.edu.au
+[Brandon Ryan] - 7636 - 31 - 31RYANbr@stpatricks.qld.edu.au
+[Jayden Devine] - 7637 - 31 - 31DEVINja@stpatricks.qld.edu.au
+[Joseph Gavel] - 7638 - 31 - 31GAVELjo@stpatricks.qld.edu.au
+[Louis Tucker] - 7639 - 31 - 31TUCKElo@stpatricks.qld.edu.au
+[Max Jarrott] - 7640 - 31 - 31JARROma@stpatricks.qld.edu.au
+[Jai Fisher] - 7641 - 31 - 31FISHEja@stpatricks.qld.edu.au
+[Sebastian Ebner] - 7642 - 31 - 31EBNERse@stpatricks.qld.edu.au
+[Louie Rowe] - 7643 - 31 - 31ROWElo@stpatricks.qld.edu.au
+[Owen Russo] - 7644 - 31 - 31RUSSOow@stpatricks.qld.edu.au
+[Charlie Wilkins] - 7645 - 31 - 31WILKIch@stpatricks.qld.edu.au
+[Andrew Durston] - 7646 - 31 - 31DURSTan@stpatricks.qld.edu.au
+[Liam Waddell] - 7647 - 31 - 31WADDEli@stpatricks.qld.edu.au
+[Joshua Loveday-Lowe] - 7648 - 31 - 31LOVEDjo@stpatricks.qld.edu.au
+[Cody Kelly Grice] - 7649 - 31 - 31KELLYco@stpatricks.qld.edu.au
+[Kieran Latham] - 7650 - 31 - 31LATHAki@stpatricks.qld.edu.au
+[Max Copeman] - 7651 - 31 - 31COPEMma@stpatricks.qld.edu.au
+[Dexter Gray] - 7652 - 31 - 31GRAYde@stpatricks.qld.edu.au
+[Oscar Francis] - 7653 - 31 - 31FRANCos@stpatricks.qld.edu.au
+[Boston Silver] - 7654 - 31 - 31SILVEbo@stpatricks.qld.edu.au
+[Hugh Townsend] - 7655 - 31 - 31TOWNShu@stpatricks.qld.edu.au
+[Charlie Dwyer] - 7656 - 29 - 29DWYERch@stpatricks.qld.edu.au
+[Brody Coleman] - 7657 - 31 - 31COLEMbr@stpatricks.qld.edu.au
+[Nico Berman] - 7658 - 29 - 29BERMAni@stpatricks.qld.edu.au
+[Aarush Paudel] - 7659 - 31 - 31PAUDEaa@stpatricks.qld.edu.au
+[Max Millar] - 7660 - 31 - 31MILLAma@stpatricks.qld.edu.au
+[Charlie Norris] - 7661 - 31 - 31NORRIch@stpatricks.qld.edu.au
+[Jack Stokes] - 7662 - 31 - 31STOKEja@stpatricks.qld.edu.au
+[Will Davidson] - 7663 - 30 - 30DAVIDwi@stpatricks.qld.edu.au
+[Tobias Overell] - 7664 - 29 - 29OVEREto@stpatricks.qld.edu.au
+[Conor Finnerty] - 7665 - 31 - 31FINNEco@stpatricks.qld.edu.au
+[Harrison Walls] - 7666 - 31 - 31WALLSha@stpatricks.qld.edu.au
+[Oscar Johnson] - 7667 - 31 - 31JOHNSos@stpatricks.qld.edu.au
+[Oliver Johnson] - 7668 - 31 - 31JOHNSol@stpatricks.qld.edu.au
+[Jim Mitchell] - 7669 - 30 - 30MITCHji@stpatricks.qld.edu.au
+[Finley Kuys] - 7670 - 31 - 31KUYSfi@stpatricks.qld.edu.au
+[James Wilson] - 7671 - 29 - 29WILSOjam@stpatricks.qld.edu.au
+[Kye Bowmaker] - 7672 - 27 - 27BOWMAky@stpatricks.qld.edu.au
+[James Morris] - 7673 - 30 - 30MORRIja@stpatricks.qld.edu.au
+[Adam Edwards] - 7674 - 30 - 30EDWARad@stpatricks.qld.edu.au
+[Thomas Tauzowski] - 7675 - 31 - 31TAUZOth@stpatricks.qld.edu.au
+[Jagger Evans] - 7676 - 31 - 31EVANSja@stpatricks.qld.edu.au
+[Ashton Young] - 7677 - 29 - 29YOUNGas@stpatricks.qld.edu.au
+[Patrick Young] - 7678 - 31 - 31YOUNGpa@stpatricks.qld.edu.au
+[Ethan Baird] - 7679 - 29 - 29BAIRDet@stpatricks.qld.edu.au
+[Kristian Amato] - 7680 - 29 - 29AMATOkr@stpatricks.qld.edu.au
+[Jack Amato] - 7681 - 31 - 31AMATOja@stpatricks.qld.edu.au
+[Flynn Chandler] - 7682 - 29 - 29CHANDfl@stpatricks.qld.edu.au
+[Harry Chandler] - 7683 - 28 - 28CHANDha@stpatricks.qld.edu.au
+[Brady Williams] - 7684 - 29 - 29WILLIbr@stpatricks.qld.edu.au
+[Spencer Sandys] - 7685 - 27 - 27SANDYsp@stpatricks.qld.edu.au
+[Dustin Henderson] - 7686 - 29 - 29HENDEdu@stpatricks.qld.edu.au
+[Ari Henderson] - 7687 - 30 - 30HENDEar@stpatricks.qld.edu.au
+[Riley McShane] - 7688 - 31 - 31MCSHAri@stpatricks.qld.edu.au
+[Benjamin Ball] - 7689 - 28 - 28BALLbe@stpatricks.qld.edu.au
+[Bailey Graham] - 7690 - 29 - 29GRAHAba@stpatricks.qld.edu.au
+[Elijah Lucas] - 7691 - 31 - 31LUCASel@stpatricks.qld.edu.au
+[Harvey Lucas] - 7699 - 30 - 30LUCASha@stpatricks.qld.edu.au
+[Travis O'Connor] - 7737 - 29 - 29OCONNtr@stpatricks.qld.edu.au
+[Lachlan O'Grady] - 7738 - 29 - 29OGRADla@stpatricks.qld.edu.au
+[Gantin Taulani] - 7741 - 29 - 29TAULAga@stpatricks.qld.edu.au
+[Petar Ratkovic] - 7767 - 28 - 28RATKOpe@stpatricks.qld.edu.au
+[Shida Fadeyibi] - 7781 - 26 - 26FADEYsh@stpatricks.qld.edu.au
+[Jaxton Warren] - 7789 - 30 - 30WARREja@stpatricks.qld.edu.au
+[Sam Longmire] - 7794 - 30 - 30LONGMsa@stpatricks.qld.edu.au
+[Harry Stilianos] - 7807 - 28 - 28STILIha@stpatricks.qld.edu.au
+[Jesse Harbourne] - 7808 - 27 - 27HARBOje@stpatricks.qld.edu.au
+[Ellis Lawson] - 7809 - 26 - 26LAWSOel@stpatricks.qld.edu.au
+[Jordan Vujevich] - 7816 - 27 - 27VUJEVjo@stpatricks.qld.edu.au
+[Melarn Vujevich-Rapie] - 7817 - 31 - 31VUJEVme@stpatricks.qld.edu.au
+[Bentley Green] - 7834 - 28 - 28greenbe@stpatricks.qld.edu.au
+[Isaac McLoughlin] - 7835 - 30 - 30mclouis@stpatricks.qld.edu.au
+[Ryley Leather] - 7859 - 30 - 30leathry@stpatricks.qld.edu.au
+[Tommy McMahon] - 7860 - 30 - 30mcmahth@stpatricks.qld.edu.au
+[Tyson Estella] - 7861 - 30 - 30estelty@stpatricks.qld.edu.au
+[Benjamin Krushka] - 8159 - 32 - 32krushbe@stpatricks.qld.edu.au
+[Isaac Hazelman] - 8160 - 30 - 30hazelis@stpatricks.qld.edu.au
+[Matthew Silver-Thomas] - 8161 - 32 - 32silvema@stpatricks.qld.edu.au
+[Billy Tot] - 8162 - 30 - 30totbi@stpatricks.qld.edu.au
+[Flint Grainger] - 8163 - 32 - 32grainfl@stpatricks.qld.edu.au
+[Samson Prlja] - 8164 - 32 - 32prljasa@stpatricks.qld.edu.au
+[Marcus Webb] - 8165 - 30 - 30webbma@stpatricks.qld.edu.au
+[George Mamin] - 8166 - 32 - 32maminge@stpatricks.qld.edu.au
+[Riley Gribben] - 8167 - 30 - 30gribbri@stpatricks.qld.edu.au
+[Andrew Henderson-Scott] - 8168 - 30 - 30hendean@stpatricks.qld.edu.au
+[Dylan Lacey] - 8169 - 32 - 32laceydy@stpatricks.qld.edu.au
+[Alexander Walker] - 8170 - 32 - 32walkeal@stpatricks.qld.edu.au
+[Benjamin Davie] - 8171 - 32 - 32daviebe@stpatricks.qld.edu.au
+[Ethan Meunier] - 8172 - 32 - 32meuniet@stpatricks.qld.edu.au
+[Patrick Smith] - 8173 - 32 - 32smithpa@stpatricks.qld.edu.au
+[Owen Vanderkley] - 8174 - 30 - 30vandeow@stpatricks.qld.edu.au
+[Jake Duffy] - 8175 - 32 - 32duffyja@stpatricks.qld.edu.au
+[Frederick Long] - 8176 - 32 - 32longfr@stpatricks.qld.edu.au
+[Theodore Martinez] - 8177 - 32 - 32martith@stpatricks.qld.edu.au
+[Jacob Bow] - 8178 - 32 - 32bowja@stpatricks.qld.edu.au
+[Nicholas Martin] - 8179 - 32 - 32martini@stpatricks.qld.edu.au
+[Harry Cooper] - 8180 - 32 - 32coopeha@stpatricks.qld.edu.au
+[Jaxon Handcock] - 8181 - 32 - 32handcja@stpatricks.qld.edu.au
+[Tawona Midzi] - 8182 - 30 - 30midzita@stpatricks.qld.edu.au
+[Matthew Whiting] - 8183 - 32 - 32whitima@stpatricks.qld.edu.au
+[Ben Chapman] - 8184 - 32 - 32chapmbe@stpatricks.qld.edu.au
+[Jesse Sallmann] - 8185 - 32 - 32sallmje@stpatricks.qld.edu.au
+[Harrison Leslie] - 8186 - 32 - 32lesliha@stpatricks.qld.edu.au
+[Julian Anthony] - 8187 - 32 - 32anthoju@stpatricks.qld.edu.au
+[Carter Chaffey] - 8188 - 32 - 32chaffca@stpatricks.qld.edu.au
+[Luka Baker] - 8189 - 32 - 32bakerlu@stpatricks.qld.edu.au
+[Aaron Watkins] - 8190 - 29 - 29watkiaa@stpatricks.qld.edu.au
+[Arnold Wheeler] - 8191 - 32 - 32wheelar@stpatricks.qld.edu.au
+[Silas Jose] - 8192 - 30 - 30josesi@stpatricks.qld.edu.au
+[Ash Brooks] - 8193 - 28 - 28brookas@stpatricks.qld.edu.au
+[Hudson Gallagher] - 8194 - 32 - 32gallahu@stpatricks.qld.edu.au
+[Oliver Wolff] - 8195 - 30 - 30wolffol@stpatricks.qld.edu.au
+[Matthew Drew] - 8196 - 30 - 30drewma@stpatricks.qld.edu.au
+[Liam Lipman] - 8197 - 30 - 30lipmali@stpatricks.qld.edu.au
+[Ethan Lipman] - 8198 - 32 - 32lipmaet@stpatricks.qld.edu.au
+[Jasson Brooks] - 8199 - 30 - 30brookja@stpatricks.qld.edu.au
+[Dean Brooks] - 8200 - 32 - 32brookde@stpatricks.qld.edu.au
+[Luke McGuinness] - 8201 - 32 - 32mcguilu@stpatricks.qld.edu.au
+[Jack Whitbourne] - 8202 - 30 - 30whitbja@stpatricks.qld.edu.au
+[William Oxley] - 8203 - 32 - 32oxleywi@stpatricks.qld.edu.au
+[Tom Craig] - 8204 - 30 - 30craigto@stpatricks.qld.edu.au
+[Elliott Fastlabend] - 8205 - 32 - 32fastlel@stpatricks.qld.edu.au
+[Eddie Meredith] - 8206 - 30 - 30mereded@stpatricks.qld.edu.au
+[George Meredith] - 8207 - 32 - 32meredge@stpatricks.qld.edu.au
+[Harry Ingram] - 8208 - 32 - 32ingraha@stpatricks.qld.edu.au
+[Lennox Andersen] - 8209 - 32 - 32anderle@stpatricks.qld.edu.au
+[Austin Allen-Baker] - 8210 - 32 - 32allenau@stpatricks.qld.edu.au
+[William Cannan] - 8211 - 30 - 30cannawi@stpatricks.qld.edu.au
+[Mason Heberley] - 8212 - 32 - 32heberma@stpatricks.qld.edu.au
+[Thomas Lee] - 8213 - 29 - 29leeth@stpatricks.qld.edu.au
+[Jaygo Hall] - 8214 - 30 - 30hallja@stpatricks.qld.edu.au
+[Malakai Tamaariki] - 8215 - 30 - 30tamaama@stpatricks.qld.edu.au
+[Cormac Newton] - 8216 - 32 - 32newtoco@stpatricks.qld.edu.au
+[Dallas Strydom] - 8217 - 32 - 32strydda@stpatricks.qld.edu.au
+[Joel Coutinho] - 8218 - 32 - 32coutijo@stpatricks.qld.edu.au
+[Alex Ross] - 8219 - 31 - 31rossal@stpatricks.qld.edu.au
+[Callen Tynan] - 8220 - 30 - 30tynanca@stpatricks.qld.edu.au
+[Connor Treacy] - 8221 - 32 - 32treacco@stpatricks.qld.edu.au
+[Kousei Martin] - 8222 - 32 - 32martiko@stpatricks.qld.edu.au
+[Henry Carter] - 8223 - 30 - 30cartehe@stpatricks.qld.edu.au
+[Jacob Barber] - 8224 - 30 - 30barbeja@stpatricks.qld.edu.au
+[Joseph Borger] - 8225 - 30 - 30borgejo@stpatricks.qld.edu.au
+[Archer Light] - 8226 - 30 - 30lightar@stpatricks.qld.edu.au
+[Jenson Hunter] - 8227 - 30 - 30hunteje@stpatricks.qld.edu.au
+[Abram Kikhwa] - 8228 - 30 - 30kikhwab@stpatricks.qld.edu.au
+[Kennedy Mateariki] - 8229 - 30 - 30mateake@stpatricks.qld.edu.au
+[Sam Nagy] - 8230 - 30 - 30nagysa@stpatricks.qld.edu.au
+[Angus Ong] - 8231 - 30 - 30ongan@stpatricks.qld.edu.au
+[Flynn Rowlands] - 8232 - 30 - 30rowlafl@stpatricks.qld.edu.au
+[Finlay Wong] - 8233 - 30 - 30wongfi@stpatricks.qld.edu.au
+[Archie Wong] - 8234 - 32 - 32wongar@stpatricks.qld.edu.au
+[Olle Adriansson] - 8235 - 30 - 30adriaol@stpatricks.qld.edu.au
+[Hunter Overell] - 8236 - 32 - 32overehu@stpatricks.qld.edu.au
+[Flynn Charlton] - 8237 - 30 - 30charlfl@stpatricks.qld.edu.au
+[Thomas Lowe] - 8238 - 30 - 30loweth@stpatricks.qld.edu.au
+[Noah Guymer] - 8239 - 30 - 30guymeno@stpatricks.qld.edu.au
+[Miller Crawford-Smith] - 8240 - 30 - 30crawfmi@stpatricks.qld.edu.au
+[Carter Edward] - 8241 - 30 - 30edwarca@stpatricks.qld.edu.au
+[Hunter Turnbull] - 8242 - 30 - 30turnbhu@stpatricks.qld.edu.au
+[Sebastian Green] - 8243 - 30 - 30greense@stpatricks.qld.edu.au
+[Harnoorvir Singh] - 8244 - 30 - 30singhha@stpatricks.qld.edu.au
+[Abhijot Sharma] - 8245 - 30 - 30sharmab@stpatricks.qld.edu.au
+[James McAlister] - 8246 - 30 - 30mcalija@stpatricks.qld.edu.au
+[Patrick Wilson] - 8247 - 30 - 30wilsopa@stpatricks.qld.edu.au
+[Jaydon Hides] - 8248 - 32 - 32hidesja@stpatricks.qld.edu.au
+[James McIntyre] - 8249 - 30 - 30mcintja@stpatricks.qld.edu.au
+[Oliver Ayres] - 8250 - 32 - 32ayresol@stpatricks.qld.edu.au
+[Archie Beutel] - 8251 - 32 - 32beutear@stpatricks.qld.edu.au
+[William Baker] - 8252 - 32 - 32bakerwi@stpatricks.qld.edu.au
+[Samuel Birchall] - 8253 - 32 - 32birchsa@stpatricks.qld.edu.au
+[Jasper Brown] - 8254 - 32 - 32brownja@stpatricks.qld.edu.au
+[Oliver Butterley] - 8255 - 32 - 32butteol@stpatricks.qld.edu.au
+[Benji Campbell] - 8256 - 32 - 32campbbe@stpatricks.qld.edu.au
+[Michael Connell] - 8257 - 32 - 32connemi@stpatricks.qld.edu.au
+[Karstan Davis] - 8258 - 32 - 32daviska@stpatricks.qld.edu.au
+[Harrison Caughey] - 8259 - 32 - 32caughha@stpatricks.qld.edu.au
+[Harrison Garland] - 8260 - 32 - 32garlaha@stpatricks.qld.edu.au
+[James Ebert] - 8261 - 32 - 32ebertja@stpatricks.qld.edu.au
+[Harry Caughey] - 8262 - 32 - 32caughhar@stpatricks.qld.edu.au
+[Kylaan D'Souza] - 8263 - 32 - 32dsouzky@stpatricks.qld.edu.au
+[Lincoln Ellison] - 8264 - 32 - 32ellisli@stpatricks.qld.edu.au
+[Mason Fowlie] - 8265 - 32 - 32fowlima@stpatricks.qld.edu.au
+[Oscar Hunt] - 8266 - 32 - 32huntos@stpatricks.qld.edu.au
+[Caden Gardner] - 8267 - 32 - 32gardnca@stpatricks.qld.edu.au
+[Enrique Cifuentes] - 8268 - 32 - 32cifueen@stpatricks.qld.edu.au
+[Teddy Clark] - 8269 - 32 - 32clarkth@stpatricks.qld.edu.au
+[Parker Cleave] - 8270 - 32 - 32cleavpa@stpatricks.qld.edu.au
+[Tate Young] - 8271 - 32 - 32youngta@stpatricks.qld.edu.au
+[Henry Hart] - 8272 - 32 - 32harthe@stpatricks.qld.edu.au
+[Aston Guest] - 8273 - 32 - 32guestas@stpatricks.qld.edu.au
+[Lennox Wilson] - 8274 - 32 - 32wilsole@stpatricks.qld.edu.au
+[Harrison O'Brien] - 8275 - 32 - 32obrieha@stpatricks.qld.edu.au
+[Jack van der Pluijm] - 8276 - 32 - 32vandja@stpatricks.qld.edu.au
+[Rhys Miller] - 8277 - 32 - 32millerh@stpatricks.qld.edu.au
+[Joshua Titman] - 8278 - 32 - 32titmajo@stpatricks.qld.edu.au
+[Dominic Villanueva] - 8279 - 32 - 32villado@stpatricks.qld.edu.au
+[William Persijn] - 8280 - 32 - 32persiwi@stpatricks.qld.edu.au
+[Flynn Wetherell] - 8281 - 32 - 32wethefl@stpatricks.qld.edu.au
+[Sam Roberts] - 8282 - 32 - 32robersa@stpatricks.qld.edu.au
+[Henry Lawrence] - 8283 - 32 - 32lawrehe@stpatricks.qld.edu.au
+[Liam McNiven] - 8284 - 32 - 32mcnivli@stpatricks.qld.edu.au
+[George Thomas] - 8285 - 32 - 32thomage@stpatricks.qld.edu.au
+[River Weight] - 8286 - 32 - 32weighri@stpatricks.qld.edu.au
+[Elliot Piatti] - 8287 - 32 - 32piattel@stpatricks.qld.edu.au
+[Clay Roberts] - 8288 - 32 - 32robercl@stpatricks.qld.edu.au
+[Finn Simmons] - 8289 - 32 - 32simmofi@stpatricks.qld.edu.au
+[Alfred Kelly] - 8290 - 32 - 32kellyal@stpatricks.qld.edu.au
+[Arlo Harvey] - 8291 - 32 - 32harvear@stpatricks.qld.edu.au
+[Nate Inglis] - 8292 - 32 - 32inglina@stpatricks.qld.edu.au
+[Bodhi Hearnden] - 8293 - 32 - 32hearnbo@stpatricks.qld.edu.au
+[Edward O'Rourke] - 8294 - 32 - 32oroured@stpatricks.qld.edu.au
+[Callum Panayotakis] - 8295 - 32 - 32panayca@stpatricks.qld.edu.au
+[Jaxson Saunders] - 8296 - 32 - 32saundja@stpatricks.qld.edu.au
+[Gray Collins] - 8297 - 32 - 32colligr@stpatricks.qld.edu.au
+[Daniel Kelly] - 8298 - 32 - 32kellyda@stpatricks.qld.edu.au
+[Oscar Spence] - 8299 - 32 - 32spencos@stpatricks.qld.edu.au
+[Xavier Holmes] - 8300 - 32 - 32holmexa@stpatricks.qld.edu.au
+[Isaac Cronin] - 8301 - 32 - 32croniis@stpatricks.qld.edu.au
+[Marcel Rao] - 8302 - 32 - 32raoma@stpatricks.qld.edu.au
+[Jack Morgan] - 8303 - 32 - 32morgaja@stpatricks.qld.edu.au
+[Liam Morgan] - 8304 - 32 - 32morgali@stpatricks.qld.edu.au
+[Edison Rose] - 8305 - 32 - 32roseed@stpatricks.qld.edu.au
+[Ned Steel] - 8306 - 32 - 32steelne@stpatricks.qld.edu.au
+[Heath Pountney] - 8307 - 32 - 32pounthe@stpatricks.qld.edu.au
+[Chase Weller] - 8308 - 32 - 32wellech@stpatricks.qld.edu.au
+[Sebastian Silman] - 8309 - 32 - 32silmase@stpatricks.qld.edu.au
+[Oliver Stewart] - 8310 - 32 - 32stewaol@stpatricks.qld.edu.au
+[Taika Takiari] - 8311 - 32 - 32takiata@stpatricks.qld.edu.au
+[Noah Adamson] - 8312 - 32 - 32adamsno@stpatricks.qld.edu.au
+[Jayden Baird] - 8313 - 30 - 30bairdja@stpatricks.qld.edu.au
+[Henry Batch] - 8314 - 32 - 32batchhe@stpatricks.qld.edu.au
+[JaCobi Brooks] - 8315 - 32 - 32brookja@stpatricks.qld.edu.au
+[Zane Anabtawi] - 8316 - 32 - 32anabtza@stpatricks.qld.edu.au
+[Finnlay Moore] - 8317 - 32 - 32moorefi@stpatricks.qld.edu.au
+[Enrico La Spina] - 8318 - 30 - 30laspien@stpatricks.qld.edu.au
+[Sahibjot Malhi] - 8319 - 32 - 32malhisa@stpatricks.qld.edu.au
+[Parker Manning] - 8320 - 32 - 32mannipa@stpatricks.qld.edu.au
+[Thomas Bronish] - 8321 - 32 - 32bronith@stpatricks.qld.edu.au
+[Sameer Puwar] - 8322 - 32 - 32puwarsa@stpatricks.qld.edu.au
+[Aryan Puwar] - 8323 - 30 - 30puwarar@stpatricks.qld.edu.au
+[Taj Hanna] - 8324 - 32 - 32hannata@stpatricks.qld.edu.au
+[Samuel Hooper] - 8325 - 32 - 32hoopesa@stpatricks.qld.edu.au
+[Abhinav Timsina] - 8326 - 30 - 30timsiab@stpatricks.qld.edu.au
+[Connor Payne] - 8327 - 30 - 30payneco@stpatricks.qld.edu.au
+[Parker Cabrera] - 8328 - 32 - 32cabrepa@stpatricks.qld.edu.au
+[Josaphat Conquest] - 8329 - 30 - 30conqujo@stpatricks.qld.edu.au
+[Hadley Riach] - 8330 - 32 - 32riachha@stpatricks.qld.edu.au
+[Lachlan Weston] - 8331 - 32 - 32westola@stpatricks.qld.edu.au
+[Joshua Callaghan] - 8332 - 32 - 32callajo@stpatricks.qld.edu.au
+[Jarvis Cook] - 8333 - 30 - 30cookja@stpatricks.qld.edu.au
+[Andrew Aluvula] - 8334 - 30 - 30aluvuan@stpatricks.qld.edu.au
+[Gurmanpreet Bhullar] - 8335 - 27 - 27bhullgu@stpatricks.qld.edu.au
+[Carter Cusack] - 8336 - 30 - 30cusacca@stpatricks.qld.edu.au
+[Jacob Adzraku] - 8337 - 30 - 30adzraja@stpatricks.qld.edu.au
+[Benjamin Westcott] - 8338 - 32 - 32westcbe@stpatricks.qld.edu.au
+[Elias Gillott] - 8339 - 30 - 30gilloel@stpatricks.qld.edu.au
+[Sebastian Leeds] - 8340 - 30 - 30leedsse@stpatricks.qld.edu.au
+[Oliver Belgrove] - 8341 - 32 - 32belgrol@stpatricks.qld.edu.au
+[Tyrese Healey] - 8342 - 30 - 30healety@stpatricks.qld.edu.au
+[Advit Gogia] - 8343 - 32 - 32gogiaad@stpatricks.qld.edu.au
+[Foxx Delbridge] - 8344 - 32 - 32delbrfo@stpatricks.qld.edu.au
+[Kai Dawes] - 8345 - 32 - 32daweska@stpatricks.qld.edu.au
+[Alexander Houghton] - 8346 - 32 - 32houghal@stpatricks.qld.edu.au
+[Jamis Rounds] - 8347 - 30 - 30roundja@stpatricks.qld.edu.au
+[Harrison Cattell] - 8348 - 32 - 32catteha@stpatricks.qld.edu.au
+[Saxon Scholes] - 8349 - 32 - 32scholsa@stpatricks.qld.edu.au
+[Oliver McDowell] - 8350 - 32 - 32mcdowol@stpatricks.qld.edu.au
+[Charlie Bale] - 8351 - 32 - 32balech@stpatricks.qld.edu.au
+[Paula Mohenoa] - 8352 - 31 - 31mohenpa@stpatricks.qld.edu.au
+[Harrison Ripp] - 8353 - 29 - 29rippha@stpatricks.qld.edu.au
+[George Wilson] - 8354 - 29 - 29wilsoge@stpatricks.qld.edu.au
+[Zachary Hose] - 8355 - 28 - 28hoseza@stpatricks.qld.edu.au
+[Thomas Gregg] - 8356 - 31 - 31greggth@stpatricks.qld.edu.au
+[Bailey Lokeni] - 8357 - 30 - 30lokenba@stpatricks.qld.edu.au
+[Hugh Winter] - 8358 - 31 - 31wintehu@stpatricks.qld.edu.au
+[Rafael Azzarello] - 8359 - 29 - 29azzarra@stpatricks.qld.edu.au
+[Alfred Strachan] - 8360 - 29 - 29stracal@stpatricks.qld.edu.au
+[Lewis Pascoe] - 8361 - 29 - 29pascole@stpatricks.qld.edu.au
+[Rhys Liquorish] - 8382 - 30 - 30liquorh@stpatricks.qld.edu.au
+[Hunter Liquorish] - 8383 - 32 - 32liquohu@stpatricks.qld.edu.au
+[Quinn Callaghan] - 8418 - 30 - 30callaqu@stpatricks.qld.edu.au
+[Yousif Al-Hayali] - 8425 - 27 - 27alhayyo@stpatricks.qld.edu.au
+[Lachlan McGavin] - 8449 - 29 - 29mcgavla@stpatricks.qld.edu.au
+[Frankie Harvey] - 8468 - 28 - 28harvefr@stpatricks.qld.edu.au
+[William James] - 8469 - 32 - 32jameswi@stpatricks.qld.edu.au
+[Joshua Barsby] - 8470 - 30 - 30barsbjo@stpatricks.qld.edu.au
+[Samuel Tredrea] - 8471 - 27 - 27tredrsa@stpatricks.qld.edu.au
+[Jaden Fourie] - 8472 - 29 - 29fourija@stpatricks.qld.edu.au
+[Kauala Vakauku] - 8490 - 28 - 28vakauka@stpatricks.qld.edu.au
+[Xavier Goodwin] - 8511 - 28 - 28goodwxa@stpatricks.qld.edu.au
+[Magnus De Clercq] - 8843 - 33 - 33declema@stpatricks.qld.edu.au
+[Zac Stewart] - 8844 - 33 - 33stewaza@stpatricks.qld.edu.au
+[Quinn Gribben] - 8845 - 31 - 31gribbqu@stpatricks.qld.edu.au
+[Jeremy Anderson] - 8846 - 31 - 31anderje@stpatricks.qld.edu.au
+[Patrick Hanly] - 8847 - 33 - 33hanlypa@stpatricks.qld.edu.au
+[Lachlan Chapman] - 8848 - 31 - 31chapmla@stpatricks.qld.edu.au
+[Hayden Chapman] - 8849 - 33 - 33chapmha@stpatricks.qld.edu.au
+[Nicholas Riedel] - 8850 - 33 - 33riedeni@stpatricks.qld.edu.au
+[Hugo Caddy] - 8851 - 33 - 33caddyhu@stpatricks.qld.edu.au
+[Sebastian Ellis] - 8852 - 33 - 33ellisse@stpatricks.qld.edu.au
+[Leo McMahon] - 8853 - 33 - 33mcmahle@stpatricks.qld.edu.au
+[Louie Seery] - 8854 - 33 - 33seerylo@stpatricks.qld.edu.au
+[Bennett Kedwell] - 8855 - 33 - 33kedwebe@stpatricks.qld.edu.au
+[Adam Russelhuber] - 8856 - 33 - 33russead@stpatricks.qld.edu.au
+[Parker Perrins] - 8857 - 33 - 33perripa@stpatricks.qld.edu.au
+[Sebastian Pickwell] - 8858 - 31 - 31pickwse@stpatricks.qld.edu.au
+[Ripley Morris] - 8859 - 33 - 33morriri@stpatricks.qld.edu.au
+[Charlie Lawson] - 8860 - 31 - 31lawsoch@stpatricks.qld.edu.au
+[Joseph Williams] - 8861 - 31 - 31willijo@stpatricks.qld.edu.au
+[Sebastian Valcovich] - 8862 - 33 - 33valcose@stpatricks.qld.edu.au
+[Francis Ryan] - 8863 - 33 - 33ryanfr@stpatricks.qld.edu.au
+[Blake Landsberg] - 8864 - 33 - 33landsbl@stpatricks.qld.edu.au
+[Zachary Robertson] - 8865 - 33 - 33roberza@stpatricks.qld.edu.au
+[Dominic Robertson] - 8866 - 33 - 33roberdo@stpatricks.qld.edu.au
+[Hayden Stafford] - 8867 - 33 - 33staffha@stpatricks.qld.edu.au
+[Elliott Jack] - 8868 - 33 - 33jackel@stpatricks.qld.edu.au
+[Hugo Denning] - 8869 - 31 - 31dennihu@stpatricks.qld.edu.au
+[Harvey Clues] - 8870 - 33 - 33cluesha@stpatricks.qld.edu.au
+[Parker Harris] - 8871 - 31 - 31harripa@stpatricks.qld.edu.au
+[Kaylan Gamage] - 8872 - 31 - 31gamagka@stpatricks.qld.edu.au
+[Lachlan Smallbon] - 8873 - 33 - 33smallla@stpatricks.qld.edu.au
+[Fraser Herrod] - 8874 - 33 - 33herrofr@stpatricks.qld.edu.au
+[Parker Brandon] - 8875 - 33 - 33brandpa@stpatricks.qld.edu.au
+[Adam Nicholls] - 8876 - 33 - 33nichoad@stpatricks.qld.edu.au
+[Kaito Bartlett] - 8877 - 33 - 33bartlka@stpatricks.qld.edu.au
+[Kayden Crawford] - 8878 - 31 - 31crawfka@stpatricks.qld.edu.au
+[Clancy Andrews] - 8879 - 33 - 33andrecl@stpatricks.qld.edu.au
+[James Peterson] - 8880 - 31 - 31peterja@stpatricks.qld.edu.au
+[Noah Glover] - 8881 - 31 - 31gloveno@stpatricks.qld.edu.au
+[Arlo Hurrell] - 8882 - 31 - 31hurrear@stpatricks.qld.edu.au
+[Walter Pentis] - 8883 - 31 - 31pentiwa@stpatricks.qld.edu.au
+[Jenson Russo] - 8884 - 33 - 33russoje@stpatricks.qld.edu.au
+[Noah Hovenden MacPherson] - 8885 - 31 - 31hovenno@stpatricks.qld.edu.au
+[Mitchell Reid] - 8886 - 31 - 31reidmi@stpatricks.qld.edu.au
+[Oliver Reid] - 8887 - 33 - 33reidol@stpatricks.qld.edu.au
+[Jackson Gardner] - 8888 - 31 - 31gardnja@stpatricks.qld.edu.au
+[William Woolf] - 8889 - 33 - 33woolfwi@stpatricks.qld.edu.au
+[Frey Adriansson] - 8890 - 33 - 33adriafr@stpatricks.qld.edu.au
+[Jett Adriansson] - 8891 - 33 - 33adriaje@stpatricks.qld.edu.au
+[Quinn Kuys] - 8892 - 33 - 33kuysqu@stpatricks.qld.edu.au
+[Avijot Singh] - 8893 - 31 - 31singhav@stpatricks.qld.edu.au
+[Jacob Curtain] - 8894 - 31 - 31curtaja@stpatricks.qld.edu.au
+[Nuku Baines Framhein] - 8895 - 31 - 31bainenu@stpatricks.qld.edu.au
+[Charles Tauzowski] - 8896 - 33 - 33tauzoch@stpatricks.qld.edu.au
+[Sylas Evans] - 8897 - 33 - 33evanssy@stpatricks.qld.edu.au
+[Brandon Nilsson] - 8898 - 31 - 31nilssbr@stpatricks.qld.edu.au
+[Patrick Amato] - 8899 - 33 - 33amatopa@stpatricks.qld.edu.au
+[Thomas Hooper] - 8900 - 33 - 33hoopeth@stpatricks.qld.edu.au
+[Jeevan Alappatt] - 8901 - 31 - 31alappje@stpatricks.qld.edu.au
+[Theodore Barsby] - 8902 - 31 - 31barsbth@stpatricks.qld.edu.au
+[Brayden Cleary] - 8903 - 31 - 31clearbr@stpatricks.qld.edu.au
+[Ryan Donnelly] - 8904 - 31 - 31donnery@stpatricks.qld.edu.au
+[Patrick Edwards] - 8905 - 31 - 31edwarpa@stpatricks.qld.edu.au
+[Cooper Garven] - 8906 - 31 - 31garveco@stpatricks.qld.edu.au
+[Sebastian Gunn] - 8907 - 31 - 31gunnse@stpatricks.qld.edu.au
+[Oscar Gurung] - 8908 - 31 - 31gurunos@stpatricks.qld.edu.au
+[Levi Hodgkinson] - 8909 - 31 - 31hodgkle@stpatricks.qld.edu.au
+[Javier Inchong] - 8910 - 31 - 31inchoja@stpatricks.qld.edu.au
+[Matthew Joseph] - 8911 - 31 - 31josepma@stpatricks.qld.edu.au
+[Lennox Laritz] - 8912 - 31 - 31laritle@stpatricks.qld.edu.au
+[Christopher Keller] - 8913 - 31 - 31kellech@stpatricks.qld.edu.au
+[James Meyer] - 8914 - 31 - 31meyerja@stpatricks.qld.edu.au
+[Joshua Meyer] - 8915 - 33 - 33meyerjo@stpatricks.qld.edu.au
+[Jack Morgan] - 8916 - 31 - 31morgajac@stpatricks.qld.edu.au
+[Oliver Prout] - 8917 - 31 - 31proutol@stpatricks.qld.edu.au
+[Lachlan Pike] - 8918 - 31 - 31pikela@stpatricks.qld.edu.au
+[Robert Simpson] - 8919 - 31 - 31simpsro@stpatricks.qld.edu.au
+[Thomas Tetlow] - 8920 - 31 - 31tetloth@stpatricks.qld.edu.au
+[Jimmy Whatley Treyvaud] - 8921 - 31 - 31whatlji@stpatricks.qld.edu.au
+[Samuel Vincent] - 8922 - 31 - 31vincesa@stpatricks.qld.edu.au
+[Henry Shaw] - 8923 - 31 - 31shawhe@stpatricks.qld.edu.au
+[Henry Birchall] - 8924 - 31 - 31birchhe@stpatricks.qld.edu.au
+[Samuel Unwin] - 8925 - 31 - 31unwinsa@stpatricks.qld.edu.au
+[Levi Turnbull] - 8926 - 31 - 31turnble@stpatricks.qld.edu.au
+[Carter Dean] - 8927 - 31 - 31deanca@stpatricks.qld.edu.au
+[Jack Dean] - 8928 - 33 - 33deanja@stpatricks.qld.edu.au
+[Mason Norman] - 8929 - 33 - 33normama@stpatricks.qld.edu.au
+[Grayson Green] - 8930 - 31 - 31greengr@stpatricks.qld.edu.au
+[Tong Ngor] - 8931 - 31 - 31ngorto@stpatricks.qld.edu.au
+[Hayden Marsh] - 8932 - 31 - 31marshha@stpatricks.qld.edu.au
+[James Bowman] - 8933 - 33 - 33bowmaja@stpatricks.qld.edu.au
+[Charlie Cervera] - 8934 - 33 - 33cervech@stpatricks.qld.edu.au
+[Lachlan Attard] - 8935 - 33 - 33attarla@stpatricks.qld.edu.au
+[William Gordon] - 8936 - 33 - 33gordowi@stpatricks.qld.edu.au
+[Joonatan Saar] - 8937 - 33 - 33saarjo@stpatricks.qld.edu.au
+[Finn Hayward] - 8938 - 33 - 33haywafi@stpatricks.qld.edu.au
+[Zachary Davis] - 8939 - 33 - 33davisza@stpatricks.qld.edu.au
+[Sebastian Lamont] - 8940 - 33 - 33lamonse@stpatricks.qld.edu.au
+[Ethan Ademokun] - 8941 - 33 - 33ademoet@stpatricks.qld.edu.au
+[Oliver Jacobsen] - 8942 - 33 - 33jacobol@stpatricks.qld.edu.au
+[Nathaniel Morley] - 8943 - 33 - 33morlena@stpatricks.qld.edu.au
+[Hunter Hubbard] - 8944 - 33 - 33hubbahu@stpatricks.qld.edu.au
+[Jude Taylor] - 8945 - 33 - 33tayloju@stpatricks.qld.edu.au
+[Fletcher Kimpton] - 8946 - 33 - 33kimptfl@stpatricks.qld.edu.au
+[Cooper Heagney] - 8947 - 33 - 33heagnco@stpatricks.qld.edu.au
+[Lucas Stevenson] - 8948 - 33 - 33stevelu@stpatricks.qld.edu.au
+[Luke Schuler] - 8949 - 33 - 33schullu@stpatricks.qld.edu.au
+[Elliot Sullivan] - 8950 - 33 - 33sulliel@stpatricks.qld.edu.au
+[Grayson Griffin] - 8951 - 33 - 33griffgr@stpatricks.qld.edu.au
+[Hamish McPhee] - 8952 - 33 - 33mcpheha@stpatricks.qld.edu.au
+[Braxton Utiera] - 8953 - 33 - 33utierbr@stpatricks.qld.edu.au
+[Matteo Utiera] - 8954 - 33 - 33utierma@stpatricks.qld.edu.au
+[John Southby] - 8955 - 33 - 33southjo@stpatricks.qld.edu.au
+[Cooper Clark] - 8956 - 33 - 33clarkco@stpatricks.qld.edu.au
+[Darcy Sanders] - 8957 - 33 - 33sandeda@stpatricks.qld.edu.au
+[Samuel Peter] - 8958 - 33 - 33petersa@stpatricks.qld.edu.au
+[Jett Driutti] - 8959 - 33 - 33driutje@stpatricks.qld.edu.au
+[Leonardo Otte Miller] - 8960 - 33 - 33ottemle@stpatricks.qld.edu.au
+[Jack Gilpin] - 8961 - 33 - 33gilpija@stpatricks.qld.edu.au
+[Brodie Kelly] - 8962 - 33 - 33kellybr@stpatricks.qld.edu.au
+[Giovanni Loschiavo] - 8963 - 33 - 33loschgi@stpatricks.qld.edu.au
+[Van Nilsson] - 8964 - 33 - 33nilssva@stpatricks.qld.edu.au
+[Ethan Burch] - 8965 - 33 - 33burchet@stpatricks.qld.edu.au
+[Samuel Nielsen] - 8966 - 33 - 33nielssa@stpatricks.qld.edu.au
+[Hugo Cole] - 8967 - 33 - 33colehu@stpatricks.qld.edu.au
+[Ayaan Mishra] - 8968 - 33 - 33mishray@stpatricks.qld.edu.au
+[Mason Coope] - 8969 - 33 - 33coopema@stpatricks.qld.edu.au
+[Archie McIver] - 8970 - 33 - 33mcivear@stpatricks.qld.edu.au
+[Riley Corney] - 8971 - 33 - 33corneri@stpatricks.qld.edu.au
+[Bobby Wolfe] - 8972 - 33 - 33wolfebo@stpatricks.qld.edu.au
+[Thomas Dunning] - 8973 - 33 - 33dunnith@stpatricks.qld.edu.au
+[Harvey Matthews] - 8974 - 33 - 33matthha@stpatricks.qld.edu.au
+[Max Manz] - 8975 - 33 - 33manzma@stpatricks.qld.edu.au
+[Thomas Logan] - 8976 - 33 - 33loganth@stpatricks.qld.edu.au
+[Liam Bosnjak] - 8977 - 33 - 33bosnjli@stpatricks.qld.edu.au
+[James Gafney] - 8978 - 33 - 33gafneja@stpatricks.qld.edu.au
+[August Gehrmann] - 8979 - 33 - 33gehrmau@stpatricks.qld.edu.au
+[Kian Jyani] - 8980 - 33 - 33jyaniki@stpatricks.qld.edu.au
+[Liam Halkyard] - 8981 - 33 - 33halkyli@stpatricks.qld.edu.au
+[William Jacks] - 8982 - 33 - 33jackswi@stpatricks.qld.edu.au
+[William Jackson] - 8983 - 33 - 33jackswil@stpatricks.qld.edu.au
+[Taj Nugent] - 8984 - 33 - 33nugenta@stpatricks.qld.edu.au
+[Harry Hayman] - 8985 - 33 - 33haymaha@stpatricks.qld.edu.au
+[Hanish Cherlapally] - 8986 - 33 - 33cherlha@stpatricks.qld.edu.au
+[Oliver Coughlan] - 8987 - 33 - 33coughol@stpatricks.qld.edu.au
+[Riley Whiteoak] - 8988 - 33 - 33whiteri@stpatricks.qld.edu.au
+[Oliver Shepherd] - 8989 - 33 - 33shephol@stpatricks.qld.edu.au
+[Fletcher McKenzie] - 8990 - 33 - 33mckenfl@stpatricks.qld.edu.au
+[Benson Nancarrow] - 8991 - 33 - 33nancabe@stpatricks.qld.edu.au
+[Charlie Jenkins] - 8992 - 33 - 33jenkich@stpatricks.qld.edu.au
+[Jake Nesbitt] - 8993 - 33 - 33nesbija@stpatricks.qld.edu.au
+[Patrick Kearney] - 8994 - 33 - 33kearnpa@stpatricks.qld.edu.au
+[Thomas Cohn] - 8995 - 33 - 33cohnth@stpatricks.qld.edu.au
+[Simon Grisales Ocampo] - 8996 - 33 - 33grisasi@stpatricks.qld.edu.au
+[Patrick Carey] - 8997 - 33 - 33careypa@stpatricks.qld.edu.au
+[Finn Robinson-Henke] - 8998 - 33 - 33robinfi@stpatricks.qld.edu.au
+[James Ryan] - 8999 - 33 - 33ryanja@stpatricks.qld.edu.au
+[Harper Lokeni] - 9000 - 31 - 31lokenha@stpatricks.qld.edu.au
+[Thomas Kearney] - 9001 - 33 - 33kearnth@stpatricks.qld.edu.au
+[Ezekiel Fare] - 9002 - 31 - 31fareez@stpatricks.qld.edu.au
+[Oliver Cleary] - 9003 - 31 - 31clearol@stpatricks.qld.edu.au
+[Ethan Hammond] - 9004 - 31 - 31hammoet@stpatricks.qld.edu.au
+[Eamonn Perry] - 9005 - 33 - 33perryea@stpatricks.qld.edu.au
+[Cooper Herlihy] - 9006 - 33 - 33herlico@stpatricks.qld.edu.au
+[Thomas Neil] - 9007 - 33 - 33neilth@stpatricks.qld.edu.au
+[Eddy Rogers] - 9008 - 33 - 33rogered@stpatricks.qld.edu.au
+[Henry Jaenke] - 9009 - 31 - 31jaenkhe@stpatricks.qld.edu.au
+[Ted Beattie] - 9010 - 31 - 31beattte@stpatricks.qld.edu.au
+[Lachlan Boyd] - 9011 - 31 - 31boydla@stpatricks.qld.edu.au
+[Omar Gazawi] - 9012 - 31 - 31gazawom@stpatricks.qld.edu.au
+[Theo Fenwick] - 9013 - 31 - 31fenwith@stpatricks.qld.edu.au
+[Beeson Aryal] - 9014 - 31 - 31aryalbe@stpatricks.qld.edu.au
+[Mataeo Te Muunu] - 9015 - 31 - 31temuuma@stpatricks.qld.edu.au
+[Will Kinghorn] - 9016 - 31 - 31kinghwi@stpatricks.qld.edu.au
+[Oliver Bagdonas] - 9017 - 33 - 33bagdool@stpatricks.qld.edu.au
+[Cohen Vanderkly] - 9018 - 32 - 32vandeco@stpatricks.qld.edu.au
+[Dominic Delfos] - 9019 - 33 - 33delfodo@stpatricks.qld.edu.au
+[Chase Milkovic] - 9020 - 32 - 32milkoch@stpatricks.qld.edu.au
+[Gurshan Gill] - 9021 - 31 - 31gillgu@stpatricks.qld.edu.au
+[Aviraj Singh Goraya] - 9022 - 31 - 31gorayav@stpatricks.qld.edu.au
+[Gursamar Dhanda] - 9023 - 31 - 31dhandgu@stpatricks.qld.edu.au
+[Ridley Hepburn] - 9024 - 33 - 33hepburi@stpatricks.qld.edu.au
+[Noah Watson] - 9025 - 31 - 31watsono@stpatricks.qld.edu.au
+[Oliver Dowsett] - 9026 - 31 - 31dowseol@stpatricks.qld.edu.au
+[Alfie Dowsett] - 9027 - 32 - 32dowseal@stpatricks.qld.edu.au
+[Leon Jeong] - 9028 - 33 - 33jeongle@stpatricks.qld.edu.au
+[Lachlan Teed] - 9029 - 33 - 33teedla@stpatricks.qld.edu.au
+[Jaxon Land] - 9030 - 31 - 31landja@stpatricks.qld.edu.au
+[Alexander Perro] - 9031 - 31 - 31perroal@stpatricks.qld.edu.au
+[Leo Turner] - 9032 - 33 - 33turnele@stpatricks.qld.edu.au
+[Nicholas Marin] - 9033 - 33 - 33marinni@stpatricks.qld.edu.au
+[Xavier Limbach] - 9034 - 33 - 33limbaxa@stpatricks.qld.edu.au
+[Karanprit Dhindsa] - 9035 - 29 - 29dhindka@stpatricks.qld.edu.au
+[Henry Bray] - 9036 - 33 - 33brayhe@stpatricks.qld.edu.au
+[Mateo Carson] - 9037 - 31 - 31carsoma@stpatricks.qld.edu.au
+[Gurfateh Singh] - 9038 - 31 - 31singhgu@stpatricks.qld.edu.au
+[Alexander Yap] - 9039 - 31 - 31yapal@stpatricks.qld.edu.au
+[Noah Goldspink] - 9040 - 33 - 33goldsno@stpatricks.qld.edu.au
+[Max Weder] - 9041 - 31 - 31wederma@stpatricks.qld.edu.au
+[Isaiah Denny] - 9042 - 31 - 31dennyis@stpatricks.qld.edu.au
+[Ryan Sigdel] - 9043 - 29 - 29sigdery@stpatricks.qld.edu.au
+[Jonathon Mee] - 9044 - 30 - 30meejo@stpatricks.qld.edu.au
+[Aaron Vizer] - 9045 - 33 - 33vizeraa@stpatricks.qld.edu.au
+[Koby Brackstone] - 9046 - 31 - 31brackko@stpatricks.qld.edu.au
+[Grayson Colegate] - 9047 - 33 - 33coleggr@stpatricks.qld.edu.au
+[Mikeal Muir] - 9048 - 33 - 33muirmi@stpatricks.qld.edu.au
+[Cooper Lawson] - 9049 - 30 - 30lawsoco@stpatricks.qld.edu.au
+[Quinn Ogilvie] - 9050 - 30 - 30ogilvqu@stpatricks.qld.edu.au
+[Sam Fox] - 9051 - 27 - 27foxsa@stpatricks.qld.edu.au
+[Dwyer Fox] - 9052 - 32 - 32foxdw@stpatricks.qld.edu.au
+[Carter Beck] - 9053 - 29 - 29beckca@stpatricks.qld.edu.au
+[Flynn Chiapello] - 9054 - 28 - 28chiapfl@stpatricks.qld.edu.au
+[Maxwell Smith] - 9055 - 27 - 27smithma@stpatricks.qld.edu.au
+[Clancy Bishop] - 9056 - 33 - 33bishocl@stpatricks.qld.edu.au
+[Matthew Fleming] - 9101 - 30 - 30flemima@stpatricks.qld.edu.au
+[Patrick Lawler] - 9128 - 32 - 32lawlepa@stpatricks.qld.edu.au
+[Anshel Arun] - 9129 - 27 - 27arunan@stpatricks.qld.edu.au
+[Kaiden Burton-Demmers] - 9149 - 27 - 27burtoka@stpatricks.qld.edu.au
+[Korey McGreevy] - 9162 - 28 - 28mcgreko@stpatricks.qld.edu.au
+[Ethan Martin] - 9172 - 29 - 29martiet@stpatricks.qld.edu.au
+[Joshua Cook] - 9173 - 29 - 29cookjo@stpatricks.qld.edu.au
+[Alfred McGowan] - 9174 - 32 - 32mcgowal@stpatricks.qld.edu.au
